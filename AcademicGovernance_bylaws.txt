@@ -1,0 +1,513 @@
+MICHIGAN STATE UNIVERSITY
+BYLAWS FOR ACADEMIC GOVERNANCE
+Approved by the Board of Trustees
+June 18, 2010, Effective Fall 2011
+Amended and Approved by the Board of Trustees 4/15/11, 1/31/12, 9/7/12, 6/22/12, 6/21/13, 12/13/13, 4/15/16 and
+6/21/17
+ The Bylaws for Academic Governance is published by the Office of the Secretary for Academic Governance, W32 Owen Graduate Hall, 517-355-2337 acadgov@msu.edu/www.acadgov.msu.edu
+  
+TABLE OF CONTENTS
+PREAMBLE ............................................................................................................................................................. 3
+SECTION 1. DEFINTIONS.........................................................................................................................................4
+1.1. THE FACULTY ......................................................................................................................................................4 1.2. THE STUDENTS ...................................................................................................................................................5 1.3. MODES OF PARTICIPATION ................................................................................................................................6 1.4. SPECIAL RULES....................................................................................................................................................6
+SECTION 2. ACADEMIC GOVERNANCE IN SCHOOLS, COLLEGES, AND OTHER ACADEMIC UNITS ............................. 7
+2.1. UNIT ACADEMIC ADMINISTRATORS ...................................................................................................................7 2.2. UNIT ACADEMIC GOVERNANCE .........................................................................................................................8
+SECTION 3. UNIVERSITY ACADEMIC GOVERNANCE .............................................................................................. 10
+3.1. THE ACADEMIC CONGRESS...............................................................................................................................10 3.2. THE UNIVERSITY COUNCIL ................................................................................................................................11 3.3. THE FACULTY SENATE .......................................................................................................................................15 3.4. THE STEERING COMMITTEE..............................................................................................................................18 3.5. OFFICE OF ACADEMIC GOVERNANCE ...............................................................................................................21
+SECTION 4. UNIVERSITY STANDING COMMITTEES ............................................................................................... 22
+4.1. ESTABLISHMENT OF STANDING COMMITTEES. : .............................................................................................22 4.2. GENERAL RULES GOVERNING STANDING COMMITTEES ..................................................................................22 4.3. UNIVERSITY COMMITTEE ON ACADEMIC GOVERNANCE .................................................................................24 4.4. UNIVERSITY COMMITTEE ON UNDERGRADUATE EDUCATION.........................................................................25 4.5. UNIVERSITY COMMITTEE ON CURRICULUM ....................................................................................................26 4.6. UNIVERSITY COMMITTEE ON FACULTY AFFAIRS ..............................................................................................27 4.7. UNIVERSITY COMMITTEE ON FACULTY TENURE...............................................................................................28 4.8. UNIVERSITY COMMITTEE ON GRADUATE STUDIES ..........................................................................................28 4.9. UNIVERSITY COMMITTEE ON STUDENT AFFAIRS..............................................................................................29
+SECTION 5. OTHER UNIVERSITY LEVEL COMMITTEES ........................................................................................... 31
+5.1. UNIVERSITY COUNCIL ADVISORY-CONSULTATIVE COMMITTEES .....................................................................31 5.2. ATHLETIC COUNCIL...........................................................................................................................................31 5.3. FACULTY HEALTHCARE COUNCIL......................................................................................................................33 5.4. AD HOC COMMITTEES OF THE UNIVERSITY COUNCIL.......................................................................................34
+SECTION 6. UNIVERSITY STUDENT-FACULTY JUDICIARIES .................................................................................... 35
+6.1. STUDENT-FACULTY HEARING BOARD...............................................................................................................35 6.2. UNIVERSITY GRADUATE JUDICIARY ..................................................................................................................35 6.3. UNIVERSITY ACADEMIC INTEGRITY HEARING BOARD ......................................................................................35 6.4. UNIVERSITY STUDENT APPEALS BOARD ...........................................................................................................35
+SECTION 7. ADMINISTRATIVE SUPPORT OF ACADEMIC GOVERNANCE ................................................................ 37 SECTION 8. INTERPRETATION AND AMENDMENT ................................................................................................ 38
+2
+
+PREAMBLE
+Under its bylaws and Michigan’s Constitution, the Board of Trustees has the responsibility to develop a free and distinguished university and to promote the welfare of mankind through teaching, research, and public service. The Board of Trustees exercises final authority and responsibility for University governance within the bounds fixed by the State Constitution.
+In exercising its responsibility, the Board delegates to the President and, through him or her, to the faculty appropriate authority and jurisdiction over matters for which they are accountable to the Board. In other cases, for example, faculty appointments, promotions, and tenure, the Board does not delegate, but instead looks to the faculty for recommendations. The specific powers delegated to the faculty are detailed in the Bylaws of the Board of Trustees.
+The Board also has declared its intention to give due consideration to the opinions of students on matters directly related to their interest.
+It is important to specify the manner and process by which the faculty and students develop and communicate their views to the President and the Board. These Bylaws for Academic Governance (Bylaws) are designed to provide an effective system for the participation of faculty and students in the development of policy on academic matters.
+  3
+
+SECTION 1. DEFINTIONS
+1.1. THE FACULTY
+1.1.1. Composition of the Faculty
+1.1.1.1. The regular faculty shall consist of all persons appointed under the rules of tenure and holding the rank of professor, associate professor, or assistant professor, and all persons appointed as librarians.
+1.1.1.2. The fixed-term faculty shall consist of all persons holding the rank of professor, associate professor, assistant professor, or instructor, but not appointed under the rules of tenure.
+1.1.1.3. The health professions faculty shall consist of all faculty appointed in the Health Programs Faculty Appointment System who hold the rank of professor, associate professor, or assistant professor in the College of Human Medicine, Nursing, Osteopathic Medicine, or Veterinary Medicine.
+1.1.1.4. The Facility for Rare Isotope Beams/National Superconducting Cyclotron Laboratory (FRIB/NSCL) faculty shall consist of all faculty appointed in the FRIB/NSCL Faculty Appointment System holding the rank of professor, associate professor, or assistant professor.
+1.1.1.5. The honorary faculty shall consist of visiting professors and professors emeriti.
+1.1.1.6. The foregoing provisions do not preclude Presidential action to bestow certain “faculty privileges” upon employees of the University who are not members of the faculty.
+1.1.2. Faculty Voting Rights
+1.1.2.1. The voting faculty in the election of University-level councils and committees shall be all regular faculty, health professions faculty, and FRIB/NSCL faculty. Voting faculty also includes full-time fixed-term faculty who have served at least three consecutive years and who are engaged in the academic activities of the University.
+1.1.2.2. The voting faculty in the election of department, school, or college councils and committees and in elections pertaining to department, school, or college policies and decisions shall include all regular faculty engaged in the academic activities of that unit and may, if so provided by unit bylaws, also include health professions faculty, FRIB/NSCL faculty, fixed-term faculty, honorary faculty, specialists, lecturers, research associates, assistant instructors, or adjunct faculty.
+1.1.2.3. A faculty member jointly appointed to two or more units may vote only once in a given election. In elections voted upon by two or more units, the faculty member shall vote in the unit which has primary responsibility for initiating personnel action, with respect to that faculty member.
+4
+
+1.1.2.4. A regular faculty member, health professions faculty member, or FRIB/NSCL faculty member may be elected to an academic governance body as a representative of any unit in which that faculty member holds faculty status.
+1.1.2.5. A full-time fixed-term faculty member who has served at least three consecutive years or a specialist in the continuing appointment system may be elected to an academic governance body, with the exception of the University Committee on Faculty Tenure, as a representative of any unit in which the person holds faculty status.
+1.2. THE STUDENTS
+1.2.1. Student Constituency of the University
+1.2.1.1. The student constituency shall consist of all persons officially enrolled as students in the University except those who are also defined as faculty in 1.1.1. A person who has enrolled for two consecutive semesters may retain student status for one semester when not enrolled, if the person has not been awarded a degree, enrolled as a degree candidate at another college or university, or been withdrawn or recessed by the University.
+1.2.1.2. Students who are enrolled in graduate non-degree programs, as candidates for graduate degrees, or as candidates for graduate-professional degrees, shall be deemed graduate students for purposes of these Bylaws.
+1.2.1.3. All other students shall be deemed undergraduate students. 1.2.2. Student Constituency of an Academic Unit
+1.2.2.1. The student constituency of a unit for the purpose of selecting student representatives from that unit to serve on higher unit committees shall be all students who have declared with the Registrar a major or major preference (in the case of lower-division students) in an academic program in the unit.
+1.2.2.2. The student constituency for purposes, other than that specified in 1.2.2.1, shall be all students who have declared a major or major preference in an academic program in the unit and may include other students as specified in the bylaws of the unit.
+1.2.3. Student Participation in Academic Governance
+1.2.3.1. Student participation in an academic governance body shall in all cases be in the same mode as faculty participation, except for matters reserved to the faculty. The matters reserved to the faculty are:
+1.2.3.1.1. Policy concerning salary, leaves, insurance, retirement, and fringe benefits of faculty.
+1.2.3.1.2. Decisions concerning the appointment, salary, reappointment, promotion, tenure, or dismissal of individual faculty members.
+  5
+
+1.2.3.1.2.1. Evidence from students regarding the teaching performance of faculty may, as relevant, be considered in decisions concerning the above matters.
+1.2.3.1.3. Matters affecting the professional responsibility of the faculty to establish and maintain the intellectual authority of the University.
+1.3. MODES OF PARTICIPATION
+There are four modes of faculty and student participation identified for use in academic governance.
+1.3.1. Consultation—A body of faculty or students consults with and informs an administrator who has authority and responsibility to make a decision. Such a committee is not a deliberative body; it does not vote. Rather, the members express their views to inform an administrator’s decision.
+1.3.2. Advisory—A deliberative body of faculty or students recommends policies to an administrator who is authorized to make decisions. The administrator is not bound by the recommendations and accepts responsibility for the decisions.
+1.3.3. Shared Responsibility—A deliberative body of faculty or students makes recommendations to an administrator. If the administrator and deliberative body cannot agree and action must be taken, the recommendations of the administrator and the deliberative body will be submitted in writing to the appropriate administrator at the next higher administrative level for decisions by that administrator.
+1.3.4. Delegated Authority—A deliberative body of faculty or students is authorized to make decisions on specified matters. Such decisions are subject to administrative review, but will be altered only in exceptional circumstances.
+1.4. SPECIAL RULES
+1.4.1. Ex-officio membership. Except as limited or prohibited in these Bylaws, ex- officio members of governance bodies—those who serve on the body by virtue of an office held—have both voice and vote.
+1.4.2. Designees. Except as limited or prohibited in these Bylaws, a designee may serve in the stead of a member of a governance body who is absent from a meeting. Such designees must have the same eligibility and constituency as the replaced member, and shall have the same rights and privileges as the member replaced. The attendance record of a member who provides a designee shall be unaffected.
+1.4.3. Absences and removal. Members who fail to attend two meetings in a semester, or three meetings in a single academic year, of a particular governance body designated in these Bylaws, and who also fail to provide designees in their absences, shall be removed from the governance body, reducing its quorum until the members are replaced by procedures specific to the bodies.
+6
+
+SECTION 2. ACADEMIC GOVERNANCE IN SCHOOLS, COLLEGES, AND OTHER ACADEMIC UNITS
+2.1. UNIT ACADEMIC ADMINISTRATORS
+2.1.1. Academic units are those departments, schools, colleges, and other administrative units whose primary function is education, research, or creative endeavor.
+2.1.2. An academic administrator is a faculty member who has authority and responsibility delegated by the President and the Board of Trustees for the administration of a unit. Administrative officers of the major education and research units of the University shall be members of the regular faculty, health professions faculty, or FRIB/NSCL faculty, except deans who shall be members of the regular faculty.
+2.1.2.1. A department chairperson or school director serves as the chief representative of his or her department or school within the University. He or she is responsible for the unit’s educational, research, and service programs— including the outreach components of all three; budgetary matters, academic facilities, and personnel matters, taking into account the advisory procedures of the unit. The chairperson or director has a special obligation to build a department or school strong in scholarship, teaching capacity, and service.
+2.1.2.2. The deans and directors of other academic units separately reporting to the Provost are responsible for educational, research, and service programs of their units. This responsibility includes budgetary matters, academic facilities, and personnel matters in the unit, taking into account the advisory procedures of the unit.
+2.1.3. Faculty and students shall advise or consult in the appointment of unit academic administrators.
+2.1.3.1. The voting faculty of each department or school shall have shared responsibility with the relevant dean to determine procedures for the nomination of chairpersons and directors to be selected by the Provost.
+2.1.3.2. The voting faculty of each college, as represented by the faculty members of the College Advisory Committee, shall have shared responsibility with the Provost to determine procedures for the nomination of that college’s deans.
+2.1.3.3. The nomination to the Provost of assistant and associate academic unit administrators shall be the responsibility of the academic administrator to whom they directly report.
+2.1.4. Chairpersons, directors, and deans shall be subject to regular review at intervals not to exceed five years.
+2.1.4.1. The College Advisory Committee of each college shall have shared responsibility with the Provost to determine procedures for the review of that college’s dean.
+7
+
+2.1.4.2. At intervals not to exceed five years, the dean shall review each chairperson or school director in that college.
+2.1.4.3. A department or school faculty shall have shared responsibility with its dean on procedures for review of a chairperson or school director.
+2.1.4.4. There is no limit on how long an individual may continue in the position of dean, chairperson, or school director. The same rule applies to deans and directors of separately reporting units.
+2.1.4.5. The appointment of a dean, chairperson, or director, as such, may be terminated at any time by resignation or by action of the President upon the recommendation of the Provost.
+2.1.5. Academic administrators shall participate in academic governance as part of their administrative responsibilities.
+2.1.5.1. Academic administrators shall inform faculty and students of administration policies through the academic governance system as well as through other channels they deem appropriate.
+2.1.5.2. Academic administrators shall receive the views of faculty and students through the academic governance system, as well as through other channels they deem appropriate, in determining policies and in advising other administrators of the University.
+2.1.5.3. Academic administrators shall comply with these Bylaws and the bylaws of their academic units.
+2.1.5.4. Academic administrators shall assist and encourage the efficient and effective operation of academic governance.
+2.2. UNIT ACADEMIC GOVERNANCE
+2.2.1. The voting faculty of each academic unit shall have shared responsibility with the administrator to adopt and publish bylaws, provided they are in conformity with these Bylaws.
+2.2.2. Academic unit bylaws shall be reviewed at intervals not to exceed five years.
+2.2.2.1. The bylaws of schools and departments shall be reviewed by appropriate college committees. The decisions of such committees can be appealed to the University Committee on Academic Governance.
+2.2.2.2. The bylaws of colleges and other academic units that are not part of a college shall be reviewed by the University Committee on Academic Governance. Decisions of the Committee can be appealed to the University Council.
+2.2.3. The bylaws of academic units with responsibilities for undergraduate or graduate education shall include procedures for the participation of students in the decision- making processes by which policy is formed.
+2.2.3.1. The students in each unit who have declared a major or major preference in an academic program in the unit shall be responsible for selecting, according to
+8
+
+procedures of their own choice, their representatives to councils and committees, as specified in unit bylaws, pursuant to 1.1.2.1.
+2.2.3.2. Each unit’s bylaws shall specify the student constituency of that unit, pursuant to 1.1.2.1 and 1.1.2.2.
+2.2.4. Unit bylaws shall provide that the unit administrator, or the unit administrator’s designee, shall generally be present at meetings of academic governance bodies in the unit.
+2.2.5. The bylaws of each college shall provide for a College Advisory Committee of faculty and students or separate college advisory committees to serve as means of participation by faculty and students in the policy-making of the college. The composition of each College Advisory Committee shall be representative of that college’s diverse academic interests.
+2.2.5.1. Each College Advisory Committee shall ensure that at least two of its members are members of the Faculty Senate, selecting—if necessary—from among the college representatives to the University Council one person to serve as an ex-officio member, without vote, of the College Advisory Committee. See 3.3.1.2.1.
+2.2.5.2. Each College Advisory Committee shall elect its own chairperson.
+2.2.5.3. Each College Advisory Committee shall publish minutes of its meetings.
+2.2.6. The jurisdiction of unit-level academic governance shall include matters within the jurisdiction of University-level academic governance, provided that such matters are within the administrative authority of that academic unit.
+2.2.7. Unit academic governance shall have jurisdiction over other matters, as provided in other University policies and legislation, e.g., of Student Rights and Responsibilities at Michigan State University (SRR), Graduate Student Rights and Responsibilities, Medical Students Rights and Responsibilities, and the Faculty Grievance Policy.
+2.2.8. Academic unit bylaws shall specify the modes of participation (1.3) for matters within the jurisdiction of unit academic governance. The modes of participation specified at the University level shall be the model that guides, but does not necessarily determine, the modes of participation at the academic unit level.
+          9
+
+SECTION 3. UNIVERSITY ACADEMIC GOVERNANCE
+3.1. THE ACADEMIC CONGRESS
+3.1.1. Composition of the Academic Congress
+3.1.1.1. The voting membership of the Academic Congress shall be the voting faculty as defined in 1.1. including the President and Provost. Honorary faculty shall be members with voice but without vote. The presiding officer may vote to break a tie.
+3.1.1.2. The Chairperson of the Faculty Senate shall serve as the Chairperson of the Academic Congress. The Vice Chairperson of Faculty Senate shall serve as the Vice Chairperson of the Academic Congress.
+3.1.1.3. The Chairperson presides at all meetings of the Academic Congress. In the absence of the Chairperson, the Vice Chairperson will preside at the meeting of the Academic Congress.
+3.1.1.4. The Secretary for Academic Governance shall also serve as Secretary of the Academic Congress.
+3.1.2. Functions of the Academic Congress
+3.1.2.1. The Academic Congress will deliberate and endorse or reject items, and then refer them back to the originating body.
+3.1.2.2. The Academic Congress shall also serve as a forum for the dissemination and exchange of ideas and information between the faculty and the administration.
+3.1.3. Methods of Calling the Academic Congress
+3.1.3.1. Meetings of the Academic Congress can be called into session by a majority vote of the faculty representatives of The Steering Committee or by the President.
+3.1.3.2. The Academic Congress must be called into session to consider specific referred items when one of the following actions occur:
+3.1.3.2.1. A petition to call the Academic Congress into session to consider an item is endorsed by at least 20 percent of the voting members of the Academic Congress. The petition must include a description of the item that is referred for consideration.
+3.1.3.2.2. At least 50 percent plus one of the voting members of the University Council or the Faculty Senate vote to call the Academic Congress into session to consider an item. The resolution must include a description of the item that is referred for consideration.
+3.1.3.2.3. At least 50 percent plus one of the voting members at an official meeting of the Academic Congress at which a quorum is present vote to call the Academic Congress into session to consider an item. In this case, another meeting may be called only to consider items from the original agenda.
+ 10
+
+3.1.4. Quorum
+3.1.4.1. A quorum of 10 percent of its voting membership plus one is necessary for the Academic Congress to consider action items that are referred to it.
+3.1.4.2. In the event a quorum is not present, items that are referred to the Academic Congress from the Faculty Senate or the University Council (3.1.3.2.2) will be returned to the referring body for action.
+3.1.4.3. In the event a quorum is not present, items referred to the Academic Congress for consideration by petition (3.1.3.2.1) will be referred to the Faculty Senate for consideration.
+3.1.4.4. When the Academic Congress acts as a forum for the interchange of ideas and information, a quorum is not required. Notes will be kept of such sessions.
+3.1.5. Academic Congress Agendas and Minutes
+3.1.5.1. The agendas for Academic Congress will be set by The Steering Committee, in consultation with the President. However, if the Academic Congress was called into session by referral from the Faculty Senate or the University Council or by petition, The Steering Committee will include the referred item on the agenda. Agendas will be publicly available and circulated at least one week before the meeting.
+3.1.5.2. Minutes of Academic Congress meetings shall be distributed to all members of the Academic Congress and the University Council.
+3.2. THE UNIVERSITY COUNCIL
+3.2.1. Composition of the University Council. The University Council shall be composed of the members of Faculty Senate, selected pursuant to 3.3.1, the Appointed Council, all faculty serving as Chairpersons of College Advisory Committees, the Chairperson of the Athletic Council, members of the Associated Students of Michigan State University (ASMSU) selected pursuant to 3.2.3.1, members of the Council of Graduate Students (COGS) selected pursuant to 3.2.3.2, Chairpersons of University-level Standing Committees, The Steering Committee, the President, the Provost, and designated ex-officio members in 3.2.1.2.
+3.2.1.1. The Appointed Council shall be composed of all Deans, the Director of Libraries, the Director of the FRIB, the President, and the Provost.
+3.2.1.2. The University Council shall have the following ex-officio members: Vice President for Student Affairs and Services; Vice President for Research and Graduate Studies; Vice President for Information Technology; the associate provosts; University Registrar; Athletic Council Chairperson; Faculty Grievance Official; Secretary for Academic Governance, and Ombudsperson. One representative of the faculty emeriti will serve ex officio with voice, but no vote.
+3.2.2. Chairperson and Vice Chairperson of the University Council
+3.2.2.1. The Chairperson of University Council is the President. The Chairperson will preside at all meetings of University Council.
+      11
+
+3.2.2.2. The Vice Chairperson of University Council is the Provost. The Vice Chairperson will preside at meetings of University Council when the Chairperson is not in attendance.
+3.2.2.3. When both the Chairperson and the Vice Chairperson of the University Council cannot be in attendance at a meeting of University Council, the Chairperson will designate an individual to preside at that meeting.
+3.2.3. The Voting Members of the University Council shall be the faculty representatives elected as members of the Faculty Senate, ASMSU and COGS student representatives, designated members of University-level Standing Committees, voting members of The Steering Committee, and the members of the Appointed Council.
+3.2.3.1. ASMSU shall select a number of undergraduate student representatives to the University Council equal to one-third (1/3) of the total voting membership of the University Council. The number of representatives shall be rounded to the nearest integer. The overall selection shall ensure balanced collegiate representation.
+3.2.3.1.1. Undergraduate student representatives to the University Council shall be chosen according to procedures established by the constitution of ASMSU and shall be chosen such that the diversity of the delegation is ensured.
+3.2.3.2. COGS shall select a number of graduate representatives to the University Council equal to three-fiftieths (3/50) of the total voting membership of the body. The number of representatives shall be rounded to the nearest integer. No more than one graduate representative may be from a single department, with consideration being given to University wide representation insofar as possible.
+3.2.3.2.1. Graduate student representatives to the University Council shall be chosen according to procedures established by the constitution of COGS and shall be chosen to ensure the diversity of the delegation.
+3.2.4. Functions of the University Council
+3.2.4.1. The University Council brings together faculty, student, and administration representatives to discuss issues that involve the entire University. While the Faculty Senate may seek input from the University Council on proposals regarding curricular issues, faculty tenure and promotion issues, and faculty salary and benefits issues, the primary focus of discussion in the University Council is on other issues that are not the core responsibility of the Faculty Senate.
+3.2.4.2. The University Council shall consider and act upon all matters within its purview brought before it by The Steering Committee, shall consider and act upon all matters brought before it by the President or Provost, and shall provide a forum for the dissemination of information and exchange of views regarding University policy.
+12
+
+3.2.4.3. The University Council shall consider all major issues related to educational policy. The mode of participation shall be that which is specified on the matter in the ascription of functions to University-level Standing Committees (4.3– 4.9).
+3.2.4.4. The University Council’s role is to communicate its views on key issues facing the University.
+3.2.4.5. The University Council may refer items to the Academic Congress for consideration and action.
+3.2.4.6. The University Council may consult on any other matter pertaining to the general welfare of the University.
+3.2.4.7. The University Council shall propose procedures to the Board of Trustees for the participation of faculty and students in the selection of the President.
+3.2.4.8. The University Council shall develop procedures acceptable to the President for the participation of faculty and students in the selection of administrators of University-level units who are involved in the administration of policies significantly affecting the academic programs of the University.
+3.2.4.8.1. These administrative positions are the Provost, the Vice President for Research and Graduate Studies, the Vice President for Student Affairs and Services, the Dean of Undergraduate Studies, the Dean of The Graduate School, the Dean of International Studies and Programs, the Director of Libraries, and the Dean of the Honors College.
+3.2.4.9. Except for the Board of Trustees, the University Council shall be the final authority with regard to the interpretation of these Bylaws (4.3.4).
+3.2.4.10. The University Council may propose, by majority vote, changes in these Bylaws (0).
+3.2.4.11. The University Council shall act on amendments to these Bylaws. Proposed amendments can originate from the University Council itself, from the Faculty Senate, or from University-level Standing Committees through referral to the University Committee on Academic Governance.
+3.2.5. University-level Standing Committees Reporting to University Council
+3.2.5.1. University-level Standing Committees that deal predominantly with issues other than the curriculum and faculty life (e.g., tenure and promotion, salary, benefits) report to University Council. Such committees include the University Committee on Student Affairs, the University Committee on Undergraduate Education, the University Committee on Graduate Studies, and the University Committee on Academic Governance.
+3.2.5.2. The Athletic Council reports to the University Council. The form and frequency of its reporting will be determined by The Steering Committee, but in no case will the frequency of reporting be less than once each academic year. The Athletic Council, through its chairperson, will also respond within a reasonable time to questions asked by the University Council.
+    13
+
+3.2.6. Procedures of the University Council
+3.2.6.1. The President or, in the President’s absence, the Provost, shall preside at meetings of the University Council. The Secretary for Academic Governance shall be Secretary of the University Council and shall serve as a non-voting ex- officio member of the University Council.
+3.2.6.2. The University Council shall normally meet at least once each month during the academic year. The President or The Steering Committee may also call a special meeting of the University Council. The Steering Committee may cancel a University Council meeting if there are no agenda items that must be considered. The Steering Committee shall prepare the agenda for each University Council meeting. Each meeting agenda will include an item enabling new business to be introduced from the floor. The agenda will be publicly available and circulated at least one week prior to the meeting to which it relates. The meetings of the University Council shall be open. Observers shall be seated separately.
+3.2.6.3. A quorum for conducting the business of the University Council is 50 percent plus one.
+3.2.6.4. On all recommendations concerning major academic policies, a University- level Standing Committee report, or a brief summary thereof compiled by the committee chairperson, shall be made publicly available at the time it is submitted to the University Council.
+3.2.6.5. The Faculty Senate, the Appointed Council (3.2.1.1), ASMSU, or COGS may, by a majority vote of those present and voting, refer matters to the University Council. Such recommendations shall be placed on the agenda of the University Council by The Steering Committee.
+3.2.6.6. The University Council shall establish its own rules and procedures. The Faculty Senate, ASMSU, and COGS shall keep minutes of their meetings, which shall be made public through the Academic Governance website.
+3.2.7. Functions of ASMSU
+3.2.7.1. ASMSU shall consider and act upon all recommendations to University Council regarding student academic rights and responsibilities and judicial procedures; upon any proposed amendment to or revision of Student Rights and Responsibilities at Michigan State University (SRR) prior to its consideration by University Council; upon all matters brought before it by the President, the Provost, or the Vice President for Student Affairs and Services; and upon all matters on which its constitution requires such action.
+3.2.7.2. On any matter brought before ASMSU the mode of participation shall be that which is specified on the matter in the ascription of functions to University- level Standing Committees (4.3–4.9).
+3.2.8. Functions of COGS
+3.2.8.1. COGS shall consider and act upon all recommendations to University Council regarding student academic rights and responsibilities and judicial
+    14
+
+procedures; upon any amendment to or revision of the SRR, and Graduate Student Rights and Responsibilities prior to its consideration by University Council; upon all matters brought before it by the President, the Provost, or the Vice President for Student Affairs and Services; and upon all matters on which its constitution requires such action.
+3.2.8.2. On any matter brought before COGS, the mode of participation shall be that which is specified on the matter in the ascription of functions to University- level Standing Committees (4.3–4.9).
+3.3. THE FACULTY SENATE
+3.3.1. Composition of the Faculty Senate
+3.3.1.1. The first contingent of voting members of the Faculty Senate will be composed of faculty representatives from each college at the University. The college advisory committee/council in each college will conduct the election of that college’s representatives. The Secretary for Academic Governance will oversee the elections.
+3.3.1.2. Elected Faculty Representatives
+3.3.1.2.1. Each college shall have at least two representatives, one of whom will be the Chairperson of the College Advisory Committee. Each college shall have one additional representative for every additional fifty voting faculty in excess of one hundred (1.1.2.1) not to exceed five total representatives. Each college with three or more representatives shall have at least one non-tenured faculty member among its representatives. See 2.2.5.1.
+3.3.1.2.2. For purposes of determining the number of elected representatives on the Faculty Senate to which a college is entitled, the number of voting faculty (1.1.2.1), shall be the total number of faculty for whom the academic units in the college have primary responsibility for initiating personnel actions (1.1). For purposes of determining the number of faculty members required for the conduct of governance in accordance with these Bylaws, the census of the voting faculty will be provided to the Secretary for Academic Governance by the Office of the Provost no later than October 1 of each year.
+3.3.1.2.3. Each college’s faculty representatives shall be elected at-large during the spring semester by ballot supervised by the College Advisory Committee. A department or school may not have more than one representative unless the college’s departments are so few that such a limitation would reduce the college’s representatives to the Faculty Senate as determined by 3.3.1.2.2. Nomination procedures shall be stated in college bylaws.
+3.3.1.2.4. All regular faculty members of the University who are not represented through colleges (non-college faculty) or who are not otherwise named in the membership of the Faculty Senate shall have representation as
+         15
+
+specified for colleges in 3.3.1.2.2 and 3.3.1.2.3. The Secretary for Academic Governance shall supervise nomination procedures.
+3.3.1.2.5. The methods of election of representatives for non-college faculty and those colleges that are not departmentally organized shall be similar to those prescribed for departmentally organized colleges and shall assure representation of their diverse academic interests.
+3.3.1.2.6. The term of office of an elected faculty representative shall be two years and shall begin August 16. No individual may serve more than two consecutive terms from the same constituency. Representatives of each college or unit shall serve staggered terms.
+3.3.1.2.7. If, for any reason, an elected faculty representative is unable to serve for a period of one academic semester or more, a replacement shall be selected by the relevant College Advisory Committee, as provided by college bylaws. The non-college faculty shall establish procedures for this purpose in cooperation with the Secretary for Academic Governance.
+3.3.1.3. The second contingent of voting members of the Faculty Senate consists of the at-large faculty representatives on The Steering Committee (3.4.1.2).
+3.3.1.4. The third contingent of voting members of the Faculty Senate consists of the individuals who sit as chairpersons of the University-level Standing Committees.
+3.3.1.5. The President, the Provost, one elected member from ASMSU, one elected member from COGS, and the Chairperson of the Athletic Council will serve as ex-officio members of the Faculty Senate, with voice, but no vote.
+3.3.1.6. One representative of the faculty emeriti will serve as an ex-officio member of the Faculty Senate, with voice, but no vote.
+3.3.1.7. The Secretary for Academic Governance shall be the Secretary of the Faculty Senate and shall serve as a non-voting ex-officio member of the Faculty Senate.
+3.3.2. Chairperson of the Faculty Senate
+3.3.2.1. The Chairperson of the Faculty Senate will be selected by all voting members of the Faculty Senate from a slate made up of the at-large faculty representatives sitting on The Steering Committee. The at-large members receiving the two highest vote totals will constitute the final slate. Voting will be conducted again, and the at-large member receiving the majority of the votes will be declared the Chairperson of the Faculty Senate and the other candidate will be declared the Vice Chairperson. Their terms are one year. The Chairperson of Faculty Senate also serves as Chairperson of The Steering Committee and Chairperson of the Academic Congress. The Vice Chairperson of the Faculty Senate also serves as the Vice Chairperson of The Steering Committee and Vice Chairperson of the Academic Congress.
+3.3.2.2. The Chairperson of the Faculty Senate will preside at meetings of the Faculty Senate. In the absence of the Chairperson, the Vice Chairperson will preside.
+   16
+
+3.3.3. Quorum for Faculty Senate Meetings. The quorum for conducting the business of the Faculty Senate is 50 percent of its voting membership plus one.
+3.3.4. Functions of the Faculty Senate
+3.3.4.1. The Faculty Senate is a deliberative, representative, and legislative body for Michigan State University faculty. As such, the Faculty Senate is the major, regularly meeting body in which curricular issues, faculty tenure and promotion issues, and faculty salary and benefits issues are presented. Advice may be sought from the University Council. The Faculty Senate’s role is to communicate its position to the administration on these issues.
+3.3.4.2. The Faculty Senate acts on issues referred to it by The Steering Committee.
+3.3.4.3. The Faculty Senate makes recommendations, provides advice, and speaks for University faculty on proposals developed in the University-level Standing Committees.
+3.3.4.4. The Faculty Senate discusses issues brought to it by faculty, students, college advisory committees, and administrators, and communicates its position on these issues on behalf of all University faculty.
+3.3.4.5. The Faculty Senate will seek broad faculty input on major initiatives before the University community.
+3.3.4.6. The Faculty Senate obtains and synthesizes the opinion of the faculty to form recommendations on key issues facing the University, and communicates those recommendations to the President and the Provost.
+3.3.4.7. Members of the Faculty Senate have the responsibility to represent their constituents on issues that should be considered by the governance system.
+3.3.4.8. The Faculty Senate may refer items to the Academic Congress for its consideration.
+3.3.4.9. The Faculty Senate may propose changes to these Bylaws. Bylaws changes approved by the Faculty Senate may be submitted to the University Committee on Academic Governance or may be introduced to the University Council directly by a member of the University Council. The Board of Trustees must approve Bylaws changes.
+3.3.4.10. The University Council will consult with the Faculty Senate before it approves any amendments to those sections of the SRR that set forth the role of the faculty in the instructional process.
+3.3.4.11. On any matter brought before the Faculty Senate, the mode of participation shall be that which is specified on the matter in the ascription of functions to University-level Standing Committees (4.3–4.9).
+3.3.5. University-level Standing Committees Reporting to Faculty Senate
+3.3.5.1. University-level Standing Committees that address issues of curriculum and predominantly with issues of faculty life (e.g., tenure and promotion, salary, benefits) report to the Faculty Senate.
+  17
+
+3.3.5.2. The University Committee on Faculty Affairs (UCFA) will report to the Faculty Senate. UCFA may request an opportunity for its representatives to appear before University Council to obtain feedback from the entire University community.
+3.3.5.3. The University Committee on Faculty Tenure (UCFT) will report to the Faculty Senate. UCFT may request an opportunity for its representatives to appear before University Council to obtain feedback from the entire University community.
+3.3.5.4. University Committee on Curriculum (UCC) will report to the Faculty Senate. UCC may request an opportunity for its representatives to appear before University Council to obtain feedback from the entire University community.
+3.3.6. University-level Standing Committees Reporting to Faculty Senate in Exceptional Situations
+3.3.6.1. The University Committee on Student Affairs (UCSA) will report to the University Council, provided that recommendations by UCSA that affect professional rights and responsibilities of faculty must have been approved by the Faculty Senate before consideration by the University Council.
+3.3.6.2. The University Committee on Undergraduate Education (UCUE) will report to the University Council, provided that on issues of establishment, moratorium, discontinuance, and merger of programs, the University Council and the Faculty Senate will be informed of UCUE’s consultation with the Provost.
+3.3.6.3. The University Committee on Graduate Studies (UCGS) will report to the University Council, provided that on issues of establishment, moratorium, discontinuance, and merger of programs, the University Council and the Faculty Senate will be informed of UCGS’s consultation with the Provost.
+3.3.7. The Steering Committee will prepare Faculty Senate agendas. Each meeting agenda will include an item allowing new business to be introduced from the floor.
+3.4. THE STEERING COMMITTEE
+3.4.1. Composition of The Steering Committee
+3.4.1.1. The Steering Committee shall be composed of (a) five members of the faculty, elected at-large; (b) the chairpersons of the University-level Standing Committees; (c) the Vice President of Academic Affairs of ASMSU, and the President of the COGS, who will have voting rights on all matters not reserved to the faculty (1.2.3.1.1); (d) one undergraduate student chosen from the voting members of ASMSU, and one graduate student selected from the student members of COGS who will have voting rights on all matters not reserved to the faculty.
+3.4.1.2. At-large faculty members of The Steering Committee shall be designated as members of the Faculty Senate, but may not serve concurrently as college
+ 18
+
+representatives or as members of any other University-level Standing Committees.
+3.4.1.2.1. The term of office for the at-large faculty members shall be two years and shall begin on August 16. No individual may serve more than two consecutive terms. Either two or three at-large faculty members shall complete their terms each year.
+3.4.1.2.2. At-large faculty members of The Steering Committee shall be elected by the voting faculty of the Academic Congress in an annual spring semester election supervised by the Secretary for Academic Governance. Election shall be by a plurality of votes.
+3.4.1.2.2.1. The University Committee on Academic Governance will solicit recommendations from all faculty. A nomination slate will be developed for the Faculty Senate to endorse and send to the Academic Congress for election.
+3.4.1.2.2.2. Each nominee shall provide to the Secretary for Academic Governance a brief vita and a short statement that shall be distributed with the ballot.
+3.4.1.2.3. If for any reason an at-large faculty member of The Steering Committee is unable to serve for a period of one academic semester or more, a replacement for the remainder of the term of office shall be appointed by the Faculty Senate upon nomination by the faculty members of the University Committee on Academic Governance.
+3.4.1.2.4. The term of office for student members of The Steering Committee shall be one year. No student may serve more than two consecutive terms on The Steering Committee unless that student holds the office of President of COGS or ASMSU Vice President of Academic Affairs, in which event the student may serve on The Steering Committee while holding that office. Student members of The Steering Committee will be identified by the end of each spring semester.
+3.4.1.2.4.1. Student members of The Steering Committee shall be chosen from the voting membership of ASMSU and COGS.
+3.4.1.2.4.2. Should a student member leave The Steering Committee, a replacement shall be chosen by ASMSU in the case of an undergraduate student, or COGS in the case of a graduate student.
+3.4.1.3. The Provost shall be an ex-officio member of The Steering Committee. The Secretary for Academic Governance shall be an ex-officio member of The Steering Committee and shall serve as Secretary to The Steering Committee, having voice but no vote. Along with support to academic governance, the Office of Academic Governance will supply clerical and administrative assistance to The Steering Committee.
+3.4.1.4. The Chairperson of The Steering Committee shall be elected annually pursuant to 3.3.2.1.
+ 19
+
+3.4.1.5. A quorum of The Steering Committee will consist of 50 percent of its members, plus one.
+3.4.2. Functions and Procedures of The Steering Committee
+3.4.2.1. The faculty members of The Steering Committee shall meet periodically with the President and the Provost for an exchange of information and views on University policy.
+3.4.2.2. The Steering Committee shall act on behalf of the University Council when, in the judgment of a majority of the membership of The Steering Committee, action is needed before the University Council can be called into session. The President, or, in the event of the President’s absence, the Provost will chair such meetings. Actions taken at such meetings shall be reported to the University Council as information items and are subject to review by the University Council. Such meetings shall be called by the President, in consultation with The Steering Committee or a sub-committee of The Steering Committee designated to act on matters of agenda.
+3.4.2.3. The faculty members of The Steering Committee shall act on behalf of the Faculty Senate when, in the judgment of a majority of the membership of The Steering Committee, action is needed before the Faculty Senate can be called into session. The Chairperson of The Steering Committee will chair such meetings. Such meetings may be called by the faculty members of The Steering Committee or by the Chairperson of The Steering Committee. Decisions taken at such meetings shall be reported to the Faculty Senate as information items and are subject to review by the Faculty Senate.
+3.4.2.4. The Steering Committee shall advise the Provost regarding the appropriate faculty, academic, and student governance bodies, if any, to consult on proposals for establishment, moratorium, discontinuance, or merger of basic academic units, including departments, schools, institutes, colleges, and the Graduate School.
+3.4.2.5. The Steering Committee shall receive proposals for action in academic governance from individual faculty or students, and from faculty or student groups and organizations.
+3.4.2.5.1. The Steering Committee shall, where appropriate, refer matters brought to it to councils or committees for consideration.
+3.4.2.5.2. When an issue is referred to more than one University-level Standing Committee for consideration, The Steering Committee shall designate one University-level Standing Committee the “lead committee” on that issue and make it responsible for any report on that issue.
+3.4.2.6. The Steering Committee shall prepare the agenda for meetings of the University Council. Before each meeting of the University Council, The Steering Committee, or a sub-committee designated for matters of agenda shall hold a duly announced open meeting at which suggestions for agenda items will be heard.
+20
+
+3.4.2.7. The faculty members of The Steering Committee, or a sub-committee designated for matters of agenda, shall, in consultation with the President or Provost, prepare the agenda for meetings of the Faculty Senate and the Academic Congress. Before any meeting of those bodies, The Steering Committee will hold a duly announced open meeting at which suggestions for agenda items will be heard.
+3.4.2.8. The Steering Committee shall report to the University Council.
+3.4.2.9. The Steering Committee will implement and support communication to and from faculty, in print, electronically, and by direct interaction.
+3.4.2.10. The Steering Committee will communicate regularly with the College Advisory Committees to encourage and implement strong interaction between University-level and college-level academic governance.
+3.5. OFFICE OF ACADEMIC GOVERNANCE
+3.5.1. The Secretary for Academic Governance will direct the Office of Academic Governance.
+3.5.2. The Secretary for Academic Governance shall be appointed by the President in consultation with The Steering Committee, and they shall review the appointment at periods not to exceed five years.
+3.5.3. The Secretary for Academic Governance shall be the parliamentarian with regard to the Bylaws, and shall serve as a non-voting, ex-officio member of the University Council, the Faculty Senate, The Steering Committee, the Academic Congress, and the General Assembly of ASMSU.
+3.5.4. The Secretary for Academic Governance will serve as a liaison between ASMSU and academic governance, and between COGS and academic governance, for the purpose of encouraging student representation in academic governance.
+3.5.5. The Office of the Secretary for Academic Governance, along with other administrative offices, provides staff support to The Steering Committee, the University Council, the Faculty Senate, and the University-level Standing Committees in the execution of responsibilities directly and indirectly expressed in these Bylaws. The Secretary for Academic Governance shall supervise elections to the University Council, and of the at-large faculty of The Steering Committee, with review by the University Committee on Academic Governance.
+21
+
+SECTION 4. THE UNIVERSITY-LEVEL STANDING COMMITTEES
+4.1. ESTABLISHMENT OF STANDING COMMITTEES.
+There shall be the following University-level Standing Committees within Academic Governance
+University Committee on Academic Governance (UCAG) University Committee on Undergraduate Education (UCUE) University Committee on Curriculum (UCC)
+University Committee on Faculty Affairs (UCFA) University Committee on Faculty Tenure (UCFT) University Committee on Graduate Studies (UCGS) University Committee on Student Affairs (UCSA)
+4.2. GENERAL RULES GOVERNING STANDING COMMITTEES
+4.2.1. Composition of Standing Committees
+4.2.1.1. The composition of each Standing Committee is specified in the description of each committee. The number of members for each committee is monitored by the University Committee on Academic Governance (4.3–4.9).
+4.2.1.2. Unless otherwise provided, no college shall have more than one faculty representative on a Standing Committee.
+4.2.1.3. Unless provided otherwise in detailed descriptions below, the term of office for faculty members on Standing Committees shall be two years. Provisions shall be made to stagger elections. Terms of office shall begin August 16.
+4.2.1.4. The term of office for student members on Standing Committees shall be one year, renewable. Terms of office shall begin on the first day of summer semester classes.
+4.2.1.5. No individual may serve more than three consecutive terms on the same Standing Committee as a representative of the same constituency.
+4.2.1.6. No individual may serve concurrently as a voting member of more than one Standing Committee.
+4.2.1.7. Election and appointment to Standing Committees shall take place in the spring of each year.
+4.2.1.8. If for any reason a member of a Standing Committee is unable to serve for a period of one or more semesters, a replacement shall be named for that period. The selection of the replacement shall take place in the same manner as the selection of the member unable to serve.
+4.2.1.9. Where faculty members of Standing Committees are selected from the elected faculty on the University Council, they shall be elected by the Faculty Senate from a list of nominees chosen by the faculty of the University Committee on Academic Governance. The number of nominees shall be at least 1.5 times the number of positions to be filled.
+ 22
+
+4.2.1.10. Where faculty members of a Standing Committee are elected in college elections, nominating procedures shall be specified in college bylaws. Colleges may, in their bylaws, authorize the election to any Standing Committee, except the University Committee on Faculty Tenure, of full-time fixed-term faculty who have served at least three consecutive years, or of specialists in the continuing appointment system.
+4.2.1.11. Unless otherwise provided, undergraduate student members of Standing Committees shall be elected by ASMSU, and graduate student members of Standing Committees shall be elected by COGS. Elections shall be held prior to the end of spring semester.
+4.2.1.12. Elections to all Standing Committees shall be completed prior to May 1. 4.2.2. General Procedures of Standing Committees
+4.2.2.1. After Standing Committees for the next year have been constituted in the spring, each new committee shall use its best efforts to meet prior to the end of spring semester to elect its chairperson and vice chairperson. These officers must be elected no later than the first committee meeting of the next academic year.
+4.2.2.2. The chairperson of each Standing Committee shall prepare a report at the end of each semester, summarizing the activities and actions of the committee during that semester, and its projected activities for the next semester. The mid-year report will summarize matters of significant concern to the committee and will be submitted by December 31st. The end-of-the-semester summaries will be posted through the website for Academic Governance. The Secretary for Academic Governance shall distribute these with the agenda or minutes for the University Council (3.2.6) or the Faculty Senate (3.3.4), as appropriate. At least once each academic year, each chairperson shall report at a meeting of the Faculty Senate or the University Council, as appropriate. The Secretary for Academic Governance shall establish the schedule for these reports.
+4.2.2.3. The chairperson of each Standing Committee shall submit an annual written report of that committee’s activities and actions to the Academic Governance Office by August 31. Summaries of these reports shall be posted through the website for Academic Governance. Each Standing Committee’s chairperson shall regularly report to The Steering Committee on the work of that committee.
+4.2.2.4. Standing Committees are encouraged to call on diverse members of the University community for the perspective that they may bring to the consideration of issues. Such individuals are asked to render such services as the relevant committee may reasonably request.
+4.2.2.5. Standing Committees shall establish their own rules and procedures, as long as they are not in conflict with these Bylaws.
+4.2.2.6. Subcommittees or ad hoc committees exist at the discretion of the parent Standing Committees, which shall review the need for such subcommittees or
+  23
+
+ad hoc committees annually or at the conclusion of the period for which such subcommittee or ad hoc committee was constituted.
+4.2.3. General Functions of Standing Committees
+4.2.3.1. Standing Committee members shall represent the interests of the entire University.
+4.2.3.2. Standing Committees shall initiate recommendations to, and communicate with, the Faculty Senate (3.3.5), or the University Council (3.2.5), as appropriate. Subject to the review of Faculty Senate or University Council, each Standing Committee may make recommendations to the Provost and other administrators, as indicated in these Bylaws, on matters within the purview of the committee.
+4.2.3.3. Each Standing Committee shall respond to reasonable requests for consultation or advice from administrators who initiate requests on matters within the purview of that committee.
+4.2.3.4. Standing Committees shall regularly review their composition, procedures, and functions and recommend appropriate Bylaws revisions to the University Committee on Academic Governance.
+4.2.4. Meetings of Standing Committees
+4.2.4.1. The administrator(s) being advised by a Standing Committee shall be present at meetings of the committee except by mutual agreement.
+4.2.4.2. Each Standing Committee shall schedule its own meetings, noting the schedule for all such committees established by the Secretary for Academic Governance, and shall post the schedule through the website for Academic Governance.
+4.2.4.3. Standing Committee meetings shall ordinarily be open, but any such Committee may formulate procedures for closing some of its meetings for stated reasons. When a meeting is to be closed, the reasons for such closure will be announced publicly through the website for Academic Governance.
+4.2.4.4. Each Standing Committee shall determine its own agenda. Members of The Steering Committee, administrators, faculty, and students may suggest items for a committee’s agenda. Announcements of Standing Committee meetings must be posted through the website for Academic Governance at least one week in advance of the meeting, include the time and place of the meeting, and an agenda.
+4.2.4.5. The quorum for Standing Committees, except as provided in each committee’s procedures, shall be fifty percent plus one.
+4.3. UNIVERSITY COMMITTEE ON ACADEMIC GOVERNANCE
+4.3.1. The University Committee on Academic Governance (UCAG) shall include a faculty member from each college, and a faculty member from the non-college faculty. Eligibility to serve on UCAG is limited to faculty members who have previously served on a University-level Standing Committee or the Faculty Senate.
+  24
+
+Three undergraduate student members of ASMSU, two graduate student members from COGS, the Provost, and the Secretary for Academic Governance shall be ex- officio members of UCAG.
+4.3.1.1. The UCAG shall report to the University Council.
+4.3.1.2. The chairperson of the UCAG shall be a member of The Steering Committee, and thus of the Faculty Senate and the University Council.
+4.3.2. The UCAG shall nominate to the University Council individuals who may be appointed to University-level Advisory-Consultative Committees, and other committees as may be requested by the University Council.
+4.3.2.1. Only the faculty members of the UCAG shall nominate faculty to the committees listed in 4.3.2.
+4.3.2.2. ASMSU shall appoint undergraduate students to fill the vacant undergraduate student positions on the committees of 4.3.2 in accordance with the procedures outlined in ASMSU’s bylaws. COGS shall appoint graduate and professional students to fill the vacant graduate student positions on the committees of 4.3.2 in accordance with the procedures outlined in COGS bylaws.
+4.3.2.3. The Secretary for Academic Governance shall provide staff assistance to UCAG in developing nominations.
+4.3.3. The UCAG shall conduct a continuing review of the Bylaws and shall be responsible for recommending amendments in these Bylaws to the University Council.
+4.3.4. The UCAG shall interpret these Bylaws subject to review by the University Council.
+4.3.5. The UCAG shall review college bylaws for consistency with these Bylaws. It shall review each college’s bylaws at least once every five years.
+4.3.6. The UCAG shall review unit appeals in cases of conflict between units and consider appeals of reviews of department or school bylaws by college committees.
+4.3.7. Decisions of the UCAG on college and department bylaws are subject to review by the University Council.
+4.3.8. The UCAG shall provide guidelines for elections or appointment to committees, boards, and panels affiliated with the University Council. The UCAG will review challenged elections, and recommend appropriate action to the University Council.
+4.4. UNIVERSITY COMMITTEE ON UNDERGRADUATE EDUCATION
+4.4.1. The membership of the University Committee on Undergraduate Education (UCUE) shall include a faculty member from each college, and a faculty member from the non-college faculty. UCUE shall also have four undergraduate student members, of whom one must be the Vice President of Academic Affairs of ASMSU, and two graduate student members from COGS. The Provost shall be a member with voice, but no vote.
+4.4.1.1. The UCUE shall report to the University Council (3.2.5). 25
+    
+4.4.1.2. Each year the UCUE shall appoint one of its faculty members to serve as an ex-officio member on the Athletic Council.
+4.4.2. The chairperson of the UCUE will serve on The Steering Committee and thus on the University Council and the Faculty Senate.
+4.4.3. The UCUE shall exercise the faculty’s delegated authority on grading policy for undergraduate students and the use of grades and grade point averages for undergraduate admissions and for advancement in or graduation from undergraduate academic programs.
+4.4.4. The UCUE shall review all changes in undergraduate academic programs proposed by academic units and recommend their approval or rejection to the University Committee on Curriculum.
+4.4.5. The UCUE shall have shared responsibility with the Dean of Undergraduate Studies to consult with the Provost on the establishment, moratorium, discontinuance, or merger of undergraduate academic programs; on policies pertaining to curriculum revision, methods of instruction, evaluation of instruction, and advising and counseling for undergraduate students and programs; and on other policies pertaining to undergraduate education. On issues of the establishment, moratorium, discontinuance, and merger of undergraduate academic programs, the University Council and the Faculty Senate will be informed of the UCUE’s consultation with the Provost.
+4.4.6. The UCUE shall have shared responsibility with the Dean of Undergraduate Studies to consult with the Provost on policy pertaining to admissions and retention, financial aid, and the use and distribution of educational and research resources for undergraduate students and programs.
+4.4.7. The UCUE shall advise and consult with the Dean of Undergraduate Studies and the Provost and make recommendations to the University Council on all other matters of academic policy affecting undergraduate students.
+4.4.8. The UCUE shall coordinate its activities with those of other committees, as appropriate.
+4.5. UNIVERSITY COMMITTEE ON CURRICULUM
+4.5.1. The members of the University Committee on Curriculum (UCC) shall include a faculty member from each college. UCC shall also have five undergraduate student members, of whom one must be a member of ASMSU, and two graduate student members. The Provost shall be a member with voice, but no vote. The Provost shall also name an executive secretary to serve ex officio without vote. The University Registrar shall serve ex officio without vote.
+4.5.1.1. The UCC will report to the Faculty Senate. UCC may seek advice from the University Council before reporting to the Faculty Senate on a particular matter, and will do so if The Steering Committee so requests.
+4.5.2. The chairperson of the UCC will serve on The Steering Committee and thus on the University Council and the Faculty Senate.
+26
+
+4.5.3. The UCC shall exercise the faculty’s delegated authority to review and approve or reject all changes in undergraduate curricula and degree requirements recommended by the University Committee on Undergraduate Education, and to review and approve or reject changes in graduate and graduate-professional curricula and degree requirements recommended by the University Committee on Graduate Studies. The UCC shall not reject a recommendation from either the University Committee on Undergraduate Education or the University Committee on Graduate Studies without providing a rationale for the rejection and consulting with the appropriate committee. In addition, the UCC shall exercise the faculty’s delegated authority to review and approve or reject all undergraduate and graduate courses proposed by academic units.
+4.5.4. The UCC shall advise the Provost on criteria for the establishment and deletion of courses and curricula.
+4.6. UNIVERSITY COMMITTEE ON FACULTY AFFAIRS
+4.6.1. The faculty of each college, and the non-college faculty, shall select one faculty member to represent it on the University Committee on Faculty Affairs (UCFA). UCFA shall have as members at least two non-tenured regular faculty and two full- time fixed-term faculty who are eligible to be voting faculty under 1.1.1.2. Each year the University Committee on Academic Governance shall designate which colleges, or college groupings, shall select non-tenured faculty and full time fixed- term faculty as members of the UCFA. The Provost and the Director of the Office of Planning and Budgets shall be a member of UCFA with voice, but no vote.
+4.6.1.1. The UCFA will report to the Faculty Senate. At its discretion, the UCFA may request an opportunity for UCFA representatives to appear before the University Council to seek advice.
+4.6.1.2. The UCFA shall make recommendations to the Faculty Senate on issues related to the University budget, and shall report annually to a meeting of the Faculty Senate on academic budget allocations and adjustments in salary and other forms of economic benefits.
+4.6.2. The chairperson of the UCFA shall be a member of The Steering Committee and thus of the Faculty Senate and the University Council.
+4.6.3. The UCFA shall have shared responsibility with the Provost for the formulation of faculty grievance procedures and on the rights and responsibilities of faculty.
+4.6.4. The UCFA shall advise the Provost on personnel policies relating to faculty, including appointment, reappointment, promotion, leaves, retirement, and assignment to teaching, research, and administration.
+4.6.5. The UCFA shall consult with or advise the Provost during the formulation of the University’s annual budget request to the State of Michigan.
+4.6.6. The UCFA recommendations regarding faculty rights and responsibilities and grievance procedures must also be approved by the Faculty Senate.
+4.6.7. The UCFA shall participate in the University’s Discipline and Dismissal of Tenured Faculty for Cause policy (Faculty Handbook) as stipulated therein.
+  27
+
+4.7. UNIVERSITY COMMITTEE ON FACULTY TENURE
+4.7.1. The faculty of each college, and non-college faculty, shall select one regular faculty member (1.1.1.1) to represent it on the University Committee on Faculty Tenure (UCFT). UCFT shall have as members at least three non-tenured faculty hired under the rules of tenure. Each year the Committee on Academic Governance shall designate which colleges, or college groupings, shall select non-tenured faculty as members of the UCFT. The UCFT shall have two undergraduate student members from ASMSU, and one graduate student member. The Provost shall be a member with voice, but no vote.
+4.7.1.1. The UCFT will report to the Faculty Senate. At its discretion, the UCFT may request an opportunity for UCFT representatives to appear before the University Council to seek advice.
+4.7.2. The chairperson of the UCFT shall be designated as a voting member of The Steering Committee and thus of the University Council and the Faculty Senate.
+4.7.3. The UCFT shall advise the Provost on the formal and procedural rules for the award and revocation of tenure and on policies relating to tenure, and shall make recommendations to the Faculty Senate on such rules and on policies.
+4.7.4. The role of the UCFT in the interpretation of the rules of tenure is determined by Principle Seven of the Operating Principles of the Tenure System (Faculty Handbook).
+4.7.5. The UCFT shall hear and act on all cases for exceptions to the rules of tenure and its decisions on the matters shall be binding on the administration and on the faculty member.
+4.7.6. The UCFT shall report promptly to the Faculty Senate if the administration acts in a manner contrary to UCFT’s decision on a question involving tenure.
+4.7.7. The UCFT shall participate in the University’s Discipline and Dismissal of Tenured Faculty for Cause policy (Faculty Handbook) as stipulated therein.
+4.8. UNIVERSITY COMMITTEE ON GRADUATE STUDIES
+4.8.1. The members of the University Committee on Graduate Studies (UCGS) shall include a faculty member from each college with a graduate or graduate- professional degree program, plus one additional member from the Colleges of Agriculture and Natural Resources, Arts and Letters, Business, Education, Natural Science, and Social Science. UCGS shall have five graduate student members selected by COGS. No more than one student member may be from any one department, with consideration being given to universitywide representation insofar as possible. The Dean of the Graduate School shall be a member with voice, but no vote.
+4.8.1.1. The UCGS will report to the University Council (3.2.5).
+4.8.2. The chairperson of the UCGS will serve on The Steering Committee and thus on
+the University Council and the Faculty Senate. 28
+     
+4.8.3. The UCGS shall exercise the faculty’s delegated authority on grading policy for graduate and graduate-professional students.
+4.8.4. The UCGS shall review all changes in graduate and professional academic programs and recommend their approval or rejection to the University Committee on Curriculum.
+4.8.5. The UCGS shall have shared responsibility with the Dean of the Graduate School to consult with the Provost on the establishment, moratorium, discontinuance, or merger of graduate programs; on policy pertaining to methods of instruction, evaluation of instruction, advising and counseling, and admissions and retention of graduate and graduate-professional students; and on other policies pertaining to administration of graduate and graduate-professional programs. On issues of the establishment, moratorium, discontinuance, and merger of graduate programs, the University Council and the Faculty Senate will be informed of UCGS’s consultation with the Provost.
+4.8.6. The UCGS shall have shared responsibility with the Dean of the Graduate School to advise the Provost on the coordination of graduate and graduate-professional programs.
+4.8.7. The UCGS shall have shared responsibility with the Dean of the Graduate School to consult with the Provost on policies pertaining to financial aid and employment of graduate students and on the use and distribution of educational and research resources for graduate and graduate-professional programs and students.
+4.8.8. The UCGS shall advise and consult with the Dean of the Graduate School and the Vice President for Research and Graduate Studies on policies relating to research development, as they pertain to graduate and graduate-professional education.
+4.8.9. The UCGS shall maintain liaison with academic units offering graduate and graduate-professional programs.
+4.8.10. The UCGS shall maintain liaison with COGS.
+4.8.11. The UCGS shall coordinate its activities with those of other committees, as appropriate.
+4.9. UNIVERSITY COMMITTEE ON STUDENT AFFAIRS
+4.9.1. The University Committee on Student Affairs (UCSA) shall have four faculty members selected by the Faculty Senate. UCSA shall have eight student members appointed as follows: six appointees from ASMSU, including the President of ASMSU; and two appointees from COGS. UCSA appointees are expected to reflect the diversity of their constituencies. The Vice President for Student Affairs and Services and the University Ombudsperson shall be members with voice, but no vote.
+4.9.1.1. The UCSA shall report to the University Council (3.2.5). However, any policy amendment or statement reviewed by UCSA that affects the professional rights and responsibilities of the faculty must be approved by the Faculty Senate before consideration by the University Council.
+ 29
+
+4.9.2. The chairperson of the UCSA shall be a voting member of the University Council.
+4.9.3. The UCSA shall advise the Vice President for Student Affairs and Services on all policies of the Office of the Vice President for Student Affairs and Services and on other University policies as they affect the academic achievement of students.
+4.9.4. The UCSA shall initiate and review proposed amendments to the Student Rights and Responsibilities (SRR), General Student Regulations, and policies relating to the academic rights and responsibilities of students.
+4.9.4.1. Any such amendment affecting the professional rights and responsibilities of the faculty must be reviewed by the UCSA and approved by the Faculty Senate before consideration by the University Council.
+4.9.5. The UCSA shall assume the duties of the Committee on Academic Rights and Responsibilities under the SRR.
+    30
+
+SECTION 5. OTHER UNIVERSITY-LEVEL COMMITTEES
+5.1. UNIVERSITY COUNCIL ADVISORY-CONSULTATIVE COMMITTEES
+5.1.1. The University Council may establish Advisory-Consultative Committees for academic administrators of universitywide programs which do not have students or faculty regularly attached, or where the advisory processes established in Student Rights and Responsibilities at Michigan State University (SRR) do not provide a sufficiently broad base for the universitywide program.
+5.1.2. The University Council shall establish the functions and the general procedures of Advisory-Consultative Committees, taking account of the recommendations of the administrator to be advised.
+5.1.3. The composition of Advisory-Consultative Committees shall be established by the University Council. Membership shall be determined according to procedures specified in 4.3.2, except as noted in 5.1.3.1. The terms of office shall be two years for faculty and one year for students. No member may serve for more than two consecutive terms.
+5.1.3.1. When an Advisory-Consultative Committee’s bylaws specify one faculty member from each of the colleges and one from among non-college faculty, each College Advisory Committee shall select one member and the appropriate representative body for the non-college faculty shall select one.
+5.1.4. Advisory-Consultative Committees shall advise and consult with appropriate administrators. The committees shall recommend to the University Council, through The Steering Committee or an appropriate University-level Standing Committee, needed changes in University policies and procedures. An annual report shall be made to The Steering Committee for distribution with the University Council minutes. Minutes of all meetings shall be sent to The Steering Committee.
+5.1.5. The University Committee on Academic Governance shall review the need for each Advisory-Consultative Committee at intervals not to exceed five years and recommend appropriate action, if any, to the University Council.
+5.2. ATHLETIC COUNCIL
+5.2.1. There shall be an Athletic Council with composition and bylaws subject to approval by the University Council. The Athletic Council shall function as the faculty voice in the intercollegiate athletic program.
+5.2.2. Composition of the Athletic Council
+5.2.2.1. The voting members of the Athletic Council shall be eight members of the
+faculty, eligible for election under 1.1, three alumni, and three students.
+5.2.2.2. Ex-officio members without vote shall include: the Director of Intercollegiate Athletics, the Faculty Athletic Representative, the Executive Director of the Alumni Association, and the Vice President for Finance and Operations.
+5.2.3. Appointment of Members
+31
+     
+5.2.3.1. Faculty members of the Athletic Council shall be selected by the President from a slate of nominees (two for each vacancy) prepared by the faculty of the University Committee on Academic Governance and approved by the Faculty Senate.
+5.2.3.1.1. The University Committee on Undergraduate Education shall appoint one of its faculty members to serve as an ex-officio member of the Athletic Council.
+5.2.3.2. Alumni representatives shall be chosen from members of the Michigan State University Alumni Association, which shall prepare a slate of two nominees for each vacancy, from which the President shall appoint one. One of the alumni representatives shall be a former student varsity athlete. Alumni members shall not be employees of the University.
+5.2.3.3. The President shall select student members of the Athletic Council.
+5.2.3.3.1. One undergraduate student shall be appointed from a slate of three nominees submitted by ASMSU. One graduate student shall be appointed from a slate of three nominees submitted by COGS. One member of the Student-Athlete Advisory Council shall be selected from a slate of three nominees prepared by the Student-Athlete Advisory Council.
+5.2.3.4. The Faculty Athletic Representative to the athletic agencies or conferences to which the University chooses to belong shall be a member of the regular faculty appointed by the President. The appointment shall be made with the advice of the voting members of the Athletic Council.
+5.2.4. Terms of Appointment
+5.2.4.1. The terms of appointment of faculty and alumni representatives on the Athletic Council shall be two years and shall begin on August 16. Terms of members shall be staggered so that not less than one-third of the membership will return the following year.
+5.2.4.2. The term of appointment for student representatives shall be one year and shall begin on the first day of summer semester.
+5.2.4.3. Vacancies for a period of one or more academic terms that occur during the term of appointment of any voting member shall be filled for the remainder of the unfinished term in the same manner as the regular selection of the member unable to serve. Voting members of the Athletic Council can serve no more than two consecutive terms. An appointment of more than eight months to fill an unfinished term shall be equivalent to a full term in considering eligibility for reappointment.
+5.2.4.4. The Faculty Athletic Representative shall serve at the discretion of the President. The President shall review the Faculty Athletic Representative at least once every five years with the advice of the voting members of the Athletic Council.
+5.2.5. Responsibilities of the Athletic Council 32
+
+5.2.5.1. The Athletic Council serves as the deliberative body for the discussion of academic policy related to student athletes and intercollegiate athletics.
+5.2.5.2. The Athletic Council advises the Director of Intercollegiate Athletics on matters of policy, procedures, and organization related to intercollegiate athletics.
+5.2.5.2.1. Regarding the regular season and post-season tickets and trips, voting members of the Athletic Council shall strive to minimize the award of special privileges to themselves that are uncharacteristic of those generally available to faculty. Nonetheless, it is expected that the Athletic Council will fulfill responsibilities related to institutional representation as appropriate throughout the year.
+5.2.5.2.2. Complimentary tickets given to Athletic Council members are considered non-transferable.
+5.2.6. The Athletic Council reports to the University Council. Form and frequency of reporting will be determined by The Steering Committee, but in no case will the frequency of reporting be less than once each academic year. The Athletic Council will also respond to questions asked by the University Council through its seated representative in the University Council, the Chairperson of the Athletic Council.
+5.2.6.1. A report of policies regarding regular season and post-season trips, as well as a record of the disbursement of complimentary tickets and trips, shall be included in the annual report of Athletic Council to University Council.
+5.3. FACULTY HEALTHCARE COUNCIL
+5.3.1. There shall be a Faculty Healthcare Council (FHC) to function as the faculty voice to Human Resources and the University administration on matters related to healthcare and healthcare benefits.
+5.3.2. Composition
+5.3.2.1. The voting members of the FHC shall be nine faculty members.
+5.3.2.2. Ex-officio members without vote shall include but not be limited to the Director of the Office of Planning and Budgets, and one faculty member emeritus/emerita to be selected by the Faculty Emeriti Association.
+5.3.3. Appointment of Members
+5.3.3.1. Faculty members of the FHC shall be appointed by The Steering Committee from a list initiated by the University Committee on Academic Governance, pursuant to its annual call for volunteers to committees, boards, and panels (4.3.8); the list shall be submitted to the FHC, which shall then submit its recommendations to The Steering Committee.
+5.3.3.2. Eligibility for appointment to the FHC shall be established by submission to the University Committee on Academic Governance of a brief vita, rationale for willingness to serve, and acknowledgement that the work of the FHC includes the summer months.
+ 33
+
+5.3.3.3. Faculty members of the FHC shall represent a diversity of faculty appointments, pursuant to relevant union contracts.
+5.3.4. Terms of Appointment
+5.3.4.1. The terms of appointment of faculty representatives on the FHC shall be three consecutive two-year terms to ensure continuity and stability of membership.
+5.3.4.2. If, for any reason, a member is unable to serve and more than one annual year remains of the appointment, The Steering Committee will identify a replacement from the most recent list of eligible volunteers; the new appointee will be eligible for reappointment for two subsequent terms. If less than one annual year remains, the seat will remain vacant until the next regular appointment period.
+5.3.5. Responsibilities of the FHC
+5.3.5.1. The FHC will serve as the faculty voice on issues related to the design, implementation and evaluation of health care plans.
+5.3.5.2. The FHC will consult with, provide information, and make recommendations to the University Committee on Faculty Affairs on matters concerning the economic impact of health benefits.
+5.3.5.3. The FHC shall serve as an advocate for faculty on matters related to health care and health care benefits.
+5.4. AD HOC COMMITTEES OF THE UNIVERSITY COUNCIL
+5.4.1. Ad hoc committees shall be kept to a minimum. Before establishing an ad hoc committee, the University Council shall consult with The Steering Committee to determine whether the commission might appropriately be referred to one or more University-level Standing Committees.
+5.4.2. The Steering Committee shall recommend to the University Council the composition, method of selecting members, functions, and procedures of ad hoc committees.
+34
+
+SECTION 6. UNIVERSITY STUDENT-FACULTY JUDICIARIES
+6.1. STUDENT-FACULTY HEARING BOARD
+6.1.1. The composition and jurisdiction of this body are set forth in Student Rights and Responsibilities(SRR) at Michigan State University.
+6.1.2. The President shall appoint the faculty members of the Student-Faculty Hearing Board during the spring semester from a list of nominees supplied by the faculty members of the University Committee on Academic Governance (UCAG). The number of nominees shall be twice the number of positions to be filled.
+6.1.3. The term of office for faculty members of the Student-Faculty Hearing Board shall be three years, with the opportunity for reappointment for one additional three-year term. Provisions shall be made to stagger appointments to assure continuity. Terms of office shall begin with the summer semester following appointment.
+6.1.4. No faculty member of the University Council or of any committee whose members are appointed or nominated by the University Council shall be eligible to serve concurrently on the Student-Faculty Hearing Board.
+6.2. UNIVERSITY GRADUATE JUDICIARY
+6.2.1. The composition and jurisdiction of this body are set forth in Graduate Student Rights and Responsibilities.
+6.3. UNIVERSITY ACADEMIC INTEGRITY HEARING BOARD
+6.3.1. The composition and jurisdiction of this body are set forth in the SRR.
+6.3.2. The President shall appoint the faculty members to the pool for the University Academic Grievance Hearing Board, the University Academic Integrity Hearing Board, and University Academic Appeals Board during the spring semester from a list of nominees supplied by the faculty members of UCAG. The number of nominees shall be twice the number of positions to be filled.
+6.3.3. The term of office for faculty members in the pool shall be one or two years, with reappointment never to extend a person’s service beyond four consecutive years. Provisions shall be made to stagger appointments to assure continuity. Terms of office shall begin with the summer semester following appointment. The service of the current pool members extends until replacements are nominated.
+6.3.4. No faculty members of the University Council or of any committee whose members are appointed or nominated by the University Council or the Faculty Senate shall be eligible to serve concurrently on any of the three boards.
+6.4. UNIVERSITY STUDENT APPEALS BOARD
+6.4.1. The composition and jurisdiction of this body are set forth in the SRR.
+6.4.2. The President shall appoint the faculty members of the University Student Appeals Board during the spring semester from a list of nominees supplied by the faculty members of UCAG. The number of nominees shall be twice the number of positions to be filled.
+      35
+
+6.4.3. The term of office for faculty members of the University Student Appeals Board shall be three years, with the opportunity for one additional three-year term. Provisions shall be made to stagger appointments to assure continuity. Terms of office shall begin with the summer semester following appointment.
+6.4.4. No faculty members of the University Council or of any committee appointed or nominated by the University Council or the Faculty Senate shall be eligible to serve concurrently on the University Student Appeals Board.
+36
+
+SECTION 7. ADMINISTRATIVE SUPPORT OF ACADEMIC GOVERNANCE
+7.1 The administrator of an academic unit shall render necessary support, clerical and otherwise, to academic governance at the unit level. At the University level, this is the responsibility of the Provost and the Vice President for Student Affairs and Services.
+7.2 Academic administrators shall recognize a faculty member’s participation in academic governance as an important and integral part of the individual’s workload. Teaching schedules or other work assignments should be made consistent with regular committee or council meetings insofar as that is reasonably possible.
+37
+
+SECTION 8. INTERPRETATION AND AMENDMENT
+8.1 The academic governance bodies established by these Bylaws shall follow the current edition of Robert’s Rules of Order Newly Revised unless otherwise specified in these Bylaws.
+8.2 Except for the Board of Trustees, the University Council shall be the final authority with regard to the interpretation of these Bylaws
+8.3 Amendments
+8.3.1 Proposed amendments shall be submitted to the University Committee on Academic Governance. After review by UCAG, proposed amendments may be submitted to the University Council for action under 3.2.5.1 by UCAG, or by any member of the University Council.
+8.3.2 If the University Council approves the proposed amendment, The Steering Committee shall forward it to the President.
+8.3.2.1. If the President concurs with the proposed amendment, the President shall notify The Steering Committee and place the proposed amendment on the agenda for action by the Board of Trustees within 90 days (excluding the time between the end of spring semester and the start of fall semester).
+8.3.2.2. If the President does not concur with the proposed amendment, the President shall return it to The Steering Committee with the President’s written objections and recommendations within thirty (30) days (subject to the exclusion noted in 0). The Steering Committee shall submit the proposed amendment and the President’s comments to the University Council for reconsideration.
+8.3.2.2.1. If the University Council declines reconsideration, or if reconsideration results in no change to the proposed amendment, The Steering Committee shall return the proposed amendment to the President, who shall place it on the agenda for action by the Board of Trustees within sixty (60) days (subject to the exclusion noted in 0).
+8.3.2.2.2 In the event that reconsideration leads to modification of the proposed amendment by the University Council, The Steering Committee shall forward the modified proposed amendment to the President, as set forth in 0.
+The Bylaws for Academic Governance is published by the office of the Secretary for Academic Governance • W32 Owen Graduate Hall • (517) 355-2337 AcadGov@provost.msu.edu • http://acadgov.msu.edu
+    38
