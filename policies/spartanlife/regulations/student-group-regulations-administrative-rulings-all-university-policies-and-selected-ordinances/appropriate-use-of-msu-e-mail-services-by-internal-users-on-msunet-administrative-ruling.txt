@@ -1,0 +1,347 @@
+Spartan Life Student Handbook - Guidelines Regarding Bulk Email by
+Internal Users on MSUnet
+
+Skip to main content
+
+[Michigan State University] [Your Site Name Here]
+
+-   Spartan Life Welcome Letter
+-   The Character and Goals of MSU
+-   Division of Student Affairs and Services
+-   Information and Services
+-   Rights and Responsibilities
+-   Student Rights and Responsibilities
+-   Graduate Student Rights and Responsibilities
+-   Law Student Rights and Responsibilities
+-   Medical Student Rights and Responsibilities (MSRR)
+-   Spartan Code of Honor Academic Pledge
+-   Regulations
+    -   Student Consumer Information
+    -   Types of Rules and Regulations
+    -   General Student Regulations
+    -   Residence Hall Bill of Rights - Undergraduate and Graduate Halls
+    -   Residence Hall Regulations - Undergraduate Halls
+    -   Student Group Regulations, Administrative Rulings,
+        All-University Policies, and Selected Ordinances
+        -   Academic Policies and Requirements
+        -   Acceptable Use Policy for MSU Information Technology
+            Resources
+        -   Address Change
+        -   Address Withholding Policy
+        -   Alcoholic Beverages
+        -   All-University Events and Activities
+        -   Animals
+        -   Anti-Discrimination Policy
+        -   Bad Check/Returned ACH Collection
+        -   Bicycles
+        -   Campaigning, Canvassing, and Petition Drives
+        -   Camping
+        -   Campus Mail Service
+        -   Code of Teaching Responsibility
+        -   Conflict of Interest in Educational Responsibilities
+            Resulting from Consensual Amorous or Sexual Relationships
+            ^(1,\ 2)
+        -   Copyright Notice
+        -   Disorderly Assemblages or Conduct
+        -   Distribution of Literature
+        -   Distribution of Material in Residence Halls
+        -   Drug and Alcohol Policy, MSU
+        -   Email Notice for Students
+        -   Examinations
+        -   Facilities and Services, University
+        -   Financial Accounts-Student Organizations
+        -   Firearms or Weapons
+        -   Fires
+        -   Food, Public Sale on Campus
+        -   Free Speech Rights and Responsibilities: President's
+            Statement
+        -   Funding Student-Sponsored Programs and Activities by
+            University Administrative Units, Criteria for
+        -   Grief Absence Policy
+        -   Guidelines Regarding Bulk Email by Internal Users on MSUnet
+        -   Holds on Enrollment, Registration, Readmission, and
+            University Services
+        -   Housing Policy, Student
+        -   Hoverboards, Skateboards and Similar Devices
+        -   Identification Cards
+        -   Insurance
+        -   Integrity of Scholarship and Grades
+        -   Library Policy
+        -   Mandatory Assessment and Involuntary Withdrawal Policy
+        -   Officer Eligibility-Student Organizations
+        -   Outside Speakers Sponsored by Registered Student
+            Organizations
+        -   Parades, Processions, and Sound Trucks
+        -   Plant Materials
+        -   Public Address Equipment
+        -   Records
+        -   Registered Student Organizations
+        -   Relationship Violence and Sexual Misconduct, Policy On
+        -   Religious Observance, Policy on
+        -   Residence Hall Room Entry Policy
+        -   Residential Safety and Security
+        -   Safety
+        -   Selling and Advertising
+        -   Selling and Solicitation Central Guidelines
+        -   Signs and Structures
+        -   Smoke and Tobacco-Free Policy
+        -   Smoking
+        -   Student Disorderly Conduct Policy, MSU
+        -   Student Events-Social
+        -   Student Fee Collection (Student Taxation)
+        -   Undercover Surveillance Involving MSU Student Organizations¹
+        -   University Trademarks
+        -   Vehicles
+        -   Impounded Vehicles
+        -   Withdrawal Procedures and Policies
+        -   Other Ordinances
+
+
+Search Spartan Life
+
+Search Spartan Life:
+
+Spartan Life Student Handbook
+
+> Regulations
+
+> Student Group Regulations, Administrative Rulings, All-University
+Policies, and Selected Ordinances
+
+> Guidelines Regarding Bulk Email by Internal Users on MSUnet
+
+[Click here to print this page]
+
+
+
+GUIDELINES REGARDING BULK EMAIL BY INTERNAL USERS ON MSUNET
+
+
+(Administrative Ruling)
+
+June 22, 2009
+
+PREAMBLE
+
+Communications are increasingly conducted by way of email and other
+electronic means. Because the marginal cost of distributing email is
+very small (for the sending party) compared to paper-based or voice
+communications and email travels very quickly, email is seen to hold
+great potential for cost savings and operational efficiencies.
+
+There also are problems associated with increased use of email:
+
+-   The quantity of undesired email (“spam”) everyone receives is large
+    and continues to increase. Spam is not only bothersome and sometimes
+    offensive, but it also entails a material cost of personal time to
+    process and eliminate from one’s email Inbox. Additionally, it
+    diminishes the perceived value of other email received. If opening,
+    reading, thinking about and disposing of a piece of mass email takes
+    each recipient only 10 seconds, then email sent to and read by every
+    MSU student would consume more than 5 person-days of collective
+    time, and email sent to and read by every MSU employee almost 2
+    person-days of collective time.
+-   The university’s electronic network and the subnets, devices and
+    storage connected to it are finite resources provided to facilitate
+    the scholarship and work of members of the university community.
+    Excessive use of bulk email will negatively affect the performance
+    of these resources.
+-   Not all intended recipients of electronic messages may receive or
+    regularly open email, nor have routine access to computers in their
+    workplace. Some carefully targeted paper-based communications may
+    continue to be necessary in some cases.
+
+Thus, it makes sense to permit broader use of bulk email to promote
+institutional operating efficiency, but simultaneously to recognize that
+operating efficiency is also critically dependent on judicious use.
+
+GUIDELINES FOR USE OF BULK EMAIL
+
+These guidelines apply to members of the MSU community (students,
+faculty, staff, affiliates, university offices and programs). THE
+PURPOSES OF THESE GUIDELINES ARE TO IMPROVE THE EFFECTIVENESS AND
+EFFICIENCY OF ELECTRONIC COMMUNICATION, AND TO MINIMIZE THE AMOUNT OF
+_UNDESIRED_ EMAIL THAT MEMBERS OF THE MSU COMMUNITY RECEIVE FROM OTHER
+MEMBERS OF THE MSU COMMUNITY. It is anticipated that the application of
+the guidelines (1-6) will minimize the amount of undesired email
+originating from within MSU and sent within and outside of the
+university. Further, it is hoped that the set of effective practices
+described by the design guidelines (A-N) will guide the University
+community in decisions and designs regarding the distribution of email.
+
+“Bulk email” in this context means the transmission of an email message
+within a short time frame to more than a small set of recipients who may
+not have elected voluntarily to receive the email. “Short time frame”
+means an interval spanning as long as 2 days. “Small set of recipients”
+means the size of individual-recipient address lists (To, CC, BCC
+fields) typical of most emails in common use, ranging from 1, to a few,
+to as many as may be involved in a large committee or work group
+(20-30). Use of mailing lists and listservs to which recipients may
+voluntarily opt in and opt out is encouraged, and this type of email
+distribution is not included in the meaning of “bulk email” in this
+document.
+
+-   PROHIBITED USES. Bulk emailing may NOT be used for personal
+    purposes, advertising or solicitations, or political statements or
+    purposes.
+-   PERMITTED USES FOR BROAD CROSS-UNIVERSITY MAILING. Bulk emailing may
+    be used only by university offices to send communications necessary
+    to the normal course of business and which typically require some
+    official action be taken individually by recipients. Such permitted
+    uses include:
+    -   Dissemination of urgent information of health and safety concern
+        for students and university employees.
+    -   Communication of information regarding changes of university
+        policies or procedures, or actions that affect employment or
+        compensation status, or status as a student.
+    -   Regular communications (for example, to university employees)
+        that are required by law, regulation or university policy for
+        which bulk email may largely replace paper transmittal.
+-   PERMITTED USES FOR TARGETED MAILING. In support of certain permitted
+    uses, university offices may create and use mailing lists for
+    communicating with targeted university sub-populations having a
+    special interest in the specific information being distributed
+    (e.g., account signers, budget and business officers, academic
+    advisors, etc.). Offices are encouraged to use listservs and
+    websites as much as possible for distribution of information of
+    targeted interest. Similarly, faculty and others involved in
+    instruction may email targeted sub-populations having a special
+    interest in the information being distributed, such as students
+    enrolled in their class(es).
+
+-   PERMITTED USES WITHIN MAUS. Major Administrative Units (colleges,
+    divisions) and schools, departments, institutes and centers of the
+    university may, at their own discretion and constrained to their own
+    administrative domains only, expand on the permitted uses to send
+    bulk email to their own faculty, students and staff regarding
+    announcements, newsletter-type content, or their own governance and
+    business issues.
+-   SURVEYS. It is desirable to minimize the use of bulk email for
+    surveying for all of the reasons given in the “Preamble” and to
+    minimize the frequency of bulk email generally. Additionally, care
+    needs to be taken such that surveys do not interfere with MSU’s
+    employee relationships developed through collective bargaining
+    agreements and contracting cycles, or with surveying or other
+    actions that MSU may undertake for institutional interests such as
+    institutional research, external reporting or participation in
+    multi-institutional studies.
+-   APPROVALS: All bulk email surveys must receive prior approval by the
+    appropriate university office(s):
+    -   Surveys that are intended to include students must be approved
+        by and coordinated through the Office of the Registrar. The
+        Registrar will consult additionally with and obtain the
+        approvals of the Chair of the Committee on Release of
+        Confidential Information and the Dean of Undergraduate Studies
+        for surveys intended to include undergraduate students, and the
+        Dean of the Graduate School for studies intended to include
+        graduate students.
+    -   Surveys that are not being sent to students must be approved by
+        and coordinated through IT Services. IT Services will expect
+        that additional applicable approvals will have been obtained by
+        the requestor, and may assist the requestor in consulting with
+        the appropriate offices to obtain those approvals.
+    -   Surveys intended to include MSU employees (faculty, staff or
+        graduate student employees) must be reviewed and approved in
+        advance by Human Resources Office of Employee Relations, which
+        will additionally consult with and obtain the approval of:
+        Academic Human Resources for surveys intended to include MSU
+        faculty or academic staff, and the Dean of the Graduate School
+        for surveys intended to include graduate student employees;
+        Employee Relations may also consult with or need to obtain the
+        approval of the appropriate collective bargaining units.
+    -   For all surveys, if the results of a survey might be published,
+        the survey must be approved in advance by the University
+        Committee on Research Involving Human Subjects.
+
+-   OTHER REQUIREMENTS:
+    -   All surveys should be carefully targeted to impact only those
+        recipients who may be legitimate subjects of the survey. Surveys
+        of large groups (e.g., all faculty, all staff) should be
+        conducted through stratified samples of the group rather than an
+        email to the entire group.
+    -   Bulk email associated with a survey should be minimal in
+        content, containing an invitation to the survey and explaining
+        its purpose, and providing a link to the survey itself at a
+        separate website.
+    -   The Office of the Registrar or IT Services may charge a fee for
+        assisting with a survey.
+    -   Survey requests generally are not accepted from non-University
+        requestors.
+
+-   QUESTIONS AND AMBIGUITIES REGARDING THE GUIDELINES. The CIO shall be
+    consulted regarding questions or ambiguities involving bulk email or
+    these guidelines. Complaints regarding the misuse of email, the
+    distribution of bulk email that may or does violate these
+    guidelines, etc., should be directed to abuse@msu.edu, for
+    consideration by MSUnet administrators.
+
+DESIGN GUIDELINES
+
+Judicious and well-managed use of bulk email, even for permitted
+purposes, is critical to maintaining recipients’ perspectives of the
+validity and effectiveness of electronic communications. The following
+additional design guidelines are strongly suggested for any email
+distributions originating from the MSU community and sent to recipients
+inside or outside the University:
+
+-   Use bulk email infrequently and for reasons of high value to the
+    recipients.
+-   Keep bulk email messages short.
+-   Always use a valid MSUnet address in the “From” line.
+-   Always use a clear, specific and non-empty subject line.
+-   Use plain text; avoid HTML.
+-   Clearly identify in the body of the message the originating unit or
+    individual, the scope of individuals being emailed, and the purpose
+    of the message.
+-   Use URLs rather than attachments to refer readers to policy or
+    practice statements, and long content.
+-   Do not include or attach personal, confidential or sensitive
+    information. To assure the integrity of student education records,
+    consult MSU’s Guidelines Governing Privacy and Release of Student
+    Records.
+-   Carefully target lists of recipients to minimize the number of
+    people who receive any given bulk emailing.
+-   Do not assume that all targeted individuals will receive the email
+    (i.e., do not disadvantage those who may not receive the email).
+-   Send large quantities of bulk email at non-peak times for email
+    traffic (e.g., after 5:00 pm and before noon).
+-   Use existing targeted mailing lists and listservs whenever possible,
+    within the permitted uses of the lists. Recipients should be allowed
+    to opt-in and opt-out of listservs at their own discretion.
+-   Use the “blind carbon copy” (bcc:) address field to suppress a long
+    list of addresses in the “To” field.
+-   Email sent to students must comply with the Family Educational
+    Rights and Privacy Act and MSU’s Guidelines Governing Privacy and
+    Release of Student Records, and should be sent using the “Blind
+    Carbon Copy” (BCC:) address field to suppress names of students to
+    whom the email is being addressed.
+
+Consulted in development of this document:
+
+-   Council of Deans (Fall 2003)
+-   Provost’s staff (Fall 2003, Spring 2004)
+-   Vice President for Finance and Operations staff (Fall 2003,
+    Spring 2004)
+-   CORE group of vice presidents (Summer 2004)
+-   Communications and Computer Systems Advisory Committees
+-   Network Communications Committee (Fall 2004)
+-   Instructional Computing and Technology Committee (Fall 2004)
+-   Revised June 20, 2012
+-   Revised June 10, 2013
+-   Revised July 15, 2016
+-   Revised June 5, 2017
+
+ 
+
+[Michigan State University - Spartans Will.]
+
+© 2010 Michigan State University Board of Trustees. East Lansing, MI
+48824
+MSU is an affirmative-action, equal-opportunity employer.
+
+-   MSU Homepage
+-   Site Map
+
+STUDENT LIFE
+101 Student Services Building | East Lansing, MI 48824-1113
+Phone: 517-355-8286 | Fax: 517-353-5495
