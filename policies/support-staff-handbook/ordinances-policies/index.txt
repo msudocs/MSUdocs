@@ -1,0 +1,250 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: 'University Ordinances and Policies- Support Staff Employee Handbook'
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Support Staff Handbook - University Ordinances {#support-staff-handbook---university-ordinances .page-title xmlns=""}
+
+-   [Acceptable
+    Use](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/acceptable.html "Acceptable Use")
+-   [Borrowing University
+    Equipment](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/borrowing_equipment.html "Borrowing University Equipment")
+-   [Buildings](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/buildings.html "Buildings")
+-   [Conflict of Interest in
+    Employment](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/conflict_interest.html "Conflict of Interest in Employment")
+-   [Contracts with the
+    University](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/contracts.html "Contracts with the University")
+-   [Family Educational Rights and Privacy Act
+    (FERPA)](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/ferpa.html "FERPA")
+-   [Firearms
+    Policy](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/firearms.html "Firearms Policy")
+-   [Freedom of Information Act
+    (FOIA)](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/foia.html "FOIA")
+-   [Grievance Procedure for Non-Bargained for
+    Employees](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/grievance.html "Grievance Procedure for Non-Bargained for Employees")
+-   [Hotline for Reporting
+    Misconduct](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/hotline.html "Hotline")
+-   [Institutional Data
+    Policy](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/institutional_data.html "Institutional Data Policy")
+-   [Motor
+    Vehicles](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/motor_vehicles.html "Motor Vehicles")
+-   [Patents](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/patents.html "Patents")
+-   [Public Sale of
+    Food](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/sale_food.html "Public Sale of Food")
+-   [Questionnaires](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/questionnaires.html "Questionnaires")
+-   [Selling and
+    Advertising](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/sell_advertise.html "Selling and Advertising")
+-   [Solicitation of
+    Funds](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/solicitation.html "Solicitation of Funds")
+    [Students at
+    Risk](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/students-at-risk.html "Students at Risk")
+-   [Suits Against the University and its
+    Staff](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/suits.html "Suits Against the University and its Staff")
+-   [Telephones](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/telephones.html "Telephones")
+-   [Travel](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/travel.html "Travel")
+-   [Work Outside the University and Conflicts of
+    Interest](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/outside_work.html "Work Outside the University and Conflicts of Interest")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Support Staff
+    Handbook](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/index.html "Support Staff Handbook")
+-   [Support Staff
+    Policies](/policies-procedures/support-staff/support-staff-policies-procedures/index.html "Support Staff Policies & Procedures")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+-   [Flexible
+    Scheduling](/policies-procedures/support-staff/support-staff-handbook/flex-scheduling/index.html "Flexible Scheduling")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+University Ordinances and Policies - Support Staff Employee Handbook {#university-ordinances-and-policies---support-staff-employee-handbook .page-title xmlns=""}
+--------------------------------------------------------------------
+
+This section highlights several University Ordinances and Policies. The
+Board of Trustees of Michigan State University adopts ordinances that
+provide for the care, preservation, and protection of the property
+governed by the Board as well as for the security and well being of
+persons on said property. Additional information including a complete
+listing of ordinances are available online at the  [Board of Trustees
+website](https://trustees.msu.edu/ordinances/index.html "Board of Trustees Website")
+.
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/index.pcf)

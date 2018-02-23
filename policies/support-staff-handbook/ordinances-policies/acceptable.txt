@@ -1,0 +1,23 @@
+---
+title: Acceptable Use
+---
+
+::: {#body}
+Support Staff
+
+**Acceptable Use**
+
+The University provides an array of institutional electronic business
+systems, computing services, networks, databases and other electronic
+resources to support the scholarship and work activities of members of
+the University's academic community and their external collaborators.
+These systems support the operations of the University, and provide
+access to publicly--available knowledge and services of the University.
+All University employees are required to know and abide by
+the [Acceptable Use Policy for MSU Information Technology
+Resources](https://tech.msu.edu/about/guidelines-policies/aup/ "MSU Acceptable Use Policy"),
+as well as the [Appropriate Use of Email
+Policy](https://tech.msu.edu/about/guidelines-policies/appropriate-use-msu-email/ "Appropriate Use of MSU Email").
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/acceptable.pcf)

@@ -1,0 +1,23 @@
+---
+title: Institutional Data Policy
+---
+
+::: {#body}
+Support Staff
+
+**Institutional Data Policy**
+
+The University community and external communities have expectations
+regarding the appropriate and ethical uses of data and their stewardship
+that are critical to MSU\'s ability to maintain public trust and
+confidence.  Michigan State University needs to protect the security and
+integrity of its institutional data without hindering the effective and
+efficient use of those Data. Therefore, it is important that everyone
+working with data at MSU be aware of specific legal, policy and
+contractual requirements applicable to these data. The Institutional
+Data Policy establishes minimum requirements for the appropriate
+stewardship of Institutional Data. View [the Institutional Data
+Policy](https://tech.msu.edu/about/guidelines-policies/msu-institutional-data-policy/ "Institutional Data Policy").
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/institutional_data.pcf)

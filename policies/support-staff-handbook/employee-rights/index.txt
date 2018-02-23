@@ -1,0 +1,221 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: 'Employee Rights & Responsibilities - Support Staff Employee Handbook'
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Support Staff Handbook - Employee Rights {#support-staff-handbook---employee-rights .page-title xmlns=""}
+
+-   [New
+    Employees](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/new_employees.html "New Employees")
+-   [Human Resource
+    Definitions](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/hr_definitions.html "Human Resource Definitions")
+-   [Human Resource Policies and
+    Procedures](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/policies_procedures.html "HR Policies and Procedures")
+-   [Rules Governing Conduct of
+    Employees](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/rules.html "Rules Governing Conduct of Employees")
+-   [Attendance/Leaves](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/attendance_leaves.html "Attendance/Leaves")
+-   [Career](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/careers.html "Career")
+-   [Compensation](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/compensation.html "Compensation")
+-   [Safe and Healthy Work
+    Environment](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/safe_work_environment.html "Safe and Healthy Work Environment")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Support Staff
+    Handbook](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/index.html "Support Staff Handbook")
+-   [Support Staff
+    Policies](/policies-procedures/support-staff/support-staff-policies-procedures/index.html "Support Staff Policies & Procedures")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+-   [Flexible
+    Scheduling](/policies-procedures/support-staff/support-staff-handbook/flex-scheduling/index.html "Flexible Scheduling")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+Employee Rights {#employee-rights .page-title xmlns=""}
+---------------
+
+[Employees can reference this section for general employment information
+such as payroll procedures, hours of work, vacation and holiday
+information and the Rules Governing Personal Conduct of Employees.
+Information on career development and rights to a safe and healthy
+working environment are also located here.]{xmlns=""}
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/index.pcf)

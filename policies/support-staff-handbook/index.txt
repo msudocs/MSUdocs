@@ -1,0 +1,233 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: Support Staff Handbook
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+\>
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+::: {.main}
+::: {.container}
+::: {#crumbs}
+[MSU Human Resources](/) \>\> [
+[Policies-procedures](/policies-procedures) \>\> ]{.crumb} [
+[Support-staff](/policies-procedures/support-staff) \>\> ]{.crumb} [
+[Support-staff-handbook](/policies-procedures/support-staff/support-staff-handbook)
+\>\> ]{.crumb} [
+[Ss-handbook](/policies-procedures/support-staff/support-staff-handbook/ss-handbook)
+\>\> ]{.crumb} [Support Staff Handbook]{.lastitem}
+:::
+
+\
+
+::: {.row}
+::: {.page-content .col-sm-8 .col-md-9 role="main"}
+-   [Support Staff
+    Handbook](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/index.html "Support Staff Handbook")
+-   [Support Staff
+    Policies](/policies-procedures/support-staff/support-staff-policies-procedures/index.html "Support Staff Policies & Procedures")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+-   [Flexible
+    Scheduling](/policies-procedures/support-staff/support-staff-handbook/flex-scheduling/index.html "Flexible Scheduling")
+
+\
+
+Support Staff Handbook {#support-staff-handbook .page-title}
+======================
+
+[Letter from the
+AVPHR](/policies-procedures/support-staff/documents/HandbookLetter_Sharon.pdf "Letter from AVPHR")
+
+This handbook has been prepared to acquaint Support Staff employees with
+University policies, procedure, and practices.  In some cases, a website
+address or link will be provided which contains more specific
+information on the topic.
+
+However, not every policy or procedure of the University is contained in
+this handbook.  Further, the policies mentioned in the handbook may be
+changed or terminated at any time by the University.  The handbook does
+not imply contractual obligations to any group or individual.
+
+No individual can change or make exceptions to the Support Staff
+Employee Handbook. Therefore, no one can rely on oral statements or
+direction that is inconsistent with the information contained therein.
+Additionally, the University reserves the right to alter, modify or
+terminate these or any policies at any time without notice.
+:::
+
+::: {.page-sidebar .col-sm-4 .col-md-3 role="complimentary"}
+::: {.sidebar-section}
+Handbook Sections {#handbook-sections .sidebar-title}
+-----------------
+
+-   [Overview](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/Overview.html "Overview")
+    [Diversity and
+    Inclusion](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/diversity/index.html "Diversity & Inclusion- Support Staff Employee Handbook")
+-   [University Ordinances and
+    Policies](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/ordinances-policies/index.html "Ordinances - Support Staff Employee Handbook")
+-   [Employee Rights &
+    Responsibilities](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/index.html "employee rights & responsibilities - employee manual")
+-   [Rules Governing Personal Conduct of
+    Employees](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-rights/rules.html "Rules Governing Personal Conduct")
+-   [Employee
+    Benefits](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/employee-benefits/index.html "Employee Benefits - Support Staff Employee Handbook")
+-   [Termination/Separation from the
+    University](/policies-procedures/support-staff/support-staff-handbook/ss-handbook/term-sep-univ/index.html "Termination/Separation from the University")
+:::
+:::
+:::
+:::
+:::
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/support-staff/support-staff-handbook/ss-handbook/index.pcf)
