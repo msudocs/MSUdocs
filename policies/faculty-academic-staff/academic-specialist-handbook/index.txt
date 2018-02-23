@@ -1,0 +1,432 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: Academic Specialist Handbook
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Academic Specialist Handbook {#academic-specialist-handbook .page-title xmlns=""}
+
+-   [2.0 General Academic Rights and
+    Responsibilities](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/rights_responsibilities.html "Academic Rights")
+-   [2.1 Academic
+    Governance](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/academic_governance.html "Academic Governance")
+-   [2.2 Grievance
+    Policy](/policies-procedures/faculty-academic-staff/faculty-handbook/grievance_policy.html "Faculty Grievance Policy")
+-   2.3 Grievance Panels - [ *Grievance panels at unit level only if
+    explicitly permitted by the unit\'s procedures.*
+    ]{style="color: #3333cc; font-size: 80%;"}
+-   [2.4 Principal
+    Investigator](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/principal_investigator.html "Principal Investigator")
+-   2.5 Guidance and Examination Committees - [ *Guidance committees
+    service pursuant to the provisions contained in Graduate School
+    Catalog.* ]{style="color: #3333cc; font-size: 80%;"}
+-   [2.6 Search Committees for Specified University-Level
+    Administrators](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/search_committee.html "Search Committees")
+
+#### 3.0 Establishment of Positions {#establishment-of-positions xmlns=""}
+
+-   [3.1 Locus of
+    Appointments](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/locus.html "Locus of Appointments")
+-   [3.2 Criteria for
+    Establishment](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/establishment_criteria.html "Criteria for Establishment")
+-   [3.3
+    Credentials](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/credentials.html "Credentials")
+-   [3.4 Procedure for Establishing
+    Positions](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/establishing_positions.html "Procedure for Establishing Positions")
+-   [3.5 Minimum
+    Salaries](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/min_salary.html "Minimum Salaries")
+-   [3.6 Affirmative
+    Action](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/affirmative_action.html "Affirmative Action")
+
+#### 4.0 Appointment Policies {#appointment-policies xmlns=""}
+
+-   [4.1 Position
+    Description](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/position_description.html "Position Description")
+-   [4.2 Letter of
+    Offer](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/offer_letter.html "Letter of Offer")
+-   [4.3 Appointment
+    Period](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/app_period.html "Appointment Period")
+-   [4.4 Extension of Probationary Appointments for Leaves of
+    Absence](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/extension_loa.html "Extend Probationary Appointment")
+-   [4.5 Continuing Appointment Status, Commitment Period for
+    Part-Time](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/cont._appointment_status.html "Continuing Appointment")
+-   [4.6 Changes from Annual to Academic Year
+    Appointment](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/change_annual_ay.html "Annual to Academic year appointment")
+-   [4.7 Credit for Previous Service Toward Probationary
+    Appointments](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/credit_previous_service.html "Credit for Previous Service")
+-   [4.8 Initial Continuing and Probationary
+    Appointments](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/cont_probationary_apps.html "Continuing & Probationary appointments")
+-   [4.9 Fixed Term
+    Appointments](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/fixed-term_app.html "Fixed Term Appointments")
+-   [4.10 Dual
+    Appointments](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/dual_apps.html "Dual Appointments")
+
+#### [5.0 Evaluation, Reappointment, Continuing Appointment, & Promotion](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/eval_re-app_cont-app_promotion.html "05.0 Evaluation, Reappointment, Continuing Appointment, and Promotion") {#evaluation-reappointment-continuing-appointment-promotion xmlns=""}
+
+-   [5.1 Evaluation
+    Basis](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/EvaluationBasis.html "Evaluation Basis")
+-   [5.2 Annual
+    Evaluation](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/annual_eval.html "Annual Evaluation")
+-   [5.3 Reappointment, Continuing Appointment, and
+    Promotion](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/reapp_cont-app_promotion.html "Reappointment, Continuing, Promotion")
+
+#### 6.0 Separation From Employment; Dismissal and Discipline {#separation-from-employment-dismissal-and-discipline xmlns=""}
+
+-   [6.1 Unsuccessful
+    Probation](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/dismissal_discipline.html "Unsuccessful Probation")
+-   [6.2 Dismissal for
+    Cause](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/dismissal_for_cause.html "Dismissal for cause")
+-   [6.3
+    Discipline](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/discipline.html "Discipline")
+-   [6.4 Elimination of
+    Position](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/position_elimination.html "Elimination of Position")
+-   [6.5
+    Resignation](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/resignation.html "Resignations")
+-   [6.6
+    Retirement](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/retirement.html "Retirment")
+
+#### 7.0 Appointment Policies {#appointment-policies-1 xmlns=""}
+
+-   [7.1 Health
+    Assessment](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/health_assessment.html "Health Assessment ")
+-   [7.2 Payroll
+    Procedures](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/payroll_process.html "Payroll Procedures")
+-   [7.3 Jury
+    Duty](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/jury_duty.html "Jury Duty")
+-   [7.4 Identification
+    Cards](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/ID_cards.html "Identification Cards")
+-   [7.5 Time
+    Off/Leaves](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/medical_leaves.html "Time Off/Leaves")
+-   [7.6 Professional
+    Development](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/professional_dev.html "Professional Development")
+-   [7.7 Course Fee Courtesy
+    Policy](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/course_fee_courtesy.html "Course Fee Courtesy")
+-   [7.8 Overload
+    Pay](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/overload_pay.html "Overload Pay")
+-   [7.9 Consulting and Outside
+    Work](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/outside_work.html "Outside Work")
+-   [7.10 Distinguished Academic Staff
+    Award](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/distinguished_staff_award.html "Distinquished Academic Staff Award")
+-   [7.11 Credit for Past
+    Services](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/credit_past_service.html "Credit for Past Service")
+-   [7.12 Bridging Breaks in
+    Service](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/bridge_breaks.html "Bridging Breaks in Service")
+
+#### 8.0 Benefits {#benefits xmlns=""}
+
+-   [8.1 Automatic
+    Benefits](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/auto_benefits.html "Automaic Benefits")
+-   [8.2 Optional
+    Benefits](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/optional_benefits.html "Optional Benefits")
+-   [8.3 Retirement
+    Plans](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/retirement_plans.html "Retirement Plans")
+-   [8.4 Academic Specialist Benefits in the Event of a Leave of
+    Absence, Termination, or
+    Death](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/benefits_loa_term_death.html "Benefits in Event of LOA, Termination, Death")
+-   8.5 Dispute -[ *[In the event of dispute, provisions of the master
+    contracts prevail for Benefit plans]{style="font-size: 80%;"}.*
+    ]{style="color: #0033ff;"}
+
+#### [9.0 Revisions and Amendments](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/revisions_amendments.html "Revisions & Amendments") {#revisions-and-amendments xmlns=""}
+
+#### Appendices {#appendices xmlns=""}
+
+-   [Appendix A. Functional Description of Specialist Duties,
+    Advancement in the System and Administrative
+    Responsibilities](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/appendix_a.html "Appendix A")
+-   [Appendix B. Guidelines for Specialist
+    Placements](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/appendix_b.html "Appendix B")
+-   [Appendix C. Board of Trustees
+    Summary](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/appendix_c.html "Appendix c ")
+-   [Appendix
+    D](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/appendix_d.html "Appendix D")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Academic Specialist
+    Handbook](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/index.html "Academic Specialist Handbook")
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "listing of all Faculty Handbooks")
+-   [University Wide Policies &
+    Procedures](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+Academic Specialist Handbook {#academic-specialist-handbook-1 xmlns=""}
+============================
+
+### 1.0 Disclaimer {#disclaimer xmlns=""}
+
+The Academic Specialist Handbook contains employment policies
+specifically related to employment as an Academic Specialist in the
+Academic Specialist Continuing Appointment System and as an Academic
+Specialist in a fixed term appointment. This document does not replace
+or modify other existing University policies, which remain in effect for
+all University employees. In circumstances where the Academic Specialist
+Handbook is silent on an issue, the applicable policy contained in the
+Faculty Handbook prevails.
+
+For fixed term Academic Specialists covered by the Union of Non-Tenure
+Track Faculty (UNTF) bargaining unit, the terms and conditions of
+employment are governed by the collective bargaining agreement between
+the University and the UNTF. In cases where only a portion of the
+Academic Specialist\'s work duties and responsibilities are covered by
+the UNTF collective bargaining agreement, the specific facts of the
+individual case will determine the appropriate process to be used for
+investigations, discipline, and grievances. In these cases, and in
+situations where the UNTF agreement is silent on an issue, the Office of
+Employee Relations or Academic Human Resources should be contacted to
+determine the appropriate course of action.
+
+### 1.1 Roles of Academic Specialists in the University {#roles-of-academic-specialists-in-the-university xmlns=""}
+
+The principal responsibilities of the academic specialist fall into one
+or more of three functional areas:
+
+::: {xmlns=""}
+1.  Academic advising/teaching/curriculum development
+2.  Research
+3.  Service/Outreach
+:::
+
+The academic specialist normally is identified with the one functional
+area into which the majority of duties fall. Characteristically, the
+academic specialist performs activities in one or more functional areas
+in addition to the primary area. The academic specialist has a collegial
+relationship within the academic community by fostering an exchange of
+ideas, views, and perspectives. The academic specialist has a
+responsibility to the University to strive for academic excellence and
+to be held accountable for academic integrity. The evaluation criteria
+for a particular position and the individual who fills that position
+will reflect an appropriately weighted combination of the functional
+areas that apply. An extensive description of the functional areas and
+associated duties of the academic specialist is found in Appendix A.
+
+### 1.2 General Definition {#general-definition xmlns=""}
+
+The Academic Specialist Appointment System consists of individuals
+appointed to one of two ranked levels: senior academic specialist or
+academic specialist. Appointments are made in units reporting directly
+or indirectly to the Provost or the Vice President for Research and
+Graduate Studies. Academic specialists may be appointed on a fixed term
+or continuing basis, full-time or part-time, with either an academic
+year (nine-month) or an annual (twelve-month) duty assignment. The fixed
+term academic specialist is appointed with an end date on an academic
+year or annual basis or for shorter periods. Generally, repeated fixed
+term appointments should not be used as a mechanism to by-pass the
+continuing appointment system. However, positions funded with grant or
+other non-general funds normally are fixed term in nature. The
+continuing system academic specialist is initially appointed to a
+probationary appointment. In unusual cases, a senior academic specialist
+may be granted continuing appointment status from the date of
+appointment see Section 4.8. Excellent performance during the
+probationary appointments may lead to the award of continuing
+appointment status for the individual. Continuing academic specialists
+are appointed at 50% time or greater.
+
+Continuing appointment status assures that the academic specialist will
+not be dismissed due to capricious action by the University nor will
+dismissal be used as a restraint of academic freedom or other civil
+rights. As in the tenure system and librarian continuing appointment
+system, continuing appointment status does not guarantee employment if
+positions are not funded, if gross misconduct occurs, if the academic
+specialist refuses to perform reasonable assigned duties, or fails to
+fulfill contractual obligations, or if the academic specialist is no
+longer able to perform satisfactorily in his or her professional
+capacity at the University.
+
+Assignments for all academic specialists involve applicable assigned
+duties (academic advising/teaching/curriculum development, research, and
+service/outreach responsibilities) and related professional development
+activities. For academic specialists appointed on an annual (AN) year
+basis, salaries are paid in twelve monthly installments on the last
+working day of each month except for individuals appointed on an annual
+basis for less than 12 months who receive salaries on a monthly basis
+during the stipulated period. The academic specialist appointed on an
+academic year (AY) basis is normally assigned duties during the period
+August 16 to May 15; salaries are paid in ten installments on the last
+working day of the month over the duty period, August 16 through May
+15.  There is no vacation entitlement apart from official University
+holidays for academic specialists with an academic year appointment. 
+The academic specialist appointed on an annual basis is assigned duties
+for a full calendar year or the specified period of appointment and is
+eligible for stipulated vacation periods and official University
+holidays.
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/academic-specialist-handbook/index.pcf)

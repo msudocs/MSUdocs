@@ -1,0 +1,256 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: 'Staff Handbook for the Continuing Appointment System of FRIB/NSCL'
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### CAS FRIB/ NSCL {#cas-frib-nscl .page-title xmlns=""}
+
+-   [01. Role and Responsibilities of CA
+    Staff](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/roles_responsibilities.html "NSCL Roles & Responsibilities")
+-   [02. Appointment
+    Basis](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/app_basis.html "NSCL Appointment Basis")
+-   [03.
+    Credentials](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/credentials.html "NSCL Credentials")
+-   [04. Fixed Term
+    Appointments](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/fixed-term_appointments.html "NSCl Fixed Term Appointments")
+-   [05. Joint
+    Appointments](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/joint_appointments.html "NSCL Joint Appointments")
+-   [06. Probationary Appointments in the CA
+    System](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/probationary_apps.html "NSCL Porbationary Appointments")
+-   [07. Continuing Status in the CA
+    System](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/continuing_status.html "NSCL Continuing Status") 
+-   [08. Procedures for Recommending Reappointment, Promotion, and
+    Continuing
+    Status](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/reappointment_promotion_cont-status.html "NSCL Procedures for Recommending Reappointment")
+-   [09. Grievance
+    Procedure](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/grievance_procedure.html "NSCL Grievance Procedure")
+-   [10. Dismissal for
+    Cause](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/dismissal_cause.html "NSCL Dismissal for Cause")
+-   [11. Position of CA Staff in the Event of a Cutback in Laboratory
+    Funding](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/cutback_lab_funds.html "NSCL Staff Position if Cutbacks")
+-   [12. Professional
+    Development](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/prof_development.html "NSCL Professional Development")
+-   [13. General
+    Conditions](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/general_conditions.html "NSCl General Conditions")
+-   [Appendix I: Leave
+    Policies](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appedixI_leave.html "NSCL Leave Policies")
+-   [Appendix II: Interruption/Compensation
+    Program](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appendixII_compensation.html "NSCL Interruption Program")
+-   [Appendix III: Benefit Eligibility, Resignation and
+    Retirement](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appendixIII_benefits.html "NSCl Benefit Eligibility")
+-   [Appendix IV: Outside Work for
+    Pay](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appendixIV_outside-work.html "NSCL outside work")
+-   [Appendix V: Academic Rights and
+    Responsibilities](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appendixV_rights.html "NSCL Academic Rights")
+-   [Appendix VI: Procedures for the Dismissal of CA Staff for
+    Cause](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appendixVI_dismissal.html "NSCL Dismissal for Cause Procedures")
+-   [Appendix VII: Disciplinary Action Where Dismissal is Not
+    Sought](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appendixVII_discipline.html "NSCL Discipline")
+-   [Appendix VIII: Annual Review and Salary
+    Determination](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appendixVIII_salary.html "NSCL Annual Review")
+-   [Appendix\_IX: Administrative Structure of
+    FRIB/NSCL](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/appendixIX_admin-structure.html "NSCL Administrative Structure")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Continuing Appointment System of
+    FRIB/NSCL](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/index.html "Staff Handbook for the Continuing Appointment System of FRIB/NSCL")
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "All Faculty Handbooks")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+FRIB/NSCL Continuing Appointment System {#fribnscl-continuing-appointment-system xmlns=""}
+=======================================
+
+::: {xmlns="" style="text-align: left;"}
+This Staff Handbook contains employment policies specifically related to
+employment in the Continuing Appointment System (\"the CA System\") of
+the Facility for Rare Isotope Beams and the National Superconducting
+Cyclotron Laboratory (collectively referred to as \"Laboratory\"). This
+Handbook does not replace or modify other existing University policies,
+which remain in effect for all University employees. In circumstances
+when this Handbook is silent on an issue, the Laboratory adheres to the
+corresponding policy contained in the Faculty Handbook.
+:::
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/continuing-frib-nscl/index.pcf)

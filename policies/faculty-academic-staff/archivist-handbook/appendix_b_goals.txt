@@ -1,0 +1,68 @@
+---
+title: 'Appendix B: Writing Goals and Objectives'
+---
+
+::: {#body}
+Archivist Handbook
+
+**Appendix B: Writing Goals and Objectives**
+
+Archivists determine their goals and objectives for the upcoming year
+based on their major areas of responsibility. The current job
+description and ongoing projects should be used to determine
+responsibilities. Each major area of responsibility should have at least
+one goal. Goals are written definitions of what you expect to accomplish
+within a given time period. A goal is not what you do, but the result
+you want to achieve. Objectives are more specific and have measurable
+outcomes. Objectives are the steps needed to achieve the goal.
+
+The Anatomy of a Goal:
+
+Goal Statement
+
+What do I hope to accomplish?
+
+Action Plan
+
+What do I need to do?
+
+What steps must I take and what is my timeline?
+
+Performance Measure
+
+How good is "good enough"?
+
+How will I know that I have achieved this goal?
+
+Goals should
+be **SMART**: **S**pecific **M**easurable **A**ttainable **R**elevant **T**ime-limited
+
+Examples:
+
+Vague goal:
+
+*"I want to improve the way we keep reference statistics."*
+
+ Better goal:
+
+*"Develop a new system for tracking reference queries and implement by
+the start of the calendar year."*
+
+Objectives for this goal:
+
+*Determine which statistics related to reference are necessary to
+maintain*
+
+*Design and test a tracking database*
+
+*Write up instructions and conduct training at a team meeting*
+
+*Follow up with staff to determine if any problems\
+\
+* [Back to the Archivist
+Handbook](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/archivist-handbook/index.html)
+*\
+*
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/archivist-handbook/appendix_b_goals.pcf)

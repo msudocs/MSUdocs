@@ -1,0 +1,31 @@
+---
+title: '5.2 Processing An On-Call Appointment'
+---
+
+::: {#body}
+Academic Hiring Manual
+
+**5.2 Processing An On-Call Appointment**
+
+::: {xmlns=""}
+An academic hiring form must be filled out and be completely processed
+(i.e., be approved by the Dean, and Human Resources, and be processed
+into the HR/Payroll System) before Payroll can process payments. Thus it
+is important to fill out the form and submit it for approval well in
+advance of the period during which the work will be performed.
+:::
+
+Complete [Form
+I-9](https://hr.msu.edu/ua/i9/index.html "I9 Information") Employment
+Eligibility Verification form via electronic I-9 system, and conduct a
+criminal background check.
+
+Submit the hiring form and attach documents via workflow in the EBS
+portal to the Chairperson.  From there the materials are electronically
+routed successively to the Dean and Human Resources.\
+\
+[Back to Academic Hiring
+Manual](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/academic-hiring-manual/index.html "Academic Hiring Manual")
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/academic-hiring-manual/processing_on-call_appointment.pcf)

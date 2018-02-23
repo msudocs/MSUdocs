@@ -1,0 +1,40 @@
+---
+title: '02\. Appointment Basis'
+---
+
+::: {#body}
+Continuing Appointment System of FRIB-NSCL
+
+**02. Appointment Basis**
+
+ Last updated: 09/02/2015 (details at bottom)
+
+::: {xmlns=""}
+2.1 Appointments in the CA System may be on a full-time (100%), annual
+year (12 month) basis or part time.  Part-time probationary or
+continuing appointments must be for 50% time or greater and may be
+recommended at the discretion of the Laboratory Director
+(\"Director\").  A recommendation to change the percent of employment
+requires mutual consent of the employee and the Director (note:  this
+provision does not apply to actions taken pursuant to Sections 10 and 11
+of this Handbook).   Academic year (9 month) appointments may be
+recommended at the discretion of the Director.
+:::
+
+2.2 A Foreign National holding non-immigrant status may be appointed
+within the CA system; however, he/she may not be given continuing
+appointment status in the CA system unless (a) he/she has acquired
+permanent resident status or U.S. citizenship or (b) he/she enters into
+and complies with the terms of a FRIB/NSCL Continuing Appointment
+Agreement approved by the Provost.
+
+Revision History
+
+9/2/2015 - updates made to reference FRIB\
+1/14/2014 - updates made to section 2.1\
+[\
+Back to Staff Handbook for the Continuing Appointment System of
+FRIB/NSCL](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/continuing-frib-nscl/index.html "FRIB/NSCL staff Handbook")
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/continuing-frib-nscl/app_basis.pcf)

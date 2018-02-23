@@ -1,0 +1,543 @@
+---
+title: University Approved Academic Titles
+---
+
+::: {#body}
+Academic Hiring Manual
+
+**University Approved Academic Titles**
+
+::: {xmlns=""}
+Also see [University Approved Academic
+Position/Ranks](/policies-procedures/faculty-academic-staff/academic-hiring-manual/academic_positions_ranks.html).
+:::
+
+Emeritus or acting designations can be used with any title when
+appropriate.
+
+EEO code identifies a level of administrative responsibility which is
+used for federal reporting purposes.
+
+10 = executive management level administrative positions, \
+20 = the next administrative level down, i.e. management \
+30 = positions which are not considered administrative for reporting
+purposes.\
+\
+
++-----------------------+-----------------------+-----------------------+
+| **EEO Code**          | **Title**             | **Comment**           |
++-----------------------+-----------------------+-----------------------+
+|                       |                       | **Executive           |
+|                       |                       | Management**          |
++-----------------------+-----------------------+-----------------------+
+| 10                    | President             |                       |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Secretary of board    | Secretary of the      |
+|                       |                       | Board of Trustees     |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Spec Adv to Pres      | Special Advisor to    |
+|                       |                       | the President         |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Exec vice president   | Executive Vice        |
+|                       |                       | President             |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Sr asc vice president | Senior Associate Vice |
+|                       |                       | President             |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Asc vice president    | Associate Vice        |
+|                       |                       | President             |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Ast vice president    | Assistant Vice        |
+|                       |                       | President             |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Ast to vice pres      | Assistant to the Vice |
+|                       |                       | President             |
++-----------------------+-----------------------+-----------------------+
+| 10                    | General counsel       | General Counsel       |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Deputy genl counsel   | Deputy General        |
+|                       |                       | Counsel               |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Asc genl counsel      | Associate General     |
+|                       |                       | Counsel               |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Ast genl counsel      | Assistant General     |
+|                       |                       | Counsel               |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Provost               |                       |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Sr advisor to the     | Senior Advisor to the |
+|                       | provost and exec vice | Provost and Executive |
+|                       | president             | Vice President        |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Sr Asc Provost        | Senior Associate      |
+|                       |                       | Provost               |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Asc provost           | Associate Provost     |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Ast provost           | Assistant Provost     |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Administrator         |                       |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Controller            |                       |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Univ Registrar        | University Registrar  |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Univ architect        | University Architect  |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Univ engineer         | University Engineer   |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Exec mgmt director    | Executive Management  |
+|                       |                       | Director              |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Exec mgmt asc dir     | Executive Management  |
+|                       |                       | Associate Director    |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Exec mgmt manager     | Executive Management  |
+|                       |                       | Manager               |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Chief Inves Offr      | Chief Investment      |
+|                       |                       | Officer               |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Sr Inst Eq Coord      | Senior Institutional  |
+|                       |                       | Equity Coordinator    |
++-----------------------+-----------------------+-----------------------+
+| 10                    | Title Ix Coord        |  Title IX Coordinator |
++-----------------------+-----------------------+-----------------------+
+|                       |                       | **Management**        |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Dean                  |                       |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Senior asc dean       | Senior Associate Dean |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Associate dean        | -   ***General        |
+|                       |                       |     Position          |
+|                       |                       |     Statement***      |
+|                       |                       |                       |
+|                       |                       | The Associate Dean    |
+|                       |                       | provides              |
+|                       |                       | administrative        |
+|                       |                       | support to a dean who |
+|                       |                       | is the chief          |
+|                       |                       | executive officer of  |
+|                       |                       | an academic unit      |
+|                       |                       | engaged in            |
+|                       |                       | instruction,          |
+|                       |                       | research, and         |
+|                       |                       | outreach/engagement   |
+|                       |                       | or a major unit       |
+|                       |                       | engaged in a          |
+|                       |                       | programmatic aspect   |
+|                       |                       | of the                |
+|                       |                       | campus/university     |
+|                       |                       | mission.  The         |
+|                       |                       | Associate Dean        |
+|                       |                       | exercises independent |
+|                       |                       | judgment, and handles |
+|                       |                       | a highly diversified  |
+|                       |                       | mixture of            |
+|                       |                       | responsibilities in   |
+|                       |                       | one or several        |
+|                       |                       | specialized areas and |
+|                       |                       | may represent or      |
+|                       |                       | assume authority for  |
+|                       |                       | the unit in the       |
+|                       |                       | absence of the dean.  |
+|                       |                       |                       |
+|                       |                       | Associate Deans       |
+|                       |                       | should have a faculty |
+|                       |                       | role, with an         |
+|                       |                       | appointment in the    |
+|                       |                       | tenure system or the  |
+|                       |                       | Health Programs (HP)  |
+|                       |                       | appointment system.   |
+|                       |                       |                       |
+|                       |                       | Based on a review of  |
+|                       |                       | the functions to be   |
+|                       |                       | performed and the     |
+|                       |                       | qualifications,       |
+|                       |                       | skills, and abilities |
+|                       |                       | of the individual, an |
+|                       |                       | exception on an       |
+|                       |                       | individual case basis |
+|                       |                       | may be requested.     |
+|                       |                       |                       |
+|                       |                       | Units may have more   |
+|                       |                       | restrictive           |
+|                       |                       | requirements.         |
+|                       |                       |                       |
+|                       |                       | -   ***Reporting      |
+|                       |                       |     Relationship***   |
+|                       |                       |                       |
+|                       |                       | Associate Deans       |
+|                       |                       | report to a Senior    |
+|                       |                       | Associate Dean or the |
+|                       |                       | Dean                  |
+|                       |                       |                       |
+|                       |                       | ***•Typical           |
+|                       |                       | Responsibilities***   |
+|                       |                       |                       |
+|                       |                       | 1.   Administrative   |
+|                       |                       | affairs, such as      |
+|                       |                       | planning, evaluating, |
+|                       |                       | formulating, and      |
+|                       |                       | implementing policy   |
+|                       |                       | for allocation and    |
+|                       |                       | utilization of        |
+|                       |                       | resources;            |
+|                       |                       | responsibility for    |
+|                       |                       | facilities and space  |
+|                       |                       | utilization,          |
+|                       |                       | administering         |
+|                       |                       | activities for        |
+|                       |                       | recruiting and hiring |
+|                       |                       | faculty and staff;    |
+|                       |                       | formulating fiscal    |
+|                       |                       | policies, developing  |
+|                       |                       | procedures and        |
+|                       |                       | systems for budget    |
+|                       |                       | review and            |
+|                       |                       | expenditure control;  |
+|                       |                       | advising and working  |
+|                       |                       | with department or    |
+|                       |                       | unit heads to         |
+|                       |                       | establish and         |
+|                       |                       | implement policies    |
+|                       |                       | and procedures        |
+|                       |                       | relating to the       |
+|                       |                       | unit/campus/universit |
+|                       |                       | y;                    |
+|                       |                       | serving on            |
+|                       |                       | campus-wide           |
+|                       |                       | committees.\          |
+|                       |                       | \                     |
+|                       |                       | 2.   External         |
+|                       |                       | affairs, such as      |
+|                       |                       | coordinating and      |
+|                       |                       | strengthening         |
+|                       |                       | relationships with    |
+|                       |                       | corporations,         |
+|                       |                       | foundations, federal  |
+|                       |                       | and state funding     |
+|                       |                       | agencies, alumni,     |
+|                       |                       | parents, the media,   |
+|                       |                       | and the general       |
+|                       |                       | public; acquiring     |
+|                       |                       | external funds for    |
+|                       |                       | facilities and major  |
+|                       |                       | equipment; developing |
+|                       |                       | agreements with       |
+|                       |                       | external institutions |
+|                       |                       | relating to academic  |
+|                       |                       | and research          |
+|                       |                       | programs.             |
+|                       |                       |                       |
+|                       |                       | 3.   Research and     |
+|                       |                       | academic affairs,     |
+|                       |                       | such as               |
+|                       |                       | conceptualizing and   |
+|                       |                       | developing long range |
+|                       |                       | and strategic plans;  |
+|                       |                       | developing and        |
+|                       |                       | evaluating the        |
+|                       |                       | curriculum,           |
+|                       |                       | overseeing            |
+|                       |                       | accreditation and     |
+|                       |                       | certification         |
+|                       |                       | requirements;         |
+|                       |                       | stimulating research; |
+|                       |                       | supervising           |
+|                       |                       | collaborative         |
+|                       |                       | education or research |
+|                       |                       | programs. May teach   |
+|                       |                       | and/or pursue         |
+|                       |                       | independent scholarly |
+|                       |                       | research.             |
+|                       |                       |                       |
+|                       |                       | 4.    Student         |
+|                       |                       | affairs, such as      |
+|                       |                       | coordinating          |
+|                       |                       | recruitment,          |
+|                       |                       | admission and         |
+|                       |                       | retention programs,   |
+|                       |                       | overseeing student    |
+|                       |                       | support services, and |
+|                       |                       | student life          |
+|                       |                       | programs.             |
+|                       |                       |                       |
+|                       |                       | This statement is an  |
+|                       |                       | adaptation of the     |
+|                       |                       | \"Standard Title:     |
+|                       |                       | Associate Dean\" from |
+|                       |                       | the University of     |
+|                       |                       | Illinois/Urbana-Champ |
+|                       |                       | aign                  |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Assistant dean        | **•*General Position  |
+|                       |                       | Statement***          |
+|                       |                       |                       |
+|                       |                       | The Assistant Dean    |
+|                       |                       | provides              |
+|                       |                       | administrative        |
+|                       |                       | support to a dean or  |
+|                       |                       | associate dean, and   |
+|                       |                       | may direct the        |
+|                       |                       | operations of an      |
+|                       |                       | office or program     |
+|                       |                       | within the unit. The  |
+|                       |                       | Assistant Dean may be |
+|                       |                       | responsible for a     |
+|                       |                       | wide range of support |
+|                       |                       | services or may focus |
+|                       |                       | on a specialized      |
+|                       |                       | area. The Assistant   |
+|                       |                       | Dean provides         |
+|                       |                       | leadership and        |
+|                       |                       | exercises independent |
+|                       |                       | judgment.             |
+|                       |                       |                       |
+|                       |                       | Assistant Deans       |
+|                       |                       | should have an        |
+|                       |                       | appointment as a      |
+|                       |                       | faculty member or as  |
+|                       |                       | an academic           |
+|                       |                       | specialist with a     |
+|                       |                       | terminal degree that  |
+|                       |                       | would permit          |
+|                       |                       | appointment as a      |
+|                       |                       | faculty member.       |
+|                       |                       |                       |
+|                       |                       | Based on a review of  |
+|                       |                       | the functions to be   |
+|                       |                       | performed and the     |
+|                       |                       | qualifications,       |
+|                       |                       | skills, and abilities |
+|                       |                       | of the individual, an |
+|                       |                       | exception on an       |
+|                       |                       | individual case basis |
+|                       |                       | may be requested.     |
+|                       |                       |                       |
+|                       |                       | Units may have more   |
+|                       |                       | restrictive           |
+|                       |                       | requirements.         |
+|                       |                       |                       |
+|                       |                       | •** *Reporting        |
+|                       |                       | Relationship***       |
+|                       |                       |                       |
+|                       |                       | Assistant Deans       |
+|                       |                       | report to an          |
+|                       |                       | Associate Dean or the |
+|                       |                       | Dean                  |
+|                       |                       |                       |
+|                       |                       | **•*Typical           |
+|                       |                       | Responsibilities***   |
+|                       |                       |                       |
+|                       |                       | 1.   Administrative   |
+|                       |                       | affairs, such as      |
+|                       |                       | assisting in general  |
+|                       |                       | administrative        |
+|                       |                       | planning and resource |
+|                       |                       | allocation; providing |
+|                       |                       | administrative        |
+|                       |                       | assistance to the     |
+|                       |                       | dean; overseeing      |
+|                       |                       | financial and         |
+|                       |                       | business services,    |
+|                       |                       | financial management, |
+|                       |                       | budget preparation,   |
+|                       |                       | control of funds;     |
+|                       |                       | overseeing personnel, |
+|                       |                       | space, and equipment  |
+|                       |                       | management and        |
+|                       |                       | operational policies  |
+|                       |                       | and procedures;       |
+|                       |                       | developing annual and |
+|                       |                       | ad hoc reports,       |
+|                       |                       | maintaining           |
+|                       |                       | databases, and        |
+|                       |                       | providing expertise,  |
+|                       |                       | analysis, and         |
+|                       |                       | interpretation of     |
+|                       |                       | studies and data to   |
+|                       |                       | develop and establish |
+|                       |                       | policy; representing  |
+|                       |                       | the office on         |
+|                       |                       | standing or selected  |
+|                       |                       | ad hoc committees.    |
+|                       |                       |                       |
+|                       |                       | 2.   Academic         |
+|                       |                       | affairs, such as      |
+|                       |                       | implementing academic |
+|                       |                       | policy; overseeing    |
+|                       |                       | the curriculum;       |
+|                       |                       | assisting with        |
+|                       |                       | accreditation review  |
+|                       |                       | documentation;        |
+|                       |                       | coordinating with     |
+|                       |                       | other units; managing |
+|                       |                       | course catalogs,      |
+|                       |                       | timetables,           |
+|                       |                       | examination           |
+|                       |                       | schedules; preparing  |
+|                       |                       | program proposals;    |
+|                       |                       | providing leadership  |
+|                       |                       | for continuing        |
+|                       |                       | education programs,   |
+|                       |                       | workshops, seminars.  |
+|                       |                       | May teach and pursue  |
+|                       |                       | independent scholarly |
+|                       |                       | research.             |
+|                       |                       |                       |
+|                       |                       | 3.   Research         |
+|                       |                       | activities, such as   |
+|                       |                       | overseeing contracts  |
+|                       |                       | and grants review,    |
+|                       |                       | negotiation and       |
+|                       |                       | approval;             |
+|                       |                       | coordinating          |
+|                       |                       | interdisciplinary     |
+|                       |                       | research programs;    |
+|                       |                       | integrating research  |
+|                       |                       | programs with         |
+|                       |                       | academic programs.    |
+|                       |                       |                       |
+|                       |                       | 4.   Student affairs, |
+|                       |                       | such as monitoring    |
+|                       |                       | student progress,     |
+|                       |                       | enforcing academic    |
+|                       |                       | standards, reviewing  |
+|                       |                       | petitions, and        |
+|                       |                       | appeals; providing    |
+|                       |                       | academic counseling   |
+|                       |                       | and remedial          |
+|                       |                       | programs; overseeing  |
+|                       |                       | placement programs    |
+|                       |                       | for residencies,      |
+|                       |                       | fellowships, and      |
+|                       |                       | internships with      |
+|                       |                       | affiliated            |
+|                       |                       | institutions;         |
+|                       |                       | directing career      |
+|                       |                       | placement and         |
+|                       |                       | graduate placement    |
+|                       |                       | services; acting as   |
+|                       |                       | advocate for student  |
+|                       |                       | concerns and needs    |
+|                       |                       | with the faculty and  |
+|                       |                       | administration.       |
+|                       |                       |                       |
+|                       |                       | \                     |
+|                       |                       | 5.   External affairs |
+|                       |                       | and development, such |
+|                       |                       | as acting as liaison  |
+|                       |                       | with outside agencies |
+|                       |                       | and industry;         |
+|                       |                       | developing outreach   |
+|                       |                       | efforts, special      |
+|                       |                       | projects,             |
+|                       |                       | conferences;          |
+|                       |                       | preparing brochures   |
+|                       |                       | and publications      |
+|                       |                       | representing the      |
+|                       |                       | academic unit;        |
+|                       |                       | responsibility for    |
+|                       |                       | alumni relations and  |
+|                       |                       | annual fund raising   |
+|                       |                       | efforts.              |
+|                       |                       |                       |
+|                       |                       | This statement is an  |
+|                       |                       | adaptation of the     |
+|                       |                       | \"Standard Title:     |
+|                       |                       | Assistant Dean\" from |
+|                       |                       | the University of     |
+|                       |                       | Illinois/Urbana-Champ |
+|                       |                       | aign                  |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Senior adv to dean    | Senior Advisor to the |
+|                       |                       | Dean                  |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Director              | There is also a       |
+|                       |                       | Director title in the |
+|                       |                       | \"other\" section     |
+|                       |                       | below                 |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Co-Director           | There is also a       |
+|                       |                       | Co-Director title in  |
+|                       |                       | the \"other\" section |
+|                       |                       | below                 |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Chairperson           |                       |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Chief                 | Chief of Staff, Chief |
+|                       |                       | Operating Officer     |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Division Director     |                       |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Senior Advisor        |                       |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Univ Physician        |                       |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Intellec Integrity    | University            |
+|                       |                       | Intellectual          |
+|                       |                       | Integrity Officer     |
++-----------------------+-----------------------+-----------------------+
+| 20                    | Univ Attending Vet    | University Attending  |
+|                       |                       | Veterinarian          |
++-----------------------+-----------------------+-----------------------+
+|                       |                       | **Neither Executive   |
+|                       |                       | Management nor        |
+|                       |                       | Management Level**    |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Sr asc to dean        | Senior Associate to   |
+|                       |                       | the Dean              |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Ast to dean           | Assistant to the Dean |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Associate director    |                       |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Assistant director    |                       |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Ast to director       | Assistant to the      |
+|                       |                       | Director              |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Asc chairperson       | Associate Chairperson |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Ast chairperson       | Assistant Chairperson |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Ast to chairperson    | Assistant to the      |
+|                       |                       | Chairperson           |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Co-director           |                       |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Director              |                       |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Manager               |                       |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Associate manager     |                       |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Assistant manager     |                       |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Faculty griev off     | Faculty Grievance     |
+|                       |                       | Official              |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Ombudsperson          |                       |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Asc Ombudsperson      | Associate             |
+|                       |                       | Ombudsperson          |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Ast Ombudsperson      | Assistant             |
+|                       |                       | Ombudsperson          |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Sec for acad gov      | Secretary for         |
+|                       |                       | Academic Governance   |
++-----------------------+-----------------------+-----------------------+
+| 30                    | Chair ctte/bd/othr    | Chairperson of        |
+|                       |                       | Committee/Board/Other |
++-----------------------+-----------------------+-----------------------+
+
+\
+[Back to Academic Hiring
+Manual](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/academic-hiring-manual/index.html "Academic Hiring Manual")
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/academic-hiring-manual/academic_titles.pcf)

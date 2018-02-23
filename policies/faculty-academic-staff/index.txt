@@ -1,0 +1,229 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: Faculty and Academic Staff Handbooks
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+\>
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+::: {.main}
+::: {.container}
+::: {#crumbs}
+[MSU Human Resources](/) \>\> [
+[Policies-procedures](/policies-procedures) \>\> ]{.crumb} [
+[Faculty-academic-staff](/policies-procedures/faculty-academic-staff)
+\>\> ]{.crumb} [Faculty and Academic Staff Handbooks ]{.lastitem}
+:::
+
+\
+
+::: {.row}
+::: {.page-content .col-sm-8 .col-md-9 role="main"}
+Faculty Handbooks {#faculty-handbooks .page-title}
+=================
+
+[Academic Hiring
+Manual](/policies-procedures/faculty-academic-staff/academic-hiring-manual/index.html "Academic Hiring Manual")
+
+[Academic Specialist
+Handbook](/policies-procedures/faculty-academic-staff/academic-specialist-handbook/index.html "Academic Specialist Handbook")
+
+[Archivist
+Handbook](/policies-procedures/faculty-academic-staff/archivist-handbook/index.html "Archivist Handbook")
+
+[Executive Management Appointment and Benefits
+Summary](/policies-procedures/faculty-academic-staff/Executive-management-benefit-summary.html "Executive Management Appointment & Benefits Summary")
+
+[Faculty
+Handbook](/policies-procedures/faculty-academic-staff/faculty-handbook/index.html "Faculty Handbook")
+
+[FRIB/NSCL Faculty
+Positions](/policies-procedures/faculty-academic-staff/FRIB-NSCL-Faculty.html "FRIB/NSCL Positions")
+
+[Handbook for Faculty Searches with Special Reference to Affirmative
+Action](/policies-procedures/faculty-academic-staff/affirmative-action/index.html "Affirmative Action Searches")
+
+[Health Programs Faculty Appointment System
+Handbook](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/index.html "HP Faculty Handbook")
+
+[Librarian Personnel Handbook of Policies, Procedures and
+Practices](https://lib.msu.edu/sites/default/files/about-michigan-state-university-libraries/about-us/libarianhandbookandbylawsdec2017-revisions.pdf "Librarian Personnel Handbook")
+
+[MSUE Administrative
+Handbook](http://od.msue.msu.edu/uploads/files/Human_Resources/Administrative_Handbook/Administrative_Handbook.pdf "MSUE Handbook")
+
+[Research Faculty Appointment
+Category](/policies-procedures/faculty-academic-staff/research-faculty.html "Research Faculty Category")
+
+[Staff Handbook for the Continuing Appointment System of
+FRIB/NSCL](/policies-procedures/faculty-academic-staff/continuing-frib-nscl/index.html "FRIB/NSCL staff Handbook")
+:::
+
+::: {.page-sidebar .col-sm-4 .col-md-3 role="complimentary"}
+::: {.sidebar-section}
+### Additional Policies & Procedures {#additional-policies-procedures .sidebar-title}
+
+These policies apply to all Faculty and Academic Staff, in conjunction
+with applicable manuals at left.
+
+-   [University Wide Policies &
+    Procedures](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+-   [Faculty & Academic Staff Policies &
+    Procedures](/policies-procedures/faculty-academic-staff/fas-policies-procedures/index.html "Faculty & Academic Staff Policies & Procedures")
+:::
+:::
+:::
+:::
+:::
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/index.pcf)

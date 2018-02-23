@@ -1,0 +1,139 @@
+---
+title: |
+    Faculty and Academic Staff Overtime and Time Tracking Policy and
+    Procedure
+---
+
+::: {#body}
+Faculty Policies and Procedures
+
+**Faculty and Academic Staff Overtime and Time Tracking Policy and
+Procedure**
+
+Policy {#policy xmlns=""}
+------
+
+**Applies to all Faculty and Academic Staff classified as non-exempt
+under the [Fair Labor Standards
+Act](/flsa/index.html "Fair Labor Standards Act") (FLSA).**
+
+The Fair Labor Standards Act (FLSA) is a federal act that requires
+payment of overtime and the minimum wage for all employees considered
+"non-exempt" under the Act. In addition to the overtime requirement, the
+law requires the tracking of time of those employees who are non-exempt.
+There is no such requirement for exempt employees.
+
+**Overtime: **Overtime is defined under the FLSA as hours worked in
+excess of 40 during a single workweek. Paid leave time is not considered
+time worked and cannot be counted toward the 40 hour per workweek
+overtime calculation.
+
+At MSU, overtime must be approved in advance by the employee's
+supervisor. Employees working overtime without prior approval are
+subject to discipline up to and including discharge. 
+
+**Compensable time: **A non-exempt employee is entitled to compensation
+for all hours worked. If a supervisor allows an employee to work, or has
+reason to believe an employee has worked certain hours, the University
+is responsible for compensating the employee for those hours. A
+nonexempt employee cannot waive the right to compensation for hours
+worked.
+
+**Compensatory time off: **A non-exempt employee may be paid
+compensatory time in lieu of overtime pay. This must be paid at a
+time-and-a-half rate as well (e.g., an employee who works 5 hours of
+overtime is entitled to 7.5 hours of compensatory time). Compensatory
+time must be mutually arranged between the employee(s) and the
+supervisor (see [Faculty and Academic Staff Compensatory Time Policy &
+Procedure](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/fas-policies-procedures/comp_time.html "Faculty and Academic Staff Compensatory Time Policy & Procedure") for
+details). Supervisors must track compensatory time earned and taken in
+the HR/Payroll System through the EBS portal.
+
+**Flexible time: **At the supervisor's discretion, an employee's work
+schedule may be adjusted or flexed **within** a workweek. However, this
+does not abdicate the requirement to pay overtime for all hours worked
+over 40.
+
+**Part-time: **Part-time, non-exempt employees will report all time
+worked, just as full-time employees will. They will earn overtime only
+after 40 hours worked in a week. They will receive straight time pay or
+compensatory time for all time worked under 40 hours in a week, even if
+hours worked are in addition to the employee's normal schedule.
+
+Procedure {#procedure xmlns=""}
+---------
+
+**Time tracking procedures: **All Faculty and Academic Staff classified
+as non-exempt must accurately track and record their hours worked each
+day, as well as leave taken, using this [time
+sheet](/flsa/documents/Time_Tracking_Record.xlsx "Time Tracking Record").
+Time will be tracked to the nearest tenth of an hour. Supervisors must
+review and verify non-exempt employees' time, entered on their time
+sheets, weekly. 
+
+**Procedure for time reporting in EBS: **Supervisors or unit time
+administrators must also report all absences and additional hours worked
+beyond their scheduled work hours into the HR/Payroll System through the
+EBS portal by the time due for payroll processing. 
+
+**Supervisor Responsibilities:**
+
+1.  Be familiar with the University's policies which govern overtime,
+    hours worked and time reporting. Information and resources you will
+    need are contained
+    at [www.hr.msu.edu/flsa](/flsa/index.html "FLSA webpage"). 
+2.  Remind employees that they are responsible for knowing the time
+    tracking procedures contained in this policy and the importance of
+    adhering to all policies and procedures.
+3.  Ensure employees have the [MSU approved
+    timesheet](/flsa/documents/Time_Tracking_Record.xlsx "MSU approved timesheet").
+4.  Review and verify time weekly. Correct any erroneous or missed
+    entries on a timely basis. 
+5.  If you discover that overtime was reported, but not preapproved, you
+    should address it as a policy violation which may mean discipline.
+    However, you must still pay the time as time worked, regardless of
+    whether preapproval was granted.
+6.  If you know, **or have reason to believe**, that an employee worked
+    more than the hours they reported, you should address it as a policy
+    violation which may mean discipline. However, you must still pay the
+    time as time worked, regardless of what they reported. 
+7.  Determine if overtime is needed and schedule employee(s)
+    accordingly.
+8.  Provide as much advance notice to the employee(s) as is practicable.
+9.  Maintain records of time sheets and other records created per this
+    policy for three years.
+
+**Employee Responsibilities:**
+
+1.  Ensure that your time is tracked properly and that your time is
+    recorded completely and accurately on a weekly basis. **If you work
+    more than you record, you are in violation of this policy.** If you
+    believe you are being coerced, persuaded or otherwise encouraged to
+    record inaccurate hours, you should report this to Academic Human
+    Resources immediately (contact information below). If you would
+    rather do so anonymously, you may report this to the MSU misconduct
+    hotline
+    at[ http://misconduct.msu.edu/](/documents/facacadpolproc/%20http:/misconduct.msu.edu/ "MSU Misconduct Hotline"). 
+2.  Adhere to all University policies, procedures and departmental rules
+    related to time and attendance.
+3.  Report promptly any discrepancies or inaccuracies in time worked,
+    compensatory or overtime earned and in pay to your supervisor or
+    Academic Human Resources (contact information below).
+
+**Supervisor/Unit Time Administrator Responsibilities:** Enter
+exceptions in the HR/Payroll system through the EBS portal by the time
+due for payroll processing.  If an employee worked overtime, entering
+the hours will trigger the overtime payment in the next paycheck.
+
+Refer questions to:\
+Academic Human Resources\
+Melanie
+Trowbridge, [mjt@provost.msu.edu](mailto:mjt@provost.msu.edu?subject=Overtime%20Inquiry) [\
+](mailto:mjt@provost.msu.edu)Kara
+Yermak, [burtkara@provost.msu.edu](mailto:burtkara@provost.msu.edu?subject=Overtime%20Inquiry) \
+\
+[Back to Faculty & Academic Staff Policies and
+Procedures](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/fas-policies-procedures/index.html)
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/fas-policies-procedures/overtime.pcf)

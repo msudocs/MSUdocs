@@ -1,0 +1,60 @@
+---
+title: Final Appointment
+---
+
+::: {#body}
+Academic Hiring Manual
+
+**2.5 - Final Appointment**
+
+::: {xmlns=""}
+A. The required forms differ for various types of appointments. The
+following abbreviations are listed in front of the forms to indicate the
+circumstances for which the form is required.
+:::
+
+*All = include for all appointments \
+Fixed = include only for fixed term appointments \
+Cont = include only for tenure/continuing appointments \
+Appl = include only if the form is applicable \
+Spec = include only for Specialist appointments \
+Cntr = include only if employee is on contract*
+
+Chairperson or designee completes the following materials. They are
+forwarded sequentially to the Dean and Human Resources.
+
+  ----------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  All         Appointment form
+  Cont        Prior Approval Letter (Initial appointment as Associate Professor with Tenure or Senior Specialist with Continuing, or Associate Professor Probationary End from two to five years)
+  Fixed       [Fixed Term Faculty/Academic Staff Appointment/Reappointment Memorandum form](https://www.hr.msu.edu/ua/forms/faculty-academic-staff/info-fixed-term-memorandum.html "Info about Fixed Term appointment memorandum")
+  All         Academic Position Request form
+  All         [Search Committee Report](/policies-procedures/faculty-academic-staff/affirmative-action/sample_report.html "Sample Report")
+  Cont        [Letter of Offer](/policies-procedures/faculty-academic-staff/affirmative-action/offer_letter.html "Letter of Offer") and Letter of Acceptance
+  All         Final Results of a criminal background check and/or degree verification
+  Appl        [Multiple Appointment Memorandum form](https://hr.msu.edu/ua/forms/faculty-academic-staff/info-fixed-term-memorandum.html "Info about Multiple Appointment Memo")
+  Appl        [Conflict of Interest in Employment, Faculty/Academic Staff form](https://hr.msu.edu/ua/forms/faculty-academic-staff/info-coi-emp.html "Info about Conflict of Interest in Employment form")
+  Spec All    [Specialist Position Description form](https://hr.msu.edu/ua/forms/faculty-academic-staff/info-spd.html "Info about Specialist Position Description Form")
+  Spec Cont   [Unit Evaluation Procedures for Specialists](https://hr.msu.edu/ua/forms/faculty-academic-staff/info-spd.html "Info about Specialist Position Description Form")
+  Cntr        Copy of Contract (Fixed Term Faculty/Academic Staff Appointment/Reappointment Memorandum is not needed if employee is on contract)
+  All         [Form I-9](https://www.hr.msu.edu/ua/i9/index.html "I9 Information"), Employment Eligibility Verification form
+  ----------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\
+B. The Provost approves all actions for which she/he has been delegated
+authority, and forwards the remaining forms to the President for
+approval or for submission to the Board of Trustees for approval. See
+also \"Final Approval of Academic Actions\".
+
+C. The Director/Senior Advisor for Office of Inclusion and Intercultural
+Initiatives evaluates the selection of the new hire and the terms of
+appointment, and on an annual basis, prepares a report for the Provost,
+with a copy to the Dean. Protected class members will be invited to
+review Affirmative Action Reports with the attached Search Committee
+Reports annually and to provide input to the Director/Senior Advisor for
+OIII prior to submission of the annual report.\
+\
+[Back to Academic Hiring
+Manual](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/academic-hiring-manual/index.html "Academic Hiring Manual")
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/academic-hiring-manual/final_appointment.pcf)

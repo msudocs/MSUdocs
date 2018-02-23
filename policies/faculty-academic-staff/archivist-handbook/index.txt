@@ -1,0 +1,267 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: Archivist Continuous Appointment System Handbook
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Archivist Handbook {#archivist-handbook .page-title xmlns=""}
+
+#### 1. Continuous Appointment System {#continuous-appointment-system xmlns=""}
+
+-   [1.1. 
+    Definition](/policies-procedures/faculty-academic-staff/archivist-handbook/cont-app-system_definition.html "Definition")
+-   [1.2. Procedures for Establishing
+    Positions](/policies-procedures/faculty-academic-staff/archivist-handbook/establishing_positions.html "Procedures for establishing positions")
+-   [1.3. Hiring
+    Process](/policies-procedures/faculty-academic-staff/archivist-handbook/hiring_process.html "Hiring Process")
+-   [1.4. Terms of
+    Appointment](/policies-procedures/faculty-academic-staff/archivist-handbook/appointment_terms.html "1.4. Terms of Appointment")
+-   [1.5. Extension of Probationary
+    Appointment](/policies-procedures/faculty-academic-staff/archivist-handbook/probation-app_extension.html "1.5. Extension of Probationary Appointment")
+-   [1.6 
+    Non-reappointment](/policies-procedures/faculty-academic-staff/archivist-handbook/non-reappointment.html "1.6  Non-reappointment")
+
+#### 2. Annual Evaluation and Reappointment, Continuous Appointment and Promotion** ** {#annual-evaluation-and-reappointment-continuous-appointment-and-promotion xmlns=""}
+
+-   [2.1. Annual
+    Evaluations](/policies-procedures/faculty-academic-staff/archivist-handbook/annual_evals.html "2.1. Annual Evaluations    ")
+-   [2.2. RECAP Process (Reappointment, Continuous Appointment, and
+    Promotion)](/policies-procedures/faculty-academic-staff/archivist-handbook/RECAP_process.html "2.2. RECAP Process (Reappointment, Continuous Appointment, and Promotion)")  
+-   [2.2.1. Criterion I -- Performance of
+    Responsibilities](/policies-procedures/faculty-academic-staff/archivist-handbook/criterion_I.html "2.2.1. Criterion I – Performance of Responsibilities")   
+-   [2.2.2. Criterion II -- Scholarly and Creative
+    Activities](/policies-procedures/faculty-academic-staff/archivist-handbook/criterion_II.html "2.2.2. Criterion II – Scholarly and Creative Activities") 
+-   [2.2.3. Criterion III -- Service and/or Professional
+    Activities ](/policies-procedures/faculty-academic-staff/archivist-handbook/criterion_III.html "2.2.3. Criterion III – Service and/or Professional Activities ") 
+-   [2.3. RECAP Review
+    Process](/policies-procedures/faculty-academic-staff/archivist-handbook/RECAP_review.html "2.3. RECAP Review Process")
+-   [2.4. General
+    Timeline](/policies-procedures/faculty-academic-staff/archivist-handbook/timeline.html "2.4. General Timeline")
+
+#### 3. Academic Rights, Responsibilities and Policies {#academic-rights-responsibilities-and-policies xmlns=""}
+
+-   [3.1. Academic
+    Governance](/policies-procedures/faculty-academic-staff/archivist-handbook/academic_governance.html "3.1. Academic Governance")   
+-   [3.2.
+    Resignations](/policies-procedures/faculty-academic-staff/archivist-handbook/resignations.html "3.2. Resignations") 
+-   [3.3. Discipline and Dismissal for
+    Cause](/policies-procedures/faculty-academic-staff/archivist-handbook/discipline_dismissal.html "3.3. Discipline and Dismissal for Cause")
+-   [3.4.
+    Grievances](/policies-procedures/faculty-academic-staff/archivist-handbook/grievances.html "1.5. Extension of Probationary Appointment")
+
+#### 4. Personnel and Other Policies {#personnel-and-other-policies xmlns=""}
+
+-   [4.1. Professional
+    Activities](/policies-procedures/faculty-academic-staff/archivist-handbook/professional_activies.html "4.1. Professional Activities") 
+-   [Appendix A: Archivist Annual Self Evaluation
+    Form](/policies-procedures/faculty-academic-staff/archivist-handbook/appendix_a_self-eval.html "Appendix A: Archivist Annual Self Evaluation Form    ")
+-   [Evaluation form in MS
+    Word](/policies-procedures/faculty-academic-staff/archivist-handbook/documents/ArchivistSelfEval.docx "(Evaluation form in MS Word)")
+-   [Appendix B: Writing Goals and
+    Objectives](/policies-procedures/faculty-academic-staff/archivist-handbook/appendix_b_goals.html "Appendix B: Writing Goals and Objectives")
+-   [Appendix C: Documentation for
+    RECAP](/policies-procedures/faculty-academic-staff/archivist-handbook/appendix_c_documentation.html "Appendix C: Documentation for RECAP")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Archivist
+    Handbook](/policies-procedures/faculty-academic-staff/archivist-handbook/index.html "Archivist Handbook")
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "All Faculty Handbooks")
+-   [University Wide Polices &
+    Procedures](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+Introduction - Archivist Continuous Appointment System Handbook {#introduction---archivist-continuous-appointment-system-handbook xmlns=""}
+===============================================================
+
+This document contains employment policies specifically related to
+employment as an Archivist in the continuous appointment system in the
+University Archives & Historical Collections (UAHC). This document does
+not replace or modify other existing University policies, which remain
+in effect for all University employees. In circumstances when this
+document is silent on an issue, the UAHC adheres to the corresponding
+policy contained in the Faculty Handbook.
+
+This handbook is located on the archives' shared drive at:
+S:\\Administrative\\Policies and Procedures\\UAHC Staff
+Handbook\\Archivist Handbook.docx
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/archivist-handbook/index.pcf)

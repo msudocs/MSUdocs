@@ -1,0 +1,373 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: |
+    Handbook for Faculty Searches with Special Reference to Affirmative
+    Action
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Affirmative Action {#affirmative-action .page-title xmlns=""}
+
+#### 3.0 Planning {#planning xmlns=""}
+
+-   [3.1 MSU Guiding
+    Principles](/policies-procedures/faculty-academic-staff/affirmative-action/guiding_principles.html "Guiding Principles")
+-   [3.2 The Position
+    Description](/policies-procedures/faculty-academic-staff/affirmative-action/position_description.html "Position Description")
+
+#### 4.0 Position Request and Search Plan {#position-request-and-search-plan xmlns=""}
+
+-   [4.1 Composition of the Search
+    Committee](/policies-procedures/faculty-academic-staff/affirmative-action/search_committee.html " Composition of the Search Committee ")
+-   [4.2 Search Committee as University
+    Representative](/policies-procedures/faculty-academic-staff/affirmative-action/univ_rep.html "4.2 Search Committee as University Representative")
+-   [4.3 Charge to the Search
+    Committee](/policies-procedures/faculty-academic-staff/affirmative-action/charge.html "4.3 Charge to the Search Committee")
+-   [4.4 Writing the Position
+    Description](/policies-procedures/faculty-academic-staff/affirmative-action/writing_position_description.html "4.4 Writing the Position Description")
+-   [4.5 Writing the
+    Advertisement](/policies-procedures/faculty-academic-staff/affirmative-action/writing_ads.html "4.5 Writing the Advertisement")
+
+#### [5.0 Documenting the Search](/policies-procedures/faculty-academic-staff/affirmative-action/documenting_search.html "5.0 Documenting the Search") {#documenting-the-search xmlns=""}
+
+-   [5.1 Sample Search Committee
+    Report](/policies-procedures/faculty-academic-staff/affirmative-action/sample_report.html " 5.1 Sample Search Committee Report")
+
+#### 6.0 Advertising, Recruiting and Screening {#advertising-recruiting-and-screening xmlns=""}
+
+-   [6.1 Initial
+    Stage](/policies-procedures/faculty-academic-staff/affirmative-action/initial_stage.html "Initial Stage")
+-   [6.2 Advertising and Enlarging the Pool of
+    Applicants](/policies-procedures/faculty-academic-staff/affirmative-action/advertising.html "Advertising and enlarging the applicant pool")
+-   [6.3 Responding to the Applicant\'s
+    Dossier](/policies-procedures/faculty-academic-staff/affirmative-action/responding.html "Responding to dossier")
+-   [6.4 Evaluating the
+    Applicants](/policies-procedures/faculty-academic-staff/affirmative-action/evaluating.html "Evaluating the Applicants")
+-   [6.5
+    References](/policies-procedures/faculty-academic-staff/affirmative-action/references.html "References")
+
+#### 7.0 Final Selection {#final-selection xmlns=""}
+
+-   [7.1 Visiting the
+    Campus](/policies-procedures/faculty-academic-staff/affirmative-action/campus_visit.html "7.1 Visiting the Campus")
+-   [7.2 The
+    Interview](/policies-procedures/faculty-academic-staff/affirmative-action/interview.html "The interview")
+-   [7.3 Questions You May and May Not Ask of a
+    Candidate ](/policies-procedures/faculty-academic-staff/affirmative-action/questions.html "7.3 Questions You May and May Not Ask of a Candidate ")
+-   [7.4 Letter of
+    Offer](/policies-procedures/faculty-academic-staff/affirmative-action/offer_letter.html "Letter of Offer")
+-   [7.4.1 Essential Components for All Letters of
+    Offer](/policies-procedures/faculty-academic-staff/affirmative-action/offer_letter_components.html "Letter of Offer Components")
+-   [7.4.2 Essential Components for Special
+    Situations](/policies-procedures/faculty-academic-staff/affirmative-action/essential_special.html "Essential components for Special Situations") 
+-   [7.4.3 Other
+    Components](/policies-procedures/faculty-academic-staff/affirmative-action/other_components.html "Other Essential components ")
+-   [7.5 Sample Letter of Offer of
+    Appointment](/policies-procedures/faculty-academic-staff/affirmative-action/sample_offer_letter.html "Sample Letter of Offer") 
+
+#### [8.0 Dual Career Couples](/policies-procedures/faculty-academic-staff/affirmative-action/dual_career.html "8.0 Dual Career Couples") {#dual-career-couples xmlns=""}
+
+#### [9.0 Moving to Michigan State University](/policies-procedures/faculty-academic-staff/affirmative-action/moving_to_MSU.html "9.0 Moving to MSU ") {#moving-to-michigan-state-university xmlns=""}
+
+#### [10.0 Support for Hiring Women, Minorities, and Persons with Disabilities](/policies-procedures/faculty-academic-staff/affirmative-action/support.html "10.0 Support for Hiring Women, Minorities, and Persons with Disabilities") {#support-for-hiring-women-minorities-and-persons-with-disabilities xmlns="" title="Guiding Principles"}
+
+#### [11.0 Affirmative Action Resources](/policies-procedures/faculty-academic-staff/affirmative-action/resources.html "11.0 Affirmative Action Resources") {#affirmative-action-resources xmlns=""}
+
+-   [11.1 Office of the
+    Provost](/policies-procedures/faculty-academic-staff/affirmative-action/provost.html "Office of Provost")
+-   [11.2 Office of Inclusion and Intercultural
+    Initiatives](/policies-procedures/faculty-academic-staff/affirmative-action/oiii.html "Office for Inclusion and Intercultural Initiatives")
+-   [11.3 Faculty Grievance
+    Office](/policies-procedures/faculty-academic-staff/affirmative-action/FacultyGrievanceOffice.html "Faculty Grievance Office") 
+-   [11.4 The Women\'s Advisory Committee to the
+    Provost](/policies-procedures/faculty-academic-staff/affirmative-action/womens_adv_committee.html "Women's Advisory Committee ")
+-   [11.5 Minority Advisory
+    Council](/policies-procedures/faculty-academic-staff/affirmative-action/minority_advisory_council.html "Minority Advisory Council") 
+-   [11.6 President\'s Advisory Committee on Disability
+    Issues](/policies-procedures/faculty-academic-staff/affirmative-action/PresAdvCommittee_disability.html "President's Advisory Committee on Disability Issues")
+-   [11.7 Affirmative Action
+    Publications](/policies-procedures/faculty-academic-staff/affirmative-action/AApublications.html "Affirmative Action Publications")
+-   [11.8 Affirmative Action
+    Organizations](/policies-procedures/faculty-academic-staff/affirmative-action/AAorgs.html "Affirmative Action Organizations")
+
+#### Appendices {#appendices xmlns=""}
+
+-   [Appendix A. Retaining Women and Minority
+    Faculty](/policies-procedures/faculty-academic-staff/affirmative-action/AAappendixA.html "Appendix A. Retaining Women and Minority Faculty ")
+-   [Appendix B. Legal Basis of Affirmative
+    Action](/policies-procedures/faculty-academic-staff/affirmative-action/AAappendixB.html "Appendix B. Legal Basis of Affirmative Action")
+-   [Appendix C. Checklist of Search Committee
+    Activities](/policies-procedures/faculty-academic-staff/affirmative-action/AAappendixC.html "Appendix C. Checklist of Search Committee Activities")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Faculty Searches/Affirmative
+    Action](/policies-procedures/faculty-academic-staff/affirmative-action/index.html "Handbook for Faculty Searches with Special Reference to Affirmative Action")
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "all Faculty Handbooks")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+Handbook for Faculty Searches with Special Reference to Affirmative Action {#handbook-for-faculty-searches-with-special-reference-to-affirmative-action xmlns=""}
+==========================================================================
+
+01. Introduction {#introduction xmlns=""}
+----------------
+
+The \"Handbook for Faculty Searches with Special Reference to
+Affirmative Action,\" from Ohio State University, was adopted with
+permission from The Ohio State University. Preparation of the OSU
+handbook was coordinated by Dr. Thomas H. Burkhardt, Affirmative Action
+Faculty Consultant, Department of Human Relations, and Professor,
+Department of Agricultural Engineering.
+
+More information about hiring procedures at Michigan State University
+can be found in the Academic Hiring Manual.
+
+A checklist of search committee activities is included in Appendix C.
+This can be used as a step-by-step guide for search committees.
+
+02. Preface - Handbook for Faculty Searches with Special Reference to Affirmative Action {#preface---handbook-for-faculty-searches-with-special-reference-to-affirmative-action xmlns=""}
+----------------------------------------------------------------------------------------
+
+::: {xmlns="" style="text-align: left;"}
+Since 1964 the federal government has passed legislation and issued
+executive orders designed to achieve equality of employment, end
+discrimination in hiring and remedy the effects of past discrimination.
+Michigan State University has not only complied with these measures, but
+has also frequently and in a variety of ways, demonstrated its
+commitment to ameliorate the negative effects of discrimination and to
+achieve the ideals of affirmative action. MSU prohibits discrimination
+on the basis of race, color, gender, religion, national origin,
+political persuasion, sexual orientation, marital status, disability,
+height, weight, veteran status or age. While significant progress has
+been made, MSU has not yet reached its goal of a heterogeneous faculty
+and student body with substantial representation of women and
+minorities.
+:::
+
+There are four groups of people who, in terms of federal guidelines, are
+classified as racial/ethnic minorities: Blacks, Asians and Pacific
+Islanders, Hispanics, and American Indians and Alaskan Natives. In
+addition, women, Vietnam-Era Veterans and persons with disabilities are
+designated as \"protected\" classes and are also the focus of
+affirmative action/equal opportunity concerns.
+
+Affirmative action should not be confused with passive compliance with
+regulations, tokenism, or good intentions. It is, instead, a proactive
+concept which implies initiating aggressive, vigorous, and systematic
+activities to achieve equality and equity for all individuals. There is
+no single activity at this University more essential to realizing MSU\'s
+affirmative action goals than the selection of new faculty and academic
+staff. Hiring women and minorities, it has been demonstrated, adds
+cultural richness to an institution and enhances its vitality and
+excellence by broadening instructional, curricular, and research
+efforts. A diverse faculty also encourages greater pluralism in the
+student body by attracting women and minorities, while their presence as
+role models and their efforts at mentorship increase the retention and
+development of students from protected groups.
+
+Equity, educational, organizational and business reasons require MSU to
+advance the diversity of its faculty/academic staff compliment. One must
+be mindful that there are significant differences in the backgrounds,
+perspectives, needs, and interests of individuals and that these
+differences should be taken into account in evaluating the unique
+qualities and contributions of each applicant. Furthermore, to achieve
+the departmental and institutional goals of diversity and richness in
+our faculty, we must make a commitment to diversity in hiring, not just
+targeting one group at the expense of others.
+
+The University Bylaws for Academic Governance (1975) defines a key role
+for the chairpersons and unit directors (2.1.2.), (2.1.2.1.) and
+provides for strong faculty involvement (2.1.2.1.), (2.1.3.), (2.2.1.),
+(2.2.8.) in the search and selection process. Unit and college bylaws
+may specify policies and procedures in addition, but must not contravene
+the University Bylaws (2.2.1.). Responsibility for the recruitment,
+retention, and development of faculty is fundamentally influenced by
+faculty values and attitudes, because all of these activities are
+undertaken by individual faculty and faculty committees. This handbook
+is designed to assist in attracting and retaining women and minority
+scholars and creating a diverse workforce at Michigan State University.
+Our goal is to achieve a new spirit of welcome and collegiality that
+will produce improved representation through a commitment to the
+institutional benefits of diversity within our community.
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/affirmative-action/index.pcf)

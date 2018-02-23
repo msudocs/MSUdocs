@@ -1,0 +1,1354 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: Executive Management Benefits Summary
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+::: {.main}
+::: {.page-content}
+::: {.container}
+::: {#crumbs}
+[MSU Human Resources](/) \>\> [
+[Policies-procedures](/policies-procedures) \>\> ]{.crumb xmlns=""} [
+[Faculty-academic-staff](/policies-procedures/faculty-academic-staff)
+\>\> ]{.crumb xmlns=""} [Executive Management Benefits
+Summary]{.lastitem xmlns=""}
+:::
+
+\
+\
+
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "All Faculty Handbooks")
+-   [University Wide Polices &
+    Procedures](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+
+\
+
+Executive Management Benefits Summary {#executive-management-benefits-summary .page-title xmlns=""}
+=====================================
+
+ 
+
++-----------------+-----------------+-----------------+-----------------+
+| **Benefit**     | **Who Pays**    | **Coverage      | **Benefit       |
+|                 |                 | Begins**        | Specifics**     |
++-----------------+-----------------+-----------------+-----------------+
+| **Accidental    | Employee        | Date of         | A voluntary     |
+| Death &         |                 | employment if   | AD&D plan is    |
+| Dismemberment** |                 | enrolled within | available       |
+|                 |                 | 60 days of      | through payroll |
+|                 |                 | appointment or  | deduction in    |
+|                 |                 | during the      | increments      |
+|                 |                 | annual open     | ranging from 1  |
+|                 |                 | enrollment      | to 8 times an   |
+|                 |                 | period.         | employee's base |
+|                 |                 |                 | annual earnings |
+|                 |                 |                 | up to a maximum |
+|                 |                 |                 | of \$1 million  |
+|                 |                 |                 | dollars.        |
++-----------------+-----------------+-----------------+-----------------+
+| **COBRA**       |                 |                 | If employment   |
+|                 |                 |                 | terminates or a |
+|                 |                 |                 | position is     |
+|                 |                 |                 | reduced to less |
+|                 |                 |                 | than 50% time,  |
+|                 |                 |                 | coverage under  |
+|                 |                 |                 | the health      |
+|                 |                 |                 | and/or dental   |
+|                 |                 |                 | plans may be    |
+|                 |                 |                 | continued in    |
+|                 |                 |                 | accordance with |
+|                 |                 |                 | the             |
+|                 |                 |                 | Consolidated    |
+|                 |                 |                 | Omnibus Budget  |
+|                 |                 |                 | Reconciliation  |
+|                 |                 |                 | Act (COBRA) of  |
+|                 |                 |                 | 1986, for up to |
+|                 |                 |                 | 18 months (29   |
+|                 |                 |                 | months if       |
+|                 |                 |                 | disabled and    |
+|                 |                 |                 | receiving       |
+|                 |                 |                 | Social Security |
+|                 |                 |                 | Disability      |
+|                 |                 |                 | (SSD) or deemed |
+|                 |                 |                 | disabled by SSD |
+|                 |                 |                 | any time during |
+|                 |                 |                 | the first 60    |
+|                 |                 |                 | days of COBRA   |
+|                 |                 |                 | coverage) by    |
+|                 |                 |                 | paying 102% of  |
+|                 |                 |                 | the monthly     |
+|                 |                 |                 | premium cost.   |
++-----------------+-----------------+-----------------+-----------------+
+| **Course Fee**  | University      | Upon employment | Dependent       |
+|                 |                 |                 | children and    |
+| **Courtesy**    |                 |                 | spouses         |
+|                 |                 |                 | admitted to     |
+|                 |                 |                 | Michigan State  |
+|                 |                 |                 | University to   |
+|                 |                 |                 | pursue a        |
+|                 |                 |                 | curriculum      |
+|                 |                 |                 | leading to a    |
+|                 |                 |                 | first           |
+|                 |                 |                 | baccalaureate   |
+|                 |                 |                 | degree (maximum |
+|                 |                 |                 | of first 120    |
+|                 |                 |                 | credits         |
+|                 |                 |                 | attempted) or   |
+|                 |                 |                 | to a            |
+|                 |                 |                 | certificate in  |
+|                 |                 |                 | the             |
+|                 |                 |                 | Agricultural    |
+|                 |                 |                 | Technology      |
+|                 |                 |                 | Program are     |
+|                 |                 |                 | entitled to     |
+|                 |                 |                 | Course Fee      |
+|                 |                 |                 | Courtesy,       |
+|                 |                 |                 | providing       |
+|                 |                 |                 | credit of an    |
+|                 |                 |                 | amount equal to |
+|                 |                 |                 | one-half of the |
+|                 |                 |                 | applicable      |
+|                 |                 |                 | Michigan        |
+|                 |                 |                 | resident        |
+|                 |                 |                 | on-campus       |
+|                 |                 |                 | undergraduate   |
+|                 |                 |                 | course fee.     |
++-----------------+-----------------+-----------------+-----------------+
+| **Dental        | University      | Date of         | Employees may   |
+| Coverage**      |                 | employment if   | choose dental   |
+|                 |                 | enrolled within | plan coverage   |
+|                 |                 | 30 days of      | through Delta   |
+|                 |                 | appointment or  | Dental or Aetna |
+|                 |                 | January 1st if  | Dental          |
+|                 |                 | during the      | Maintenance     |
+|                 |                 | annual open     | Organization    |
+|                 |                 | enrollment      | for themselves  |
+|                 |                 | period.         | and their       |
+|                 |                 |                 | dependents      |
+|                 |                 |                 | within 30 days  |
+|                 |                 |                 | of employment   |
+|                 |                 |                 | or during an    |
+|                 |                 |                 | annual open     |
+|                 |                 |                 | enrollment. The |
+|                 |                 |                 | University      |
+|                 |                 |                 | currently pays  |
+|                 |                 |                 | the full cost   |
+|                 |                 |                 | of the Delta    |
+|                 |                 |                 | Dental premium  |
+|                 |                 |                 | for individuals |
+|                 |                 |                 | working         |
+|                 |                 |                 | full-time.      |
+|                 |                 |                 | Employees will  |
+|                 |                 |                 | pay a premium   |
+|                 |                 |                 | for the Aetna   |
+|                 |                 |                 | dental, even if |
+|                 |                 |                 | working         |
+|                 |                 |                 | full-time. The  |
+|                 |                 |                 | coverage is     |
+|                 |                 |                 | briefly         |
+|                 |                 |                 | described       |
+|                 |                 |                 | below:          |
+|                 |                 |                 |                 |
+|                 |                 |                 | The Delta       |
+|                 |                 |                 | Dental plan     |
+|                 |                 |                 | pays 50% of the |
+|                 |                 |                 | usual           |
+|                 |                 |                 | reasonable and  |
+|                 |                 |                 | customary costs |
+|                 |                 |                 | of most dental  |
+|                 |                 |                 | services up to  |
+|                 |                 |                 | a maximum       |
+|                 |                 |                 | payment of      |
+|                 |                 |                 | \$600 per       |
+|                 |                 |                 | person per      |
+|                 |                 |                 | calendar year.  |
+|                 |                 |                 | Orthodontia is  |
+|                 |                 |                 | covered for     |
+|                 |                 |                 | persons under   |
+|                 |                 |                 | age 19 with a   |
+|                 |                 |                 | 50% co-payment  |
+|                 |                 |                 | and has a \$600 |
+|                 |                 |                 | lifetime        |
+|                 |                 |                 | maximum.        |
+|                 |                 |                 |                 |
+|                 |                 |                 | The Aetna       |
+|                 |                 |                 | Dental          |
+|                 |                 |                 | Maintenance     |
+|                 |                 |                 | Organization    |
+|                 |                 |                 | (DMO) utilizes  |
+|                 |                 |                 | primary care    |
+|                 |                 |                 | dentists to     |
+|                 |                 |                 | lower the cost  |
+|                 |                 |                 | -- it is a      |
+|                 |                 |                 | managed care    |
+|                 |                 |                 | dental plan.    |
+|                 |                 |                 | Members select  |
+|                 |                 |                 | a primary care  |
+|                 |                 |                 | dentist (PCD)   |
+|                 |                 |                 | from the        |
+|                 |                 |                 | provider        |
+|                 |                 |                 | network and     |
+|                 |                 |                 | visit their PCD |
+|                 |                 |                 | as needed for   |
+|                 |                 |                 | treatment and   |
+|                 |                 |                 | care. There are |
+|                 |                 |                 | fixed co-pays   |
+|                 |                 |                 | for services    |
+|                 |                 |                 | and there is no |
+|                 |                 |                 | annual or       |
+|                 |                 |                 | lifetime        |
+|                 |                 |                 | benefit maximum |
+|                 |                 |                 | or an annual or |
+|                 |                 |                 | lifetime        |
+|                 |                 |                 | deductible.     |
++-----------------+-----------------+-----------------+-----------------+
+| **Employee-Paid | Employee        | Date of         | Optional life   |
+| **              |                 | employment if   | insurance is    |
+|                 |                 | enrolled within | available       |
+| **Life          |                 | 30 days of      | through payroll |
+| Insurance**     |                 | appointment.    | deduction in    |
+|                 |                 | Enrolling after | increments      |
+|                 |                 | 30 days         | ranging from 1  |
+|                 |                 | requires        | to 8 times an   |
+|                 |                 | Statements of   | employee's base |
+|                 |                 | Insurability    | annual earnings |
+|                 |                 | and waiting     | up to a maximum |
+|                 |                 | until the       | benefit of \$2  |
+|                 |                 | annual open     | million         |
+|                 |                 | enrollment      | dollars. Rates  |
+|                 |                 | period to       | for this        |
+|                 |                 | apply.          | coverage vary   |
+|                 |                 |                 | depending on    |
+|                 |                 |                 | the employee's  |
+|                 |                 |                 | age.            |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 |                 | In case of      |
+|                 |                 |                 | death of an     |
+| **Basic Life    | University      | Upon employment | active employee |
+| Plan**          |                 |                 | (including      |
+|                 |                 |                 | leaves of       |
+|                 |                 |                 | absence for up  |
+|                 |                 |                 | to 180 days     |
+|                 |                 |                 | from the last   |
+|                 |                 |                 | day paid), the  |
+|                 |                 |                 | University      |
+|                 |                 |                 | provides life   |
+|                 |                 |                 | insurance equal |
+|                 |                 |                 | to one year's   |
+|                 |                 |                 | annual base     |
+|                 |                 |                 | salary          |
+|                 |                 |                 | (\$50,000       |
+|                 |                 |                 | maximum).       |
+|                 |                 |                 |                 |
+|                 |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+| **Flexible      | Employee        | The first of    | Employee may    |
+| Spending**      |                 | the month       | enroll in a FSA |
+|                 | (Pre-tax basis) | following the   | by designating  |
+| **Accounts      |                 | month of        | an amount of    |
+| (FSA)**         |                 | enrollment if   | pre-tax dollars |
+|                 |                 | enrolled within | to be set aside |
+|                 |                 | 30 days of      | for health      |
+|                 |                 | appointment or  | related and/or  |
+|                 |                 | January 1st if  | dependent care  |
+|                 |                 | during the      | expenses. This  |
+|                 |                 | annual open     | results in a    |
+|                 |                 | enrollment      | tax savings on  |
+|                 |                 | period.         | federal, state, |
+|                 |                 |                 | city (if        |
+|                 |                 |                 | applicable) and |
+|                 |                 |                 | social security |
+|                 |                 |                 | taxes.          |
++-----------------+-----------------+-----------------+-----------------+
+| **Health Care   | University and  | Date of         | Employees have  |
+| Coverage**      | employee (on a  | employment if   | the option of   |
+|                 | pre-tax basis)  | enrolled within | choosing either |
+| ** **           | make a monthly  | 30 days of      | Blue Cross Blue |
+|                 | contribution    | appointment or  | Shield of       |
+|                 | toward the      | January 1st     | Michigan        |
+|                 | premium         | if during the   | Community Blue  |
+|                 |                 | annual open     | (PPO), Blue     |
+|                 |                 | enrollment      | Care Network    |
+|                 |                 | period.         | (BCN), or a     |
+|                 |                 |                 | Consumer Driven |
+|                 |                 |                 | Health Plan     |
+|                 |                 |                 | with a Health   |
+|                 |                 | Spouses or      | Savings Account |
+|                 |                 | other eligible  | (CDHP/HSA), for |
+|                 |                 | individuals who | themselves,     |
+|                 |                 | have access to  | their spouse or |
+|                 |                 | coverage        | Other Eligible  |
+|                 |                 | elsewhere must  | Individual\*    |
+|                 |                 | purchase single | and their       |
+|                 |                 | coverage        | eligible        |
+|                 |                 | through their   | dependents.     |
+|                 |                 | own employer if | Coverage        |
+|                 |                 | the annual      | through Blue    |
+|                 |                 | premium         | Cross Blue      |
+|                 |                 | contribution    | Shield of       |
+|                 |                 | toward that     | Michigan        |
+|                 |                 | coverage is     | Transition Plan |
+|                 |                 | \$850 per year  | is available    |
+|                 |                 | or less.        | only when there |
+|                 |                 |                 | is a mix of     |
+|                 |                 |                 | Medicare and    |
+|                 |                 |                 | non-Medicare    |
+|                 |                 |                 | family members  |
+|                 |                 |                 | (if certain     |
+|                 |                 |                 | medical         |
+|                 |                 |                 | criteria are    |
+|                 |                 |                 | met).           |
+|                 |                 |                 |                 |
+|                 |                 |                 | The coverages   |
+|                 |                 |                 | are briefly     |
+|                 |                 |                 | described       |
+|                 |                 |                 | below:          |
+|                 |                 |                 |                 |
+|                 |                 |                 | **Community     |
+|                 |                 |                 | Blue:**         |
+|                 |                 |                 |                 |
+|                 |                 |                 | Community Blue  |
+|                 |                 |                 | is a Preferred  |
+|                 |                 |                 | Provider        |
+|                 |                 |                 | Organization    |
+|                 |                 |                 | (PPO) and       |
+|                 |                 |                 | allows you to   |
+|                 |                 |                 | choose whether  |
+|                 |                 |                 | you receive     |
+|                 |                 |                 | health care     |
+|                 |                 |                 | services from   |
+|                 |                 |                 | an in-network   |
+|                 |                 |                 | or              |
+|                 |                 |                 | out-of-network  |
+|                 |                 |                 | provider. There |
+|                 |                 |                 | is a nationwide |
+|                 |                 |                 | network of      |
+|                 |                 |                 | participating   |
+|                 |                 |                 | PPO physicians  |
+|                 |                 |                 | and hospitals   |
+|                 |                 |                 | that allow you  |
+|                 |                 |                 | to choose any   |
+|                 |                 |                 | physician in    |
+|                 |                 |                 | the network     |
+|                 |                 |                 | without         |
+|                 |                 |                 | requiring a     |
+|                 |                 |                 | referral from a |
+|                 |                 |                 | primary care    |
+|                 |                 |                 | physician. The  |
+|                 |                 |                 | in-network      |
+|                 |                 |                 | deductible is   |
+|                 |                 |                 | \$100/individua |
+|                 |                 |                 | lly             |
+|                 |                 |                 | and             |
+|                 |                 |                 | \$200/family    |
+|                 |                 |                 | for the         |
+|                 |                 |                 | calendar year.  |
+|                 |                 |                 | For             |
+|                 |                 |                 | out-of-network  |
+|                 |                 |                 | services, the   |
+|                 |                 |                 | deductible is   |
+|                 |                 |                 | \$250/individua |
+|                 |                 |                 | lly             |
+|                 |                 |                 | or \$500/       |
+|                 |                 |                 | family for the  |
+|                 |                 |                 | calendar year   |
+|                 |                 |                 | with higher     |
+|                 |                 |                 | out-of-pocket   |
+|                 |                 |                 | costs, usually  |
+|                 |                 |                 | a 20% co-pay.   |
+|                 |                 |                 |                 |
+|                 |                 |                 | **Blue Care     |
+|                 |                 |                 | Network         |
+|                 |                 |                 | (BCN):**        |
+|                 |                 |                 |                 |
+|                 |                 |                 | BCN is a Health |
+|                 |                 |                 | Maintenance     |
+|                 |                 |                 | Organization    |
+|                 |                 |                 | (HMO), meaning  |
+|                 |                 |                 | that enrollees  |
+|                 |                 |                 | will select and |
+|                 |                 |                 | work closely    |
+|                 |                 |                 | with a primary  |
+|                 |                 |                 | care physician  |
+|                 |                 |                 | to manage care. |
+|                 |                 |                 | MSU members can |
+|                 |                 |                 | seek services   |
+|                 |                 |                 | from both       |
+|                 |                 |                 | in-network and  |
+|                 |                 |                 | out-of-network  |
+|                 |                 |                 | (non-contracted |
+|                 |                 |                 | )               |
+|                 |                 |                 | providers.      |
+|                 |                 |                 | Deductibles,    |
+|                 |                 |                 | co-insurance    |
+|                 |                 |                 | and prior-      |
+|                 |                 |                 | authorization   |
+|                 |                 |                 | requirements    |
+|                 |                 |                 | apply in some   |
+|                 |                 |                 | circumstances.  |
+|                 |                 |                 | The in-network  |
+|                 |                 |                 | deductible is   |
+|                 |                 |                 | \$100/individua |
+|                 |                 |                 | lly             |
+|                 |                 |                 | and             |
+|                 |                 |                 | \$200/family.   |
+|                 |                 |                 | The out-of      |
+|                 |                 |                 | network         |
+|                 |                 |                 | deductible is   |
+|                 |                 |                 | \$500/individua |
+|                 |                 |                 | lly             |
+|                 |                 |                 | and             |
+|                 |                 |                 | \$1,000/family  |
+|                 |                 |                 | for the         |
+|                 |                 |                 | calendar year.  |
+|                 |                 |                 | A majority of   |
+|                 |                 |                 | the services    |
+|                 |                 |                 | are subject to  |
+|                 |                 |                 | a 20%           |
+|                 |                 |                 | co-insurance    |
+|                 |                 |                 | after meeting   |
+|                 |                 |                 | the deductible, |
+|                 |                 |                 | up to a maximum |
+|                 |                 |                 | of \$3,000      |
+|                 |                 |                 | individually or |
+|                 |                 |                 | \$6,000/family  |
+|                 |                 |                 | per calendar    |
+|                 |                 |                 | year.           |
+|                 |                 |                 |                 |
+|                 |                 |                 | **Consumer      |
+|                 |                 |                 | Driven Health   |
+|                 |                 |                 | Plan/Health     |
+|                 |                 |                 | Savings         |
+|                 |                 |                 | Account:**      |
+|                 |                 |                 |                 |
+|                 |                 |                 | CDHP/HSA is a   |
+|                 |                 |                 | high-deductible |
+|                 |                 |                 | health plan     |
+|                 |                 |                 | (annual         |
+|                 |                 |                 | deductible for  |
+|                 |                 |                 | single coverage |
+|                 |                 |                 | is              |
+|                 |                 |                 | \$2,000/\$4,000 |
+|                 |                 |                 | family) with a  |
+|                 |                 |                 | Health Savings  |
+|                 |                 |                 | Account (MSU    |
+|                 |                 |                 | contributes up  |
+|                 |                 |                 | to \$750        |
+|                 |                 |                 | annually); you  |
+|                 |                 |                 | may also        |
+|                 |                 |                 | contribute on a |
+|                 |                 |                 | pre-tax basis   |
+|                 |                 |                 | up to the IRS   |
+|                 |                 |                 | limits. With    |
+|                 |                 |                 | this plan, you  |
+|                 |                 |                 | pay a higher    |
+|                 |                 |                 | deductible      |
+|                 |                 |                 | first before    |
+|                 |                 |                 | the plan pays   |
+|                 |                 |                 | medical and     |
+|                 |                 |                 | prescription    |
+|                 |                 |                 | benefits.       |
+|                 |                 |                 | Preventative    |
+|                 |                 |                 | care and        |
+|                 |                 |                 | certain generic |
+|                 |                 |                 | prescriptions   |
+|                 |                 |                 | for chronic     |
+|                 |                 |                 | conditions are  |
+|                 |                 |                 | covered at 100% |
+|                 |                 |                 | with no         |
+|                 |                 |                 | deductible or   |
+|                 |                 |                 | co-pays. The    |
+|                 |                 |                 | provider        |
+|                 |                 |                 | network is the  |
+|                 |                 |                 | same as the     |
+|                 |                 |                 | BCBSM plans.\   |
+|                 |                 |                 | \               |
+|                 |                 |                 | **CVS Caremark  |
+|                 |                 |                 | Prescription    |
+|                 |                 |                 | Drug Plan**     |
+|                 |                 |                 |                 |
+|                 |                 |                 | The             |
+|                 |                 |                 | prescription    |
+|                 |                 |                 | drug plan is    |
+|                 |                 |                 | administered    |
+|                 |                 |                 | through CVS     |
+|                 |                 |                 | Caremark. CVS   |
+|                 |                 |                 | Caremark has a  |
+|                 |                 |                 | large network   |
+|                 |                 |                 | of over 55,000  |
+|                 |                 |                 | participating   |
+|                 |                 |                 | retail          |
+|                 |                 |                 | pharmacies,     |
+|                 |                 |                 | including some  |
+|                 |                 |                 | of the largest  |
+|                 |                 |                 | drug store      |
+|                 |                 |                 | chains.         |
+|                 |                 |                 | Employees may   |
+|                 |                 |                 | choose to       |
+|                 |                 |                 | purchase their  |
+|                 |                 |                 | prescriptions   |
+|                 |                 |                 | at a            |
+|                 |                 |                 | participating   |
+|                 |                 |                 | retail          |
+|                 |                 |                 | pharmacy, at an |
+|                 |                 |                 | MSU pharmacy or |
+|                 |                 |                 | through CVS     |
+|                 |                 |                 | Caremark's mail |
+|                 |                 |                 | order           |
+|                 |                 |                 | program. [See   |
+|                 |                 |                 | Copays for more |
+|                 |                 |                 | detail](/benefi |
+|                 |                 |                 | ts/healthcare/C |
+|                 |                 |                 | aremarkCopay.ht |
+|                 |                 |                 | m "See Copays f |
+|                 |                 |                 | or more detail" |
+|                 |                 |                 | ).              |
++-----------------+-----------------+-----------------+-----------------+
+| **Holidays      | University      | Upon            | There are nine  |
+|              \  |                 | employment      | paid holidays   |
+| **              |                 |                 | in any calendar |
+|                 |                 |                 | year: New       |
+|                 |                 |                 | Year's Day, the |
+|                 |                 |                 | day preceding   |
+|                 |                 |                 | or following    |
+|                 |                 |                 | New Year's Day, |
+|                 |                 |                 | Memorial Day,   |
+|                 |                 |                 | Independence    |
+|                 |                 |                 | Day, Labor Day, |
+|                 |                 |                 | Thanksgiving    |
+|                 |                 |                 | Day and the day |
+|                 |                 |                 | following       |
+|                 |                 |                 | Thanksgiving    |
+|                 |                 |                 | Day, Christmas  |
+|                 |                 |                 | Day and the day |
+|                 |                 |                 | preceding or    |
+|                 |                 |                 | following       |
+|                 |                 |                 | Christmas Day,  |
+|                 |                 |                 | or as otherwise |
+|                 |                 |                 | announced by    |
+|                 |                 |                 | the University. |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 |                 | Individuals who |
+|                 |                 |                 | are called to   |
+| **Jury Duty**   | University      | Upon Employment | serve on jury   |
+|                 |                 |                 | duty or to      |
+|                 |                 |                 | testify         |
+|                 |                 |                 | pursuant to     |
+|                 |                 |                 | court-issued    |
+|                 |                 |                 | subpoena will   |
+|                 |                 |                 | be compensated  |
+|                 |                 |                 | for the         |
+|                 |                 |                 | difference      |
+|                 |                 |                 | between pay for |
+|                 |                 |                 | jury duty and   |
+|                 |                 |                 | regular pay if  |
+|                 |                 |                 | absent from     |
+|                 |                 |                 | work for more   |
+|                 |                 |                 | than 80 hours.  |
+|                 |                 |                 | No adjustment   |
+|                 |                 |                 | is required for |
+|                 |                 |                 | jury duty       |
+|                 |                 |                 | service of 80   |
+|                 |                 |                 | hours or less.  |
++-----------------+-----------------+-----------------+-----------------+
+| **Leave Without |                 | Upon Employment | Leave without   |
+| Pay**           |                 |                 | pay may be      |
+|                 |                 |                 | granted for up  |
+|                 |                 |                 | to two years.   |
+|                 |                 |                 | Extensions      |
+|                 |                 |                 | beyond two      |
+|                 |                 |                 | years may be    |
+|                 |                 |                 | approved by the |
+|                 |                 |                 | administrative  |
+|                 |                 |                 | superior to     |
+|                 |                 |                 | whom            |
+|                 |                 |                 | responsibility  |
+|                 |                 |                 | for personnel   |
+|                 |                 |                 | actions has     |
+|                 |                 |                 | been delegated. |
++-----------------+-----------------+-----------------+-----------------+
+| **Long-Term**   |  University     |  Upon full-time | Benefits        |
+|                 |                 | employment      | normally begin  |
+| **Disability**  |                 |                 | on the          |
+|                 |                 |                 | 181^st^ day     |
+|                 |                 |                 | following the   |
+|                 |                 |                 | completion of   |
+|                 |                 |                 | 180 days of     |
+|                 |                 |                 | continuous      |
+|                 |                 |                 | disability.     |
+|                 |                 |                 |                 |
+|                 |                 |                 | The monthly     |
+|                 |                 |                 | income benefit  |
+|                 |                 |                 | is 60% of       |
+|                 |                 |                 | monthly base    |
+|                 |                 |                 | salary up to    |
+|                 |                 |                 | \$15,000. The   |
+|                 |                 |                 | LTD benefit     |
+|                 |                 |                 | amount is       |
+|                 |                 |                 | offset by any   |
+|                 |                 |                 | Social          |
+|                 |                 |                 | Security,       |
+|                 |                 |                 | Workers'        |
+|                 |                 |                 | Compensation or |
+|                 |                 |                 | other           |
+|                 |                 |                 | applicable wage |
+|                 |                 |                 | replacement     |
+|                 |                 |                 | benefits.       |
+|                 |                 |                 |                 |
+|                 |                 |                 | The monthly     |
+|                 |                 |                 | waiver benefit  |
+|                 |                 |                 | will pay both   |
+|                 |                 |                 | the employee's  |
+|                 |                 |                 | 5% and the      |
+|                 |                 |                 | University's    |
+|                 |                 |                 | 10%             |
+|                 |                 |                 | contribution to |
+|                 |                 |                 | the Base        |
+|                 |                 |                 | Retirement      |
+|                 |                 |                 | Program account |
+|                 |                 |                 | of the          |
+|                 |                 |                 | employee. This  |
+|                 |                 |                 | is in addition  |
+|                 |                 |                 | to the monthly  |
+|                 |                 |                 | LTD income      |
+|                 |                 |                 | benefit.        |
+|                 |                 |                 |                 |
+|                 |                 |                 | Both the        |
+|                 |                 |                 | monthly income  |
+|                 |                 |                 | benefit and the |
+|                 |                 |                 | monthly waiver  |
+|                 |                 |                 | benefit are     |
+|                 |                 |                 | increased each  |
+|                 |                 |                 | year. In        |
+|                 |                 |                 | addition, the   |
+|                 |                 |                 | University      |
+|                 |                 |                 | contribution    |
+|                 |                 |                 | toward health,  |
+|                 |                 |                 | dental and      |
+|                 |                 |                 | Employee-Paid   |
+|                 |                 |                 | Life benefits   |
+|                 |                 |                 | will continue.  |
++-----------------+-----------------+-----------------+-----------------+
+| **Medical       | University      | Upon Employment | Up to six       |
+| Leave**         |                 |                 | months of paid  |
+|                 |                 |                 | leave is        |
+|                 |                 |                 | available if    |
+|                 |                 |                 | health problems |
+|                 |                 |                 | prevent the     |
+|                 |                 |                 | individual from |
+|                 |                 |                 | working.        |
+|                 |                 |                 | Medical leave   |
+|                 |                 |                 | is              |
+|                 |                 |                 | non-accruable   |
+|                 |                 |                 | with no         |
+|                 |                 |                 | terminal        |
+|                 |                 |                 | payoff.         |
+|                 |                 |                 | Individuals on  |
+|                 |                 |                 | a Family        |
+|                 |                 |                 | Medical Leave   |
+|                 |                 |                 | (FMLA) will     |
+|                 |                 |                 | have their      |
+|                 |                 |                 | health and      |
+|                 |                 |                 | dental benefits |
+|                 |                 |                 | continued at    |
+|                 |                 |                 | the same level  |
+|                 |                 |                 | and with the    |
+|                 |                 |                 | same premium    |
+|                 |                 |                 | contribution as |
+|                 |                 |                 | prior to the    |
+|                 |                 |                 | FMLA leave. Any |
+|                 |                 |                 | share of        |
+|                 |                 |                 | premiums which  |
+|                 |                 |                 | had been paid   |
+|                 |                 |                 | by the          |
+|                 |                 |                 | individual      |
+|                 |                 |                 | prior to the    |
+|                 |                 |                 | leave must      |
+|                 |                 |                 | continue to be  |
+|                 |                 |                 | paid during the |
+|                 |                 |                 | leave,          |
+|                 |                 |                 | otherwise       |
+|                 |                 |                 | coverage will   |
+|                 |                 |                 | be cancelled.   |
++-----------------+-----------------+-----------------+-----------------+
+| **Military      | University      | Upon Employment | The University  |
+| Duty**          |                 |                 | cooperates      |
+|                 |                 |                 | fully with      |
+|                 |                 |                 | individuals     |
+|                 |                 |                 | taking part in  |
+|                 |                 |                 | the reserve     |
+|                 |                 |                 | program of the  |
+|                 |                 |                 | military forces |
+|                 |                 |                 | which calls for |
+|                 |                 |                 | up to 15 days   |
+|                 |                 |                 | active duty     |
+|                 |                 |                 | training        |
+|                 |                 |                 | annually with   |
+|                 |                 |                 | the National    |
+|                 |                 |                 | Guard,          |
+|                 |                 |                 | Officers'       |
+|                 |                 |                 | Reserve Corps,  |
+|                 |                 |                 | or similar U.S  |
+|                 |                 |                 | military        |
+|                 |                 |                 | organizations.  |
+|                 |                 |                 | The University  |
+|                 |                 |                 | will pay the    |
+|                 |                 |                 | individual the  |
+|                 |                 |                 | difference      |
+|                 |                 |                 | between         |
+|                 |                 |                 | military pay    |
+|                 |                 |                 | and allowances  |
+|                 |                 |                 | and normal      |
+|                 |                 |                 | take-home pay   |
+|                 |                 |                 | for up to 15    |
+|                 |                 |                 | calendar days   |
+|                 |                 |                 | when ordered to |
+|                 |                 |                 | active duty for |
+|                 |                 |                 | training, and   |
+|                 |                 |                 | for up to 10    |
+|                 |                 |                 | additional      |
+|                 |                 |                 | calendar days   |
+|                 |                 |                 | per fiscal year |
+|                 |                 |                 | when ordered to |
+|                 |                 |                 | active duty for |
+|                 |                 |                 | the purpose of  |
+|                 |                 |                 | handling civil  |
+|                 |                 |                 | disorders.      |
++-----------------+-----------------+-----------------+-----------------+
+| **Outside Work  |                 |                 | Covered by the  |
+| for Pay**       |                 |                 | faculty policy  |
+|                 |                 |                 | which is        |
+|                 |                 |                 | described in    |
+|                 |                 |                 | the Faculty     |
+|                 |                 |                 | Handbook. The   |
+|                 |                 |                 | Policy provides |
+|                 |                 |                 | an average of   |
+|                 |                 |                 | four days per   |
+|                 |                 |                 | month with      |
+|                 |                 |                 | written         |
+|                 |                 |                 | approval of the |
+|                 |                 |                 | supervisor.     |
++-----------------+-----------------+-----------------+-----------------+
+| **Professional  |                 |                 | Support for     |
+| Development**   |                 |                 | professional    |
+|                 |                 |                 | development is  |
+|                 |                 |                 | provided to     |
+|                 |                 |                 | individuals     |
+|                 |                 |                 | serving as      |
+|                 |                 |                 | executive       |
+|                 |                 |                 | managers. The   |
+|                 |                 |                 | nature of such  |
+|                 |                 |                 | support is      |
+|                 |                 |                 | variable but    |
+|                 |                 |                 | the level       |
+|                 |                 |                 | provided is     |
+|                 |                 |                 | broadly         |
+|                 |                 |                 | equivalent on a |
+|                 |                 |                 | pro-rated basis |
+|                 |                 |                 | to the          |
+|                 |                 |                 | sabbatical      |
+|                 |                 |                 | leave program   |
+|                 |                 |                 | for faculty,    |
+|                 |                 |                 | i.e.,           |
+|                 |                 |                 | approximately   |
+|                 |                 |                 | \$6,000 per     |
+|                 |                 |                 | year. Requires  |
+|                 |                 |                 | approval of the |
+|                 |                 |                 | supervisor.     |
+|                 |                 |                 | (Degree-related |
+|                 |                 |                 | tuition support |
+|                 |                 |                 | in excess of    |
+|                 |                 |                 | \$5,250 is      |
+|                 |                 |                 | taxable as      |
+|                 |                 |                 | income per IRC  |
+|                 |                 |                 | 127).           |
++-----------------+-----------------+-----------------+-----------------+
+| **Retirement    |                 | Upon Employment | To be           |
+| Eligibility**   |                 |                 | considered a    |
+|                 |                 |                 | retiree from    |
+|                 |                 |                 | Michigan State  |
+|                 |                 |                 | University, an  |
+|                 |                 |                 | individual must |
+|                 |                 |                 | have attained   |
+|                 |                 |                 | one of the      |
+|                 |                 |                 | following: 1)   |
+|                 |                 |                 | 15 years of     |
+|                 |                 |                 | service in an   |
+|                 |                 |                 | Executive       |
+|                 |                 |                 | Management      |
+|                 |                 |                 | position; 2) at |
+|                 |                 |                 | least age 62    |
+|                 |                 |                 | with a minimum  |
+|                 |                 |                 | of 15 years of  |
+|                 |                 |                 | University      |
+|                 |                 |                 | service; 3) 25  |
+|                 |                 |                 | years of        |
+|                 |                 |                 | service at any  |
+|                 |                 |                 | age. If the     |
+|                 |                 |                 | condition of    |
+|                 |                 |                 | \#1, above, is  |
+|                 |                 |                 | met, the        |
+|                 |                 |                 | individual      |
+|                 |                 |                 | retains         |
+|                 |                 |                 | eligibility for |
+|                 |                 |                 | Michigan State  |
+|                 |                 |                 | University      |
+|                 |                 |                 | retiree status  |
+|                 |                 |                 | if assigned     |
+|                 |                 |                 | subsequently to |
+|                 |                 |                 | a non-Executive |
+|                 |                 |                 | Management      |
+|                 |                 |                 | position. If 15 |
+|                 |                 |                 | years of        |
+|                 |                 |                 | executive       |
+|                 |                 |                 | management      |
+|                 |                 |                 | service is not  |
+|                 |                 |                 | completed at    |
+|                 |                 |                 | the point of    |
+|                 |                 |                 | transfer, the   |
+|                 |                 |                 | years served as |
+|                 |                 |                 | an executive    |
+|                 |                 |                 | manager as a    |
+|                 |                 |                 | percentage of   |
+|                 |                 |                 | the 15 years    |
+|                 |                 |                 | for EM          |
+|                 |                 |                 | retirement      |
+|                 |                 |                 | eligibility     |
+|                 |                 |                 | will be applied |
+|                 |                 |                 | to the 25 year  |
+|                 |                 |                 | eligibility     |
+|                 |                 |                 | requirement for |
+|                 |                 |                 | all other       |
+|                 |                 |                 | university      |
+|                 |                 |                 | employees,      |
+|                 |                 |                 | rounded up to   |
+|                 |                 |                 | the next half   |
+|                 |                 |                 | year.           |
+|                 |                 |                 |                 |
+|                 |                 |                 | An individual   |
+|                 |                 |                 | entering        |
+|                 |                 |                 | executive       |
+|                 |                 |                 | management      |
+|                 |                 |                 | status from an  |
+|                 |                 |                 | MSU position in |
+|                 |                 |                 | which service   |
+|                 |                 |                 | credits toward  |
+|                 |                 |                 | retirement      |
+|                 |                 |                 | status have     |
+|                 |                 |                 | been earned     |
+|                 |                 |                 | shall be given  |
+|                 |                 |                 | immediate       |
+|                 |                 |                 | credit toward   |
+|                 |                 |                 | the fifteen     |
+|                 |                 |                 | year Executive  |
+|                 |                 |                 | Management      |
+|                 |                 |                 | retirement      |
+|                 |                 |                 | requirement in  |
+|                 |                 |                 | proportion to   |
+|                 |                 |                 | the ratio that  |
+|                 |                 |                 | such prior      |
+|                 |                 |                 | service bears   |
+|                 |                 |                 | to the 25 year  |
+|                 |                 |                 | vesting         |
+|                 |                 |                 | requirement for |
+|                 |                 |                 | all other       |
+|                 |                 |                 | University      |
+|                 |                 |                 | employees,      |
+|                 |                 |                 | rounded up to   |
+|                 |                 |                 | the next half   |
+|                 |                 |                 | year.           |
+|                 |                 |                 |                 |
+|                 |                 |                 | Access to       |
+|                 |                 |                 | retiree health  |
+|                 |                 |                 | coverage is     |
+|                 |                 |                 | based on        |
+|                 |                 |                 | employment      |
+|                 |                 |                 | date:           |
+|                 |                 |                 |                 |
+|                 |                 |                 | Executive       |
+|                 |                 |                 | Managers hired  |
+|                 |                 |                 | prior to July   |
+|                 |                 |                 | 1, 2005 and     |
+|                 |                 |                 | meeting the     |
+|                 |                 |                 | minimum         |
+|                 |                 |                 | University      |
+|                 |                 |                 | retirement      |
+|                 |                 |                 | requirements    |
+|                 |                 |                 | will remain     |
+|                 |                 |                 | eligible to     |
+|                 |                 |                 | maintain health |
+|                 |                 |                 | and dental      |
+|                 |                 |                 | coverage and    |
+|                 |                 |                 | receive a       |
+|                 |                 |                 | University      |
+|                 |                 |                 | contribution    |
+|                 |                 |                 | toward the      |
+|                 |                 |                 | premiums based  |
+|                 |                 |                 | on the number   |
+|                 |                 |                 | of full-time    |
+|                 |                 |                 | equivalent      |
+|                 |                 |                 | (FTE) service   |
+|                 |                 |                 | months at       |
+|                 |                 |                 | retirement.     |
+|                 |                 |                 |                 |
+|                 |                 |                 | For Executive   |
+|                 |                 |                 | Managers hired  |
+|                 |                 |                 | on or after     |
+|                 |                 |                 | July 1, 2005    |
+|                 |                 |                 | and before July |
+|                 |                 |                 | 1, 2010, the    |
+|                 |                 |                 | University will |
+|                 |                 |                 | contribute to   |
+|                 |                 |                 | the lowest cost |
+|                 |                 |                 | health plan's   |
+|                 |                 |                 | single rate for |
+|                 |                 |                 | which the       |
+|                 |                 |                 | employee/retire |
+|                 |                 |                 | e               |
+|                 |                 |                 | is eligible.    |
+|                 |                 |                 | (The            |
+|                 |                 |                 | contribution is |
+|                 |                 |                 | based on the    |
+|                 |                 |                 | full-time       |
+|                 |                 |                 | equivalent      |
+|                 |                 |                 | (FTE) service   |
+|                 |                 |                 | months at the   |
+|                 |                 |                 | time of         |
+|                 |                 |                 | retirement).    |
+|                 |                 |                 |                 |
+|                 |                 |                 | Executive       |
+|                 |                 |                 | Managers        |
+|                 |                 |                 | appointed on or |
+|                 |                 |                 | after July 1,   |
+|                 |                 |                 | 2010 are not    |
+|                 |                 |                 | eligible for a  |
+|                 |                 |                 | University      |
+|                 |                 |                 | contribution to |
+|                 |                 |                 | health care     |
+|                 |                 |                 | benefits.       |
+|                 |                 |                 | Retiree health  |
+|                 |                 |                 | coverage is     |
+|                 |                 |                 | available to    |
+|                 |                 |                 | purchase        |
+|                 |                 |                 | through the     |
+|                 |                 |                 | University.     |
++-----------------+-----------------+-----------------+-----------------+
+| **Retirement**  |                 | Offered upon    | Individual      |
+|                 |                 | employment.     | enrollment is   |
+| **Program**     |                 |                 | necessary.      |
+|                 |                 |                 | Required at age |
+|                 |                 |                 | 35 and 24 FTE   |
+|                 |                 |                 | service months. |
+|                 |                 |                 |                 |
+|                 |                 |                 | The individual  |
+|                 |                 |                 | contributes 5%  |
+|                 |                 |                 | and the         |
+|                 |                 |                 | University      |
+|                 |                 |                 | contributes a   |
+|                 |                 |                 | match of 10% of |
+|                 |                 |                 | the annual base |
+|                 |                 |                 | salary under    |
+|                 |                 |                 | the 403(b) Base |
+|                 |                 |                 | Retirement      |
+|                 |                 |                 | Program. The    |
+|                 |                 |                 | University also |
+|                 |                 |                 | offers a        |
+|                 |                 |                 | voluntary       |
+|                 |                 |                 | 403(b)          |
+|                 |                 |                 | Supplemental    |
+|                 |                 |                 | Retirement      |
+|                 |                 |                 | Program and a   |
+|                 |                 |                 | 457(b) Deferred |
+|                 |                 |                 | Compensation    |
+|                 |                 |                 | Plan.           |
++-----------------+-----------------+-----------------+-----------------+
+| **Salary**      | University      | Upon Employment | All salary      |
+|                 |                 |                 | adjustments     |
+|                 |                 |                 | will be         |
+|                 |                 |                 | allocated on    |
+|                 |                 |                 | the basis of    |
+|                 |                 |                 | merit.          |
+|                 |                 |                 |                 |
+|                 |                 |                 | Special merit   |
+|                 |                 |                 | salary          |
+|                 |                 |                 | adjustments in  |
+|                 |                 |                 | recognition of  |
+|                 |                 |                 | superior        |
+|                 |                 |                 | performance or  |
+|                 |                 |                 | expanded        |
+|                 |                 |                 | responsibilitie |
+|                 |                 |                 | s               |
+|                 |                 |                 | may be provided |
+|                 |                 |                 | in addition to  |
+|                 |                 |                 | regular salary  |
+|                 |                 |                 | adjustments.    |
+|                 |                 |                 |                 |
+|                 |                 |                 | Regular reviews |
+|                 |                 |                 | of compensation |
+|                 |                 |                 | shall be        |
+|                 |                 |                 | conducted to    |
+|                 |                 |                 | ensure          |
+|                 |                 |                 | competitiveness |
+|                 |                 |                 | with peers      |
+|                 |                 |                 | (salary at the  |
+|                 |                 |                 | midpoint of the |
+|                 |                 |                 | Big Ten (CIC)   |
+|                 |                 |                 | universities is |
+|                 |                 |                 | the accepted    |
+|                 |                 |                 | benchmark).     |
++-----------------+-----------------+-----------------+-----------------+
+| **Transitional  |                 |                 | The employment  |
+| Support**       |                 |                 | of an executive |
+|                 |                 |                 | manager may be  |
+|                 |                 |                 | terminated at   |
+|                 |                 |                 | any time        |
+|                 |                 |                 | without notice  |
+|                 |                 |                 | or cause. An    |
+|                 |                 |                 | executive       |
+|                 |                 |                 | manager         |
+|                 |                 |                 | terminated as a |
+|                 |                 |                 | result of       |
+|                 |                 |                 | reorganization  |
+|                 |                 |                 | or changes in   |
+|                 |                 |                 | program needs   |
+|                 |                 |                 | and directions  |
+|                 |                 |                 | may receive, in |
+|                 |                 |                 | the President's |
+|                 |                 |                 | discretion, up  |
+|                 |                 |                 | to three months |
+|                 |                 |                 | transition pay, |
+|                 |                 |                 | pay off of      |
+|                 |                 |                 | unused vacation |
+|                 |                 |                 | days at the     |
+|                 |                 |                 | time of         |
+|                 |                 |                 | termination,    |
+|                 |                 |                 | and             |
+|                 |                 |                 | continuation of |
+|                 |                 |                 | university      |
+|                 |                 |                 | health,         |
+|                 |                 |                 | prescription,   |
+|                 |                 |                 | and dental      |
+|                 |                 |                 | benefits with   |
+|                 |                 |                 | the usual       |
+|                 |                 |                 | university      |
+|                 |                 |                 | contribution    |
+|                 |                 |                 | for up to three |
+|                 |                 |                 | months          |
+|                 |                 |                 | following       |
+|                 |                 |                 | termination.    |
+|                 |                 |                 | Transition      |
+|                 |                 |                 | support will    |
+|                 |                 |                 | not be provided |
+|                 |                 |                 | if the          |
+|                 |                 |                 | executive       |
+|                 |                 |                 | manager's       |
+|                 |                 |                 | employment is   |
+|                 |                 |                 | terminated for  |
+|                 |                 |                 | misconduct or   |
+|                 |                 |                 | unsatisfactory  |
+|                 |                 |                 | performance.    |
+|                 |                 |                 | The President   |
+|                 |                 |                 | will consult    |
+|                 |                 |                 | with the Board  |
+|                 |                 |                 | of Trustees'    |
+|                 |                 |                 | Compensation    |
+|                 |                 |                 | Committee       |
+|                 |                 |                 | regarding any   |
+|                 |                 |                 | severance       |
+|                 |                 |                 | arrangements    |
+|                 |                 |                 | that provide    |
+|                 |                 |                 | more generous   |
+|                 |                 |                 | benefits than   |
+|                 |                 |                 | those described |
+|                 |                 |                 | above.          |
++-----------------+-----------------+-----------------+-----------------+
+| **Travel        | University      | Upon employment | While traveling |
+| Accident**      |                 |                 | on University   |
+|                 |                 |                 | business or     |
+|                 |                 |                 | approved        |
+|                 |                 |                 | activity on or  |
+|                 |                 |                 | beyond campus   |
+|                 |                 |                 | limits, the     |
+|                 |                 |                 | University      |
+|                 |                 |                 | provides        |
+|                 |                 |                 | accidental      |
+|                 |                 |                 | death and       |
+|                 |                 |                 | dismemberment   |
+|                 |                 |                 | coverage in the |
+|                 |                 |                 | principal       |
+|                 |                 |                 | amount of       |
+|                 |                 |                 | \$50,000.       |
++-----------------+-----------------+-----------------+-----------------+
+| **Vacation**    | University      | Upon Employment | Eligible for    |
+|                 |                 |                 | forty-eight     |
+|                 |                 |                 | (48) vacation   |
+|                 |                 |                 | days biennially |
+|                 |                 |                 | on a fiscal     |
+|                 |                 |                 | year basis.     |
+|                 |                 |                 | Vacation days   |
+|                 |                 |                 | are available   |
+|                 |                 |                 | prospectively;  |
+|                 |                 |                 | they are        |
+|                 |                 |                 | non-accruable   |
+|                 |                 |                 | beyond the      |
+|                 |                 |                 | biennial fiscal |
+|                 |                 |                 | year period.    |
+|                 |                 |                 | Vacation        |
+|                 |                 |                 | allowances are  |
+|                 |                 |                 | granted on July |
+|                 |                 |                 | 1 of            |
+|                 |                 |                 | odd-numbered    |
+|                 |                 |                 | years.          |
+|                 |                 |                 | Proportional    |
+|                 |                 |                 | allowances are  |
+|                 |                 |                 | granted to      |
+|                 |                 |                 | individuals     |
+|                 |                 |                 | appointed       |
+|                 |                 |                 | during the      |
+|                 |                 |                 | biennial        |
+|                 |                 |                 | period.         |
+|                 |                 |                 | (Vacation days  |
+|                 |                 |                 | do not include  |
+|                 |                 |                 | Saturdays and   |
+|                 |                 |                 | Sundays or      |
+|                 |                 |                 | official        |
+|                 |                 |                 | university      |
+|                 |                 |                 | holidays.)      |
+|                 |                 |                 | Arrangements to |
+|                 |                 |                 | take one's      |
+|                 |                 |                 | vacation        |
+|                 |                 |                 | entitlement     |
+|                 |                 |                 | should be made  |
+|                 |                 |                 | prior to        |
+|                 |                 |                 | resignation/ret |
+|                 |                 |                 | irement;        |
+|                 |                 |                 | however         |
+|                 |                 |                 | terminal payoff |
+|                 |                 |                 | can be made by  |
+|                 |                 |                 | agreement with  |
+|                 |                 |                 | the supervisor. |
++-----------------+-----------------+-----------------+-----------------+
+| **Voluntary     |                 |                 |  Voluntary      |
+| Employee        |                 |                 | benefits        |
+| Benefits**      |                 |                 | include long    |
+|                 |                 |                 | term care,      |
+|                 |                 |                 | vision,         |
+|                 |                 |                 | pre-paid legal, |
+|                 |                 |                 | pet insurance,  |
+|                 |                 |                 | critical        |
+|                 |                 |                 | illness,        |
+|                 |                 |                 | home/auto       |
+|                 |                 |                 | insurance.      |
+|                 |                 |                 | These Programs  |
+|                 |                 |                 | may have open   |
+|                 |                 |                 | enrollment      |
+|                 |                 |                 | periods that    |
+|                 |                 |                 | limit when you  |
+|                 |                 |                 | can enroll for  |
+|                 |                 |                 | coverage. For   |
+|                 |                 |                 | information,    |
+|                 |                 |                 | see MSU         |
+|                 |                 |                 | Benefits        |
+|                 |                 |                 | Plus. [www.hr.m |
+|                 |                 |                 | su.edu/msubenef |
+|                 |                 |                 | itsplus](/msube |
+|                 |                 |                 | nefitsplus)     |
++-----------------+-----------------+-----------------+-----------------+
+| **Waiver of     | University      | Date of         | If currently    |
+| Health Care     |                 | employment if   | covered by      |
+| Coverage**      |                 | enrolled within | another health  |
+|                 |                 | 30 days of      | plan, employees |
+|                 |                 | appointment.    | may waive MSU's |
+|                 |                 |                 | coverage in     |
+|                 |                 |                 | exchange for a  |
+|                 |                 |                 | cash payment    |
+|                 |                 |                 | (\$600          |
+|                 |                 |                 | maximum).       |
+|                 |                 |                 | Employees have  |
+|                 |                 |                 | 30 days to      |
+|                 |                 |                 | enroll or       |
+|                 |                 |                 | during annual   |
+|                 |                 |                 | open            |
+|                 |                 |                 | enrollment. The |
+|                 |                 |                 | waiver is not   |
+|                 |                 |                 | an option when  |
+|                 |                 |                 | both the        |
+|                 |                 |                 | employee and    |
+|                 |                 |                 | spouse or Other |
+|                 |                 |                 | Eligible        |
+|                 |                 |                 | individual\*    |
+|                 |                 |                 | are employed by |
+|                 |                 |                 | MSU.            |
++-----------------+-----------------+-----------------+-----------------+
+
+In addition, the following benefits/privileges are provided:
+
+Social Security\
+Workers' Compensation\
+Unemployment Compensation\
+Access to University athletic, recreation and cultural
+facilities/events\
+Athletic event tickets at staff rates\
+Library privileges
+
+\*Other Eligible Individual (OEI):
+
+Please see[ Other Eligible Individual (OEI) for more
+detail](/benefits/oei.htm " deatil for Other Eligible Individual (OEI) ").
+:::
+:::
+:::
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/Executive-management-benefit-summary.pcf)

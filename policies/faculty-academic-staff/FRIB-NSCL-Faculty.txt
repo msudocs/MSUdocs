@@ -1,0 +1,464 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: |
+    Facility for Rare Isotope Beams/National Superconducting Cyclotron
+    Laboratory Faculty Positions
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+::: {.main}
+::: {.page-content}
+::: {.container}
+::: {#crumbs}
+[MSU Human Resources](/) \>\> [
+[Policies-procedures](/policies-procedures) \>\> ]{.crumb xmlns=""} [
+[Faculty-academic-staff](/policies-procedures/faculty-academic-staff)
+\>\> ]{.crumb xmlns=""} [Facility for Rare Isotope Beams/National
+Superconducting Cyclotron Laboratory Faculty Positions]{.lastitem
+xmlns=""}
+:::
+
+\
+\
+
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "All Faculty Handbooks")
+-   [University Wide Polices &
+    Procedures](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+
+ 
+
+Facility for Rare Isotope Beams/National Superconducting Cyclotron Laboratory Faculty Positions {#facility-for-rare-isotope-beamsnational-superconducting-cyclotron-laboratory-faculty-positions .page-title xmlns=""}
+===============================================================================================
+
+Last updated: 5/28/16
+
+This document contains employment policies specifically related to
+employment as a FRIB/NSCL Faculty member (FRIB/NSCL Faculty) in the
+Facility for Rare Isotope Beams in multi-year fixed term appointments.
+This document does not replace or modify other existing University
+policies, which remain in effect for all University employees. In
+circumstances when the document is silent on an issue, the Laboratory
+adheres to the corresponding policy contained in the Faculty Handbook.
+
+**I. Definitions**
+
+A. \"FRIB/NSCL Faculty\" hold multi-year fixed term appointments and
+will normally be jointly appointed in the FRIB and an appropriate
+academic unit, e.g., Physics and Astronomy, Chemistry, Engineering,
+etc., at the ranks of Assistant Professor, Associate Professor and
+Professor.
+
+B. \"Laboratory Faculty\" is the combined group of FRIB/NSCL Faculty and
+tenure system faculty who hold joint appointments in the FRIB and an
+academic unit.
+
+**II. Role and Responsibility**
+
+A. FRIB/NSCL Faculty are expected to make high quality contributions to
+research, teaching, student mentoring and service in support of the
+FRIB/NSCL mission and the teaching goals of their academic unit. The
+teaching load of FRIB/NSCL Faculty in their academic unit will normally
+be equal to the teaching load of the FRIB/NSCL tenure system faculty in
+the respective unit, thus reducing the average teaching load of the
+Laboratory faculty.
+
+B. Research conducted by FRIB/NSCL Faculty is expected to be of
+excellent quality as determined by peer review and to be directed toward
+further enhancement of the national role of the FRIB and its long-term
+objectives.
+
+C. FRIB/NSCL Faculty will participate in laboratory faculty meetings and
+will have the same voting rights as tenure system faculty at the FRIB.
+
+D. FRIB/NSCL Faculty may act as senior investigators on sponsored
+research projects with approvals according to applicable University
+procedures and policies and may act as advisors to graduate students in
+thesis research.
+
+E. Consistent with the Bylaws for Academic Governance, full time
+FRIB/NSCL Faculty who have served at least three consecutive years may
+be elected to an academic governance body, with the exception of the
+University Committee on Faculty Tenure, as a representative of any unit
+in which the FRIB/NSCL Faculty member holds a joint appointment.
+
+F. The rights and responsibilities of FRIB/NSCL Faculty in their
+academic unit may vary and will be defined within the bylaws of the
+respective academic unit.
+
+**III. Appointment Basis**
+
+A. FRIB/NSCL Faculty are appointed on a full time, annual year (12
+months) basis with salaries paid in 12 installments on the last working
+day of each month. An academic year (AY, 9 month) appointment may be
+recommended by the Laboratory Director based on program needs and the
+specific duties and responsibilities of the position. FRIB/NSCL Faculty
+appointed on an academic year basis are to be available for University
+duties from August 16 through May 15. The total AY appointment salary is
+paid over the duty period, on the last working day of each month.
+
+B. Assistant Professors are appointed initially for a four-year fixed
+term and may be reappointed for a three-year fixed term. If not promoted
+to the rank of Associate Professor at the conclusion of the second fixed
+term appointment, the individual is ineligible for an additional
+reappointment.\
+An initial appointment as Associate Professor or Professor is normally
+for a fixed term of four years but may vary from 3 to 5 years as
+recommended by the Laboratory Director. The Laboratory Director may
+recommend a rolling fixed term five-year appointment for an initial
+appointment as Professor.  Upon promotion to Associate Professor or
+Professor, the appointment will be for a rolling fixed term five-year
+appointment.
+
+**IV. Annual Performance Review**
+
+A. The annual performance review of FRIB/NSCL Faculty will be conducted
+according to the Laboratory Faculty Annual Performance Review Procedure.
+The unit administrator conducting the performance evaluation will
+receive input from a Faculty Review Advisory Committee (FRAC). As
+applicable, the FRAC will also make a recommendation regarding
+continuation of a rolling fixed term appointment. Additionally, the unit
+administrator will seek advice from the Department Chair of the academic
+unit in which the FRIB/NSCL Faculty member holds a joint appointment
+or appropriate administrators in other units in which the faculty member
+has responsibilities.
+
+**V. Reappointment and/or Promotion Review**
+
+A. At the beginning of each academic year the Laboratory Director will
+request all FRIB/NSCL Faculty members at the rank of Assistant Professor
+and Associate Professor and all Professors without a rolling fixed term
+appointment to submit a file of materials in support of reappointment
+(for FRIB/NSCL faculty without a rolling fixed term appointment) and/or
+promotion. The materials are prepared according to written guidelines
+and must include the name of the senior faculty member who serves as the
+faculty mentor.
+
+B. A Reappointment and Promotion Committee (RPC) is convened by the
+Laboratory Director and consists of all Laboratory Faculty at a rank
+higher than those FRIB/NSCL faculty under consideration for
+reappointment or promotion. For Professors, faculty of equal rank will
+constitute the RPC. The RPC reviews the status and progress of each
+FRIB/NSCL Faculty member under consideration (see A., above).  For
+Professors without a rolling appointment, the Laboratory Director has
+the option to form a subcommittee or to call for a vote by the RPC on
+reappointment for a rolling fixed term appointment of 5 years.
+
+C. An RPC subcommittee must be formed to consider the reappointment
+and/or promotion of FRIB/NSCL faculty whose fixed term appointment will
+expire in two years. For others, an RPC subcommittee will be formed upon
+an affirmative vote of 25% or more of the RPC or by request of the
+Laboratory Director. Each RPC subcommittee will be composed of faculty
+members of higher rank than the candidate (equal rank for Professors),
+including three Laboratory faculty members and one additional member
+from the appropriate academic unit. In addition, the mentor of the
+FRIB/NSCL faculty member considered for reappointment or promotion will
+be a member of the subcommittee.
+
+D. The RPC subcommittee informs the candidate in writing about its
+procedures, rules and guidelines. The criteria and standards for tenure
+system faculty in the respective academic unit should be considered
+taking into account that the major fraction of the appointment is held
+at FRIB/NSCL. The timeline for RPC actions should parallel that for
+tenure system faculty in the respective academic unit.
+
+E. When an RPC subcommittee has completed its deliberations, a
+recommendation regarding reappointment or promotion will be provided to
+the RPC. A vote shall be taken by the RPC and its recommendation shall
+then be forwarded through line management successively to the Director
+and to the Provost or designee for appropriate action.
+
+**VI. Grievance Procedure**
+
+A. Any FRIB/NSCL Faculty member may initiate a grievance alleging a
+violation, misinterpretation, or misapplication of existing policies or
+established practices, applicable in a department of the Laboratory, the
+Laboratory as a whole, or the University. Informal resolution of a
+grievance must be attempted through discussion with appropriate
+Laboratory administrators, prior to initiating a formal grievance.
+
+B. In the event that the grievance is not satisfactorily resolved
+informally, the FRIB/NSCL Faculty member may request resolution using
+the formal procedures specified for the FRIB/NSCL Continuing Appointment
+System.
+
+**VII. Expiration or Termination of Appointment**
+
+A. The University has no obligation to provide reappointment or
+extension of an FRIB/NSCL Faculty appointment beyond the current end
+date. Except in the case of dismissal for cause (see paragraph VII.D.),
+a written notice of at least 12 months will be provided prior to
+expiration or termination of the appointment.
+
+B. In the event that the operation and research funds of the FRIB/NSCL
+are terminated or drastically cut it may be necessary to reduce or
+eliminate FRIB/NSCL Faculty positions. In this case and after review by
+the Provost or designee, FRIB/NSCL Faculty appointments may be allowed
+to expire at the end of their current term.
+
+C. FRIB/NSCL Faculty appointments may be allowed to expire at the end of
+their current term for failure to meet the responsibilities as defined
+in Sections II.A. and II.B. The determination of inadequate performance
+will consider a period of at least two years. Based on the annual
+performance reviews, the Laboratory Director will ask for a
+recommendation by a majority of Laboratory Faculty who are of higher
+rank than the FRIB/NSCL Faculty member. For professors, Laboratory
+Faculty of equal rank will make the recommendation. The final decision
+is made by the Laboratory Director.
+
+D. FRIB/NSCL Faculty may be dismissed immediately for cause including
+but not limited to (1) intellectual dishonesty; (2) acts of
+discrimination, including harassment, prohibited by law or University
+policy; (3) acts of moral turpitude substantially related to the fitness
+of faculty members to engage in teaching, research, service/outreach
+and/or administration; (4) theft or misuse of University property; (5)
+incompetence; (6) refusal to perform reasonable assigned duties; (7) use
+of professional authority to exploit others; (8) violation of University
+policy substantially related to performance of faculty responsibilities;
+and (9) violation of law(s) substantially related to the fitness of
+faculty members to engage in teaching, research, service/outreach and/or
+administration.  Dismissal for cause will follow Section 2.0 in the
+Procedures for the Dismissal of CA Staff for Cause.
+
+**VIII. Professional Development**
+
+A. FRIB/NSCL Faculty members are encouraged to take advantage of special
+conferences, seminars, colloquia, and other short-term activities and
+programs which will add to or update their professional knowledge and
+skills. Attendance at professional meetings and participation in
+programs which are held outside of the immediate geographic area require
+the approval of the appropriate FRIB Division Director and completion of
+Travel Authorization forms.
+
+B. Extended release time for assignment to scholarly duties may be
+granted to FRIB/NSCL Faculty with six or more years of service to the
+University in order to enhance professional competency and for scholarly
+pursuit. Such activities are intended for the mutual benefit of the
+Laboratory, the University and the FRIB/NSCL Faculty member. The purpose
+is to encourage academic and institutional revitalization by providing
+sustained time for research/creative activities; development of new
+courses or programs; acquisition of expanded and/or new qualifications
+and skills; contribution to unit plans to improve and/or refocus
+instructional, research, or public service activities in accordance with
+the missions of the University. Extended release time for assignment to
+scholarly duties is not granted automatically and must be approved by
+the Laboratory Director in consultation with the Department Chair of the
+academic unit in which the FRIB/NSCL Faculty member holds a joint
+appointment. Extended release time must be requested in writing by the
+FRIB/NSCL Faculty member and directed to the Laboratory Director.
+Requests must include a detailed description of the purposes,
+objectives, and scholarly and research activities of the proposed
+extended release time. The plan should indicate how the objectives and
+accomplishments of the extended release time will advance the interests
+and capabilities of the FRIB/NSCL Faculty member for fulfilling the
+aims, objectives and goals of the Laboratory, academic unit, college
+and/or University. Extended release time for assignment to scholarly
+duties for more than six months requires approval of the Provost or
+designee. Funding for extended release time and assignment to scholarly
+duties is provided by the unit.
+
+**IX. General Conditions**
+
+Additional information on other aspects of employment for FRIB/NSCL
+Faculty is referenced or contained in the following appendix.
+
+**APPENDIX I - MSU Faculty Handbook References**
+
+The following references to the [MSU Faculty
+Handbook](/documents/facacadhandbooks/facultyhandbook/index.htm "Faculty Handbook") apply
+to this document. The Faculty Grievance Policy, tenure policies and
+sabbatical leave of absence policy contained in the Faculty Handbook do
+not apply to FRIB/NSCL Faculty.
+
+**Section III University Policies** \
+All sections apply.
+
+**Section IV Academic Human Resources Policies** \
+The following sections apply.
+
+Health Assessment\
+Identification Cards\
+Jury Duty\
+Payroll Procedures\
+Leaves of Absence
+
+-   Without Pay
+-   Medical
+-   Parental Leave
+-   Family and Medical Leave
+-   Military
+
+Bridging Breaks in Service\
+Credit for Past Service\
+Retirement\
+Resignation\
+Participation in Partisan Political Activities\
+Study at MSU by Faculty Members\
+Course Fee Courtesy\
+Outside Work for Pay\
+Vacation
+
+**Section V Instruction** \
+All sections apply.
+
+**Section VI Research and Creative Endeavor** \
+All sections apply.
+
+**Section VII Faculty and Academic Staff Retirement and Benefit
+Programs** \
+All sections apply.
+:::
+:::
+:::
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/FRIB-NSCL-Faculty.pcf)

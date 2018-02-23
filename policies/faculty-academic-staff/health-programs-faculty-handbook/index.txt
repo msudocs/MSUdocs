@@ -1,0 +1,262 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: Health Programs Faculty Appointment System Handbook
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+Health Programs {#health-programs .page-title xmlns=""}
+---------------
+
+-   [II. Health Programs Faculty
+    Appointments](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/hpfaculty_appointments.html "Appointments")
+-   [III. Roles of Health Programs
+    Faculty](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/roles_hpfaculty.html "III. Roles of Health Programs Faculty")
+-   [IV. Criteria for Establishing Health Programs Faculty
+    Positions](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/criteria_hpfaculty_positions.html "IV. Criteria for Establishing Health Programs Faculty Positions")
+-   [V. Credentials and
+    Licensure/Certification](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/creds_license_certs.html "V. Credentials and Licensure/Certification")
+-   [VI. Appointment, Evaluation, Reappointment and
+    Promotion](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/app_eval_reapp_promotion.html "VI. Appointment, Evaluation, Reappointment and Promotion")
+-   [VII. Guidelines for Academic Unit Peer Review Committee
+    Composition](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/peer_review_committee.html "VII. Guidelines for Academic Unit Peer Review Committee Composition")
+-   [VIII. Movement from HP Faculty Appointment System to Tenure
+    System](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/hpfaculty_app_tenure.html "VIII. Movement from HP Faculty Appointment System to Tenure System")
+-   [IX. Faculty Status, Salary and Appointment Basis of Health Programs
+    (HP) /Assume Administrative
+    Responsibilities](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/hpfaculty_admin_responsibilities.html "IX. Faculty Status, Salary and Appointment Basis of Health Programs (HP) Faculty Members Who Assume Administrative Responsibilities.")
+-   [X. Dismissal and Discipline of HP Faculty
+    Members](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/dismissal_discipline_hpfaculty.html "X. Dismissal and Discipline of HP Faculty Members")
+-   [XI. Professional Development
+    Leave](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/professional_dev_leave.html "XI. Professional Development Leave") 
+-   [XII. Leaves of
+    Absence](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/loa_hpfaculty.html "XII. Leaves of Absence")
+-   [XIII. Course Fee
+    Courtesy](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/course_fee_courtesy.html "XIII. Course Fee Courtesy")
+-   [XIV. Retirement and Benefit
+    Programs](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/retirement_benefits_programs.html "XIV. Retirement and Benefit Programs")
+-   [XV. Amendment
+    Procedures](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/amendment_procedures.html "XV. Amendment Procedures")
+-   [XVI. The Role of Practice
+    Plans](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/role_practice_plans.html "XVI. The Role of Practice Plans")
+-   [XVII. Record of Ratification and
+    Amendments](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/ratification_amendments.html "XVII. Record of Ratification and Amendments")
+-   [Appendices](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/appendices_hpfaculty.html "Appendices")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Health Programs
+    Handbook](/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/index.html "Health Programs Hndbook")
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "All Faculty Handbooks")
+-   [University Wide Polices &
+    Procedures](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+Health Programs Faculty Appointment System Handbook {#health-programs-faculty-appointment-system-handbook xmlns=""}
+===================================================
+
+This Handbook describes an appointment system for clinician faculty
+members appointed on a paid basis in the Colleges of Human, Osteopathic,
+Veterinary Medicine and Nursing. Faculty members appointed in the basic
+biological or behavioral science areas within the medical colleges are
+not appointed in the HP system.
+
+The Health Programs Faculty Appointment System (HP) is predicated on the
+need of the medical and nursing colleges of Michigan State University to
+expand and enhance their programs in clinical education, patient care
+service, and clinical research through a planned expansion of patient
+care services and community outreach. In order to meet the personnel
+needs of these missions, it is essential that the medical and nursing
+colleges gradually increase the number of clinician faculty resources
+supporting each of these essential functions. Given the declining
+general fund base support for these colleges, essential growth in
+faculty resources must be supported through a combination of patient
+care income and other clinically and service related revenues.
+
+The medical and nursing colleges of Michigan State University are
+committed to the tenure system as the basic faculty appointment track of
+the University. The colleges of medicine and nursing would not exist as
+academic entities without a sufficient number of tenure system faculty
+to provide continuous support to both academic and clinical programs.
+The Health Programs Faculty Appointment System is a supplement to the
+tenure system, which requires teaching, research and clinical service in
+the medical and nursing colleges. 
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/health-programs-faculty-handbook/index.pcf)

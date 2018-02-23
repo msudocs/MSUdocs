@@ -1,0 +1,441 @@
+---
+title: 'Academic Hiring Manual University Approved Academic Positions/Ranks'
+---
+
+::: {#body}
+Academic Hiring Manual
+
+**Academic Hiring Manual University Approved Academic Positions/Ranks**
+
+::: {xmlns=""}
+-   Also see [University Approved Academic
+    Titles](/policies-procedures/faculty-academic-staff/academic-hiring-manual/academic_titles.html).
+-   \"Emeritus\" is added to the position/rank only for those granted
+    this designation from MSU. Once emeritus status has been granted,
+    any reappointments should show the position/rank emeritus as primary
+    position/rank.
+-   \"Visiting\" may be applied to any position/rank, when appropriate. 
+    The visiting designation is only to be used for faculty and academic
+    staff who are visiting on a short-term basis (i.e., a year or less)
+    and who intend to return to their home institution or agency from
+    which they are visiting.
+-   \"Clinical\" is added in front of the position/rank of
+    Faculty/Academic Staff appointed at no pay, whose duties involve
+    patient care, or whose duties require a professional degree in a
+    health or social services field. For example, Clinical Associate
+    Professor.
+-   \"Adjunct\" is added in front of the position/rank of
+    Faculty/Academic Staff appointed on a no pay basis (except when
+    \"clinical\" is appropriate). For example, Adjunct Assistant
+    Professor, or Adjunct Visiting Research Associate.
+:::
+
++-----------------------------------+-----------------------------------+
+| **RANKED FACULTY**                | **COMMENTS**                      |
++-----------------------------------+-----------------------------------+
+| Professor                         | Must have terminal degree. Must   |
+|                                   | be appointed in academic unit.    |
+|                                   |  Endowed chair and other special  |
+|                                   | designations apply to the rank of |
+|                                   | professor.  (For example, John A. |
+|                                   | Hannah Distinguished Professor,   |
+|                                   | or University Distinguished       |
+|                                   | Professor.)                       |
++-----------------------------------+-----------------------------------+
+| Associate professor               | Must have terminal degree. Must   |
+|                                   | be appointed in academic unit.    |
++-----------------------------------+-----------------------------------+
+| Assistant professor               | Must have terminal degree. Must   |
+|                                   | be appointed in academic unit.    |
++-----------------------------------+-----------------------------------+
+|                                   | **Health Programs, (HP), faculty  |
+|                                   | must have terminal medical        |
+|                                   | degree.  Must be clinician        |
+|                                   | faculty member appointed in the   |
+|                                   | College of Human Medicine,        |
+|                                   | Osteopathic Medicine, Veterinary  |
+|                                   | Medicine or Nursing.  Must have a |
+|                                   | valid license to practice         |
+|                                   | medicine, veterinary medicine,    |
+|                                   | nursing or other clinical         |
+|                                   | credential accepted by the State  |
+|                                   | of Michigan appropriate for the   |
+|                                   | professional role and function.** |
++-----------------------------------+-----------------------------------+
+| Professor HP                      | Professor (Health Programs)       |
++-----------------------------------+-----------------------------------+
+| Asc Professor HP                  | Associate Professor (Health       |
+|                                   | Programs)                         |
++-----------------------------------+-----------------------------------+
+| Ast Professor HP                  | Assistant Professor (Health       |
+|                                   | Programs)                         |
++-----------------------------------+-----------------------------------+
+|                                   | **FRIB/NSCL positions must be     |
+|                                   | appointed in the Facility for     |
+|                                   | Rare Isotope Beams/National       |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory. \                     |
+|                                   | **                                |
++-----------------------------------+-----------------------------------+
+| Professor FRIB/NSCL               | Professor (Facility for Rare      |
+|                                   | Isotope Beams/National            |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+| Asc Professor FRIB/NSCL           | Associate Professor (Facility for |
+|                                   | Rare Isotope Beams/National       |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+| Ast Professor FRIB/NSCL           | Assistant Professor (Facility for |
+|                                   | Rare Isotope Beams/National       |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+|                                   | **Research faculty are supported  |
+|                                   | by sponsored projects or other    |
+|                                   | non-appropriated University       |
+|                                   | funds.**                          |
++-----------------------------------+-----------------------------------+
+| Research Professor                | Must have terminal degree. Must   |
+|                                   | be appointed in academic unit.    |
++-----------------------------------+-----------------------------------+
+| Research Asc Professor            | Must have terminal degree. Must   |
+|                                   | be appointed in academic unit.    |
++-----------------------------------+-----------------------------------+
+| Research Ast Professor            | Must have terminal degree. Must   |
+|                                   | be appointed in academic unit.    |
++-----------------------------------+-----------------------------------+
+|                                   | \* More information related to    |
+|                                   | research faculty positions can be |
+|                                   | found on the [Research Faculty    |
+|                                   | Appointment                       |
+|                                   | Category](/policies-procedures/fa |
+|                                   | culty-academic-staff/faculty-hand |
+|                                   | book/research_appointment.html "M |
+|                                   | ore information on the Research F |
+|                                   | aculty Appointment Category") pag |
+|                                   | e.                                |
++-----------------------------------+-----------------------------------+
+| Instructor                        | Must have master\'s degree or     |
+|                                   | have been employed as an          |
+|                                   | instructor or equivalent          |
+|                                   | elsewhere.  Teaching experience   |
+|                                   | as a graduate assistant is not    |
+|                                   | included.  Must be appointed in   |
+|                                   | academic unit.                    |
++-----------------------------------+-----------------------------------+
+| Instructor/Fellow                 | Must have master\'s degree.       |
++-----------------------------------+-----------------------------------+
+| Instructor/Intern                 | Must have master\'s degree.       |
++-----------------------------------+-----------------------------------+
+| Instructor/Resident               | Must have master\'s degree.       |
++-----------------------------------+-----------------------------------+
+| **ACADEMIC STAFF**                | **COMMENTS**                      |
++-----------------------------------+-----------------------------------+
+| Archivist IV                      |                                   |
++-----------------------------------+-----------------------------------+
+| Archivist III                     |                                   |
++-----------------------------------+-----------------------------------+
+| Archivist II                      |                                   |
++-----------------------------------+-----------------------------------+
+| Archivist I                       |                                   |
++-----------------------------------+-----------------------------------+
+| Librarian III                     | For Academic Governance purposes, |
+|                                   | Librarians are included in the    |
+|                                   | term \"faculty\". \               |
+|                                   | Must have master\'s degree in     |
+|                                   | library or information science.   |
++-----------------------------------+-----------------------------------+
+| Librarian II                      | For Academic Governance purposes, |
+|                                   | Librarians are included in the    |
+|                                   | term \"faculty\".\                |
+|                                   | Must have master\'s degree in     |
+|                                   | library or information science.   |
++-----------------------------------+-----------------------------------+
+| Librarian I                       | For Academic Governance purposes, |
+|                                   | Librarians are included in the    |
+|                                   | term \"faculty\".\                |
+|                                   | Must have master\'s degree in     |
+|                                   | library or information science.   |
++-----------------------------------+-----------------------------------+
+|                                   | **MSU Extension positions.**      |
++-----------------------------------+-----------------------------------+
+| Associate Program Leader          |                                   |
++-----------------------------------+-----------------------------------+
+| Senior Extension Educator         |                                   |
++-----------------------------------+-----------------------------------+
+| Extension Educator                |                                   |
++-----------------------------------+-----------------------------------+
+| Senior Extension Specialist       |                                   |
++-----------------------------------+-----------------------------------+
+| Extension specialist              |                                   |
++-----------------------------------+-----------------------------------+
+| Senior Program Leader             |                                   |
++-----------------------------------+-----------------------------------+
+| Program leader                    |                                   |
++-----------------------------------+-----------------------------------+
+| Sr conservation sci               | Senior Conservation Scientist     |
+|                                   | (MSUE Natural Features Inventory) |
++-----------------------------------+-----------------------------------+
+| Conservation sci                  | Conservation Scientist  (MSUE     |
+|                                   | Natural Features Inventory)       |
++-----------------------------------+-----------------------------------+
+| Conservation assoc                | Conservation Associate  (MSUE     |
+|                                   | Natural Features Inventory)       |
++-----------------------------------+-----------------------------------+
+|                                   | **FRIB/NSCL positions must be     |
+|                                   | appointed in the Facility for     |
+|                                   | Rare Isotope Beams/National       |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory.**                     |
++-----------------------------------+-----------------------------------+
+| Senior engineer FRIB/NSCL         | Senior Engineer (Facility for     |
+|                                   | Rare Isotope Beams/National       |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+| Staff engineer FRIB/NSCL          | Staff Engineer (Facility for Rare |
+|                                   | Isotope Beams/National            |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+| Engineer FRIB/NSCL                | Engineer (Facility for Rare       |
+|                                   | Isotope Beams/National            |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+| Senior physicist FRIB/NSCL        | Senior Physicist (Facility for    |
+|                                   | Rare Isotope Beams/National       |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+| Staff physicist FRIB/NSCL         | Staff Physicist (Facility for     |
+|                                   | Rare Isotope Beams/National       |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+| Physicist FRIB/NSCL               | Physicist (Facility for Rare      |
+|                                   | Isotope Beams/National            |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+| Instructor FRIB/NSCL              | Instructor (Facility for Rare     |
+|                                   | Isotope Beams/National            |
+|                                   | Superconducting Cyclotron         |
+|                                   | Laboratory)                       |
++-----------------------------------+-----------------------------------+
+|                                   | **Academic specialists must be    |
+|                                   | appointed in academic units or    |
+|                                   | unit reporting to the Provost or  |
+|                                   | the Vice President for Research   |
+|                                   | and Graduate Studies. Duties must |
+|                                   | be consistent with a functional   |
+|                                   | category described on the         |
+|                                   | Specialist Position Description   |
+|                                   | form**.                           |
++-----------------------------------+-----------------------------------+
+| Sr Spec - Advisor                 | Senior Specialist - Advisor       |
++-----------------------------------+-----------------------------------+
+| Sr Spec - Curr Dev                | Senior Specialist - Curriculum    |
+|                                   | Development                       |
++-----------------------------------+-----------------------------------+
+| Sr Spec - Outreach                | Senior Specialist - Outreach      |
+|                                   | (Public Service)                  |
++-----------------------------------+-----------------------------------+
+| Sr Spec- Research                 | Senior Specialist - Research      |
++-----------------------------------+-----------------------------------+
+| Sr Spec - Teacher                 | Senior Specialist - Teacher       |
++-----------------------------------+-----------------------------------+
+| Specialist - Advisor              | Specialist - Advisor              |
++-----------------------------------+-----------------------------------+
+| Specialist - Curr Dev             | Specialist - Curriculum           |
+|                                   | Development                       |
++-----------------------------------+-----------------------------------+
+| Specialist - Outreach             | Specialist - Outreach (Public     |
+|                                   | Service)                          |
++-----------------------------------+-----------------------------------+
+| Specialist - Research             | Specialist - Research             |
++-----------------------------------+-----------------------------------+
+| Specialist  - Teacher             | Specialist - Teacher              |
++-----------------------------------+-----------------------------------+
+| Artist in residence               |                                   |
++-----------------------------------+-----------------------------------+
+| Assistant instructor              | Must have a bachelor\'s degree.   |
++-----------------------------------+-----------------------------------+
+| Consultant                        | If position/rank is only          |
+|                                   | Consultant, job duties must be    |
+|                                   | reviewed by Academic Human        |
+|                                   | Resources and Human Resources     |
+|                                   | prior to offer.                   |
++-----------------------------------+-----------------------------------+
+| Coordinator                       | If position/rank is only          |
+|                                   | Coordinator, job duties must be   |
+|                                   | reviewed by Academic Human        |
+|                                   | Resources and Human Resources     |
+|                                   | prior to offer.                   |
++-----------------------------------+-----------------------------------+
+| Curator                           |                                   |
++-----------------------------------+-----------------------------------+
+| Editor                            |                                   |
++-----------------------------------+-----------------------------------+
+| Assistant Editor                  |                                   |
++-----------------------------------+-----------------------------------+
+| Fellow                            | Never use if position is          |
+|                                   | Instructor/Fellow.                |
++-----------------------------------+-----------------------------------+
+| Head coach                        | Intercollegiate Athletics         |
+|                                   | position                          |
++-----------------------------------+-----------------------------------+
+| Associate head coach              | Intercollegiate Athletics         |
+|                                   | position                          |
++-----------------------------------+-----------------------------------+
+| Assistant head coach              | Intercollegiate Athletics         |
+|                                   | position                          |
++-----------------------------------+-----------------------------------+
+| Coach                             | Intercollegiate Athletics         |
+|                                   | position                          |
++-----------------------------------+-----------------------------------+
+| Associate coach                   | Intercollegiate Athletics         |
+|                                   | position                          |
++-----------------------------------+-----------------------------------+
+| Assistant coach                   | Intercollegiate Athletics         |
+|                                   | position                          |
++-----------------------------------+-----------------------------------+
+| Head trainer                      | Intercollegiate Athletics         |
+|                                   | position                          |
++-----------------------------------+-----------------------------------+
+| Trainer                           | Intercollegiate Athletics         |
+|                                   | position                          |
++-----------------------------------+-----------------------------------+
+| Intern                            | Never use if position is          |
+|                                   | Instructor/Intern.                |
++-----------------------------------+-----------------------------------+
+| Interpreter IV                    | Usually On-Call but can be paid   |
++-----------------------------------+-----------------------------------+
+| Interpreter III                   | Usually On-Call but can be paid   |
++-----------------------------------+-----------------------------------+
+| Interpreter II                    | Usually On-Call but can be paid   |
++-----------------------------------+-----------------------------------+
+| Interpreter I                     | Usually On-Call but can be paid   |
++-----------------------------------+-----------------------------------+
+| Lecturer                          | Lecturers are appointed on a      |
+|                                   | fixed-term basis for teaching     |
+|                                   | duties.  They generally have      |
+|                                   | professional experience or        |
+|                                   | expertise in the area of          |
+|                                   | instruction and are not required  |
+|                                   | to have an academic degree/       |
++-----------------------------------+-----------------------------------+
+| Postdoctoral fellow               | Recipient of postdoctoral         |
+|                                   | fellowship.  Appointment does not |
+|                                   | confer MSU employee status.       |
++-----------------------------------+-----------------------------------+
+| Program presenter                 | Must be On-Call.                  |
++-----------------------------------+-----------------------------------+
+| Ast program presenter             | Assistant Program Presenter.      |
+|                                   | Must be On-Call.                  |
++-----------------------------------+-----------------------------------+
+| Research associate                | Research Associates are appointed |
+|                                   | on a fixed-term basis to work on  |
+|                                   | research projects with MSU        |
+|                                   | faculty; they are members of the  |
+|                                   | academic staff of MSU.            |
+|                                   | Employment as a Research          |
+|                                   | Associate is limited to a maximum |
+|                                   | of 60 full-time-equivalent        |
+|                                   | service months.\                  |
+|                                   | \                                 |
+|                                   | Research associates must have a   |
+|                                   | doctoral degree. (Ph.D., Ed.D.,   |
+|                                   | M.D., D.O., D.V.M.) or its        |
+|                                   | equivalent.  Exceptions will be   |
+|                                   | considered for the following:\    |
+|                                   | \                                 |
+|                                   | 1.  Individuals without a         |
+|                                   | doctoral degree may be appointed  |
+|                                   | with the rank of research         |
+|                                   | associate for nine months         |
+|                                   | provided the following condition  |
+|                                   | is satisfied:                     |
+|                                   |                                   |
+|                                   | Satisfactory completion of the    |
+|                                   | Ph.D. dissertation defense/orals  |
+|                                   | with minimal revisions needed     |
+|                                   | that are expected to be completed |
+|                                   | within three to six months.  A    |
+|                                   | letter from the chairperson of    |
+|                                   | the department/school in which    |
+|                                   | the Ph.D. work is being taken     |
+|                                   | indicating the nature of the work |
+|                                   | to be completed and an estimated  |
+|                                   | time-frame for completion must be |
+|                                   | submitted with the appointment    |
+|                                   | form.                             |
+|                                   |                                   |
+|                                   | Any reappointment beyond nine     |
+|                                   | months requires proof of degree   |
+|                                   | or a statement from the Dean of   |
+|                                   | the Graduate School, or other     |
+|                                   | appropriate University official,  |
+|                                   | that the requirements have been   |
+|                                   | completed.                        |
+|                                   |                                   |
+|                                   | 2.  Individuals who have          |
+|                                   | completed all requirements for    |
+|                                   | the doctoral degree, but the      |
+|                                   | degree has not been formally      |
+|                                   | awarded, may be appointed for up  |
+|                                   | to twelve months.  A letter from  |
+|                                   | the Dean of the Graduate School,  |
+|                                   | University Registrar\'s Office,   |
+|                                   | or other appropriate University   |
+|                                   | official must be submitted with   |
+|                                   | the appointment form.             |
++-----------------------------------+-----------------------------------+
+| Sr research assoc                 | Senior Research Associates are    |
+|                                   | appointed on a fixed-term basis   |
+|                                   | to work on research projects with |
+|                                   | MSU faculty;  they are members of |
+|                                   | the academic staff of MSU.  The   |
+|                                   | senior research associate is      |
+|                                   | distinguished from the research   |
+|                                   | associate by a substantial        |
+|                                   | research publication record and   |
+|                                   | scholarly recognition in the      |
+|                                   | field and is expected to          |
+|                                   | participate intellectually with   |
+|                                   | faculty and graduate students.  A |
+|                                   | Ph.D. or its equivalent is        |
+|                                   | required with experience to       |
+|                                   | develop a substantial research    |
+|                                   | and publication record.           |
+|                                   |                                   |
+|                                   | May have any number of            |
+|                                   | full-time-equivalent service      |
+|                                   | months.\                          |
+|                                   | \                                 |
+|                                   |                                   |
+|                                   | Appointment at this job title     |
+|                                   | requires review and approval by   |
+|                                   | Academic Human Resources.         |
++-----------------------------------+-----------------------------------+
+| Resident                          | Never use if position is          |
+|                                   | Instructor/Resident.              |
++-----------------------------------+-----------------------------------+
+| Scholar                           | Must be a no pay.                 |
++-----------------------------------+-----------------------------------+
+| Visiting scholar                  | Must be a foreign national.       |
++-----------------------------------+-----------------------------------+
+| Teacher                           |                                   |
++-----------------------------------+-----------------------------------+
+| Tutor                             |                                   |
++-----------------------------------+-----------------------------------+
+
+[\
+Back to Academic Hiring Manual\
+\
+](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/academic-hiring-manual/index.html "Academic Hiring Manual")
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/academic-hiring-manual/academic_positions_ranks.pcf)

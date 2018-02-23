@@ -1,0 +1,367 @@
+---
+title: 'Criminal Background Checks Frequently Asked Questions (FAQ)'
+---
+
+::: {#body}
+Faculty Policies and Procedures
+
+**Criminal Background Checks Frequently Asked Questions (FAQ)**
+
+ Last updated: 2/1/2010
+
+Criminal Background Checks  Faculty, Academic Staff, & Executive Management -Frequently Asked Questions (FAQs) for Units {#criminal-background-checks-faculty-academic-staff-executive-management--frequently-asked-questions-faqs-for-units xmlns=""}
+------------------------------------------------------------------------------------------------------------------------
+
+These questions and answers pertain to the criminal background
+check [policy](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/fas-policies-procedures/CriminalCheck.html "Criminal Background Check Policy") implemented
+on February 1, 2010 for faculty and academic staff. 
+
+::: {xmlns=""}
+-   [General
+    Requirements](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/fas-policies-procedures/CriminalCheckFAQ.html#General "General Requirements")
+-   [HireRight Access and
+    Training](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/fas-policies-procedures/CriminalCheckFAQ.html#Access "Access & Training")
+-   [HireRight
+    Process](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/fas-policies-procedures/CriminalCheckFAQ.html#Process "Process")
+:::
+
+For information regarding criminal background checks for student
+employees, regular, temporary and on-call support staff employees,
+please contact Human Resources at (517) 353-4434
+or [SolutionsCenter@hr.msu.edu](mailto:SolutionsCenter@hr.msu.edu?subject=CBC%20inquiry)
+
+Please note that Human Resources runs all criminal background checks for
+student employees, regular, temporary and on-call support staff
+employees. Departmental users who have access to HireRight are only
+authorized to initiate a criminal background check for faculty, academic
+staff and executive managers.
+
+------------------------------------------------------------------------
+
+[]{#General}General Requirements {#general-requirements xmlns=""}
+--------------------------------
+
+**Who is required to undergo a criminal background check?** \
+All paid and unpaid faculty, academic staff, and executive management
+appointments, including visiting and on-call appointments, for which an
+offer of employment is made on or after February 1, 2010 are required to
+undergo a criminal background check. This does not apply to individuals
+to be appointed as postdoctoral fellows.
+
+**Do foreign nationals need to undergo a criminal background check?** \
+Foreign nationals who come to the University** directly from residence
+outside of the US** are not required to undergo a criminal background
+check as they have obtained necessary background clearances through the
+Department of Homeland Security. However, degree verification is still
+required.
+
+In the case where a foreign national has not come directly to the
+University from residence  outside of the US, the individual is required
+to undergo a background check, permitted the individual has been in the
+US for 6 months or longer.
+
+**How do I initiate degree verification for foreign nationals in
+HireRight?** \
+After you login to HireRight and select whether you or the applicant
+will complete the forms, you will then select the "Education Only -
+Foreign Nationals Pkg" package instead of the "Standard" package. The
+"Foreign Nationals" package contains degree verification only.
+
+**Are individuals to be appointed at the rank of postdoctoral fellow
+required to undergo a criminal background check?** \
+No. Individuals to be appointed at the rank of postdoctoral fellow are
+not required to undergo a criminal background check. These individuals
+are not considered employees of the university.
+
+**Are individuals changing from an on-call appointment to a fixed term
+or continuing system appointment required to undergo a criminal
+background check?** \
+Yes. Individuals who have never had a criminal background check before
+and are changing their appointment status from an on-call to a fixed
+term or continuing system appointment are required to undergo a criminal
+background check.
+
+**My unit hires academic staff members for one semester only every year
+(e.g., every fall). Are these individuals required to undergo a criminal
+background check if they already underwent one last year?** \
+Yes. Individuals who incur a break in employment of 6 months or greater
+are required to undergo a criminal background check.
+
+If the degree on record has previously been verified, you will want to
+select the package called \"Standard without Education.\" Since it was
+previously verified, it does not need to be re-verified. However, if the
+employee has since received a new degree, please use the "Standard"
+package and ask the employee to include the new degree to be verified.
+
+**My unit has rehired a faculty/academic staff member who retired from
+the university. Are these individuals required to undergo a criminal
+background check? **\
+Individuals who incur a break in service of 6 months or less are not
+required to undergo a background check. However, individuals who incur a
+break in employment of 6 months or greater are required to undergo a
+criminal background check.
+
+**My unit is hiring graduate assistants for summer academic
+appointments. Are these individuals required to undergo a criminal
+background check?** \
+If the appointment is one where the individual will hold an academic
+rank, these individuals are required to undergo a criminal background
+check.
+
+**Are individuals changing from a fixed term position to a continuing
+system position required to undergo a criminal background check?** \
+Yes. Individuals who have never had a criminal background check before
+and are changing their appointment status from a fixed term appointment
+to a new continuing system appointment are required to undergo a
+criminal background check.
+
+**Are individuals changing from a support staff position to faculty,
+academic staff, or executive management position required to undergo a
+criminal background check?** \
+It depends. A criminal background check is required if the individual
+has never undergone a criminal background check at MSU or if the
+individual has incurred a break in service of six months or greater. A
+criminal background check is not required if the individual has
+undergone a criminal background check and has not incurred a break in
+service of six months or greater. However, degree verification is still
+required. In this case, please select the "Education Only - Foreign
+Nationals Pkg" package instead of the "Standard" package.
+
+------------------------------------------------------------------------
+
+[]{#Access}HireRight Access and Training {#hireright-access-and-training xmlns=""}
+----------------------------------------
+
+**Who initiates the criminal background checks for faculty and academic
+staff?** \
+Criminal background checks for faculty and academic staff will be
+initiated at the academic unit level.
+
+**Where do I need to go to initiate criminal background checks?** \
+Michigan State University has contracted with HireRight, an outside
+vendor, to perform the criminal background checks. The login for
+HireRight is located here: <https://www.hireright.com/login.aspx>
+
+**How do I gain access to HireRight to initiate criminal background
+checks?** \
+Contact your unit security administrator to request access. Your unit
+security administrator will need to forward your name and contact
+information to Human Resources records
+at <solutionscenter@hr.msu.edu> to request access to HireRight. The
+subject line of the e-mail should state "HireRight Access for
+Faculty/Academic Staff\".
+
+**How do I get trained on using the criminal background check
+system?** \
+When you receive access to the HireRight system, you will also receive
+an e-mail for access to HireRight University. HireRight University is
+the official training website for the HireRight system. It provides 5
+modules for you to enroll in and complete. Each module contains a short
+quiz at the end. Training must be completed prior to accessing the
+HireRight system.
+
+**I was taking the training from HireRight University and module 6 asks
+"Is your HireRight account adjudicated?" How should I answer this
+question?** \
+You should answer "Yes" to this question. MSU's account allows for
+central HR review of all cases which are returned with a "pending"
+status.
+
+**I was taking the training from HireRight University and the modules
+referenced a "Super User." Who is the "Super User"?** \
+The Super User is Cheleane Clerkley, Senior Human Resources Professional
+I/S. Cheleane Clerkley can be reached at 517-884-0131 or
+at [chambe78@hr.msu.edu](mailto:chambe78@hr.msu.edu?subject=HireRight%20Inquiry).
+
+**I was taking the training from HireRight University and the modules
+referenced a flagging system. Are we using the flagging system?** \
+Yes, MSU is utilizing the flagging system. However, it is only be
+utilized as a tracking method for internal central HR purposes only.
+
+**Are there additional resources available on how to initiate a
+background check beyond the HireRight University training modules?** \
+The HireRight system has a "Resources" section which contains training &
+documentation materials. You may find the "Resources" section by logging
+into the HireRight system and clicking the "Resources" section on the
+left hand side of the screen.
+
+------------------------------------------------------------------------
+
+[]{#Process}HireRight Process {#hireright-process xmlns=""}
+-----------------------------
+
+Please also refer to the [Criminal Background Check
+policy](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/fas-policies-procedures/CriminalCheck.html "Criminal Background Check Policy") for
+detailed information regarding the process.
+
+**What does the criminal background check include?** \
+The criminal background check will include the following:
+
+::: {xmlns=""}
+1.  Verification of Social Security Number
+2.  Examination of county criminal records (county of current residence)
+3.  Examination of state criminal records (recent residences)
+4.  Examination of federal criminal records
+5.  Examination of sex offender registry (nationwide)
+6.  Examination of federal debarment lists
+7.  Degree verification
+:::
+
+However, a more comprehensive criminal background check may be required
+pursuant to state or federal law or for certain sensitive positions
+(such as those with significant financial responsibilities).
+
+**If a more comprehensive criminal background check is required (e.g.,
+credit history, motor vehicle records), how do I proceed?** \
+If a more comprehensive criminal background check is required, please
+contact MSU HR at 517-353-4434. MSU HR will initiate criminal background
+checks which require a more comprehensive background check.
+
+**What is the average turnaround time after a criminal background check
+has been submitted?** \
+The average turnaround time after the criminal background check has been
+submitted to HireRight is 72 hours. Delays in turnaround time do occur.
+Please allow at least one to two weeks processing time for each
+background check in the event of a delay. A delay can occur for any of
+the following reasons:
+
+::: {xmlns=""}
+1.  The information has been entered incorrectly by the applicant or the
+    requestor into the HireRight system.
+2.  The institution listed by the applicant for degree verification does
+    not accept an electronic authorization form. In these instances, a
+    wet signature is needed by the applicant on the authorization form.
+3.  The institution listed by the applicant for degree verification is
+    delayed in providing a response to HireRight.
+4.  The county or district listed for a background check in researching
+    whether the applicant has any criminal felony or misdemeanor charges
+    is delayed in providing a response to HireRight.
+:::
+
+::: {xmlns=""}
+Additionally, a turnaround time of at least two weeks for a request that
+is submitted for degree verification from an institution outside of the
+United States can be expected. International institutions have different
+practices and requirements which may cause a delay in HireRight\'s
+verification process. In particular, degrees obtained from India require
+that requests be mailed to the institution. Please allow for at least
+two to three weeks processing time in these cases.
+:::
+
+**What information is required from the applicant in order to initiate
+the criminal background check?** \
+The following information is required:
+
+::: {xmlns=""}
+1.  Applicant Name
+    1.  First Name
+    2.  Last Name
+2.  Applicant Contact Information
+    1.  Address
+        1.  Street Address
+        2.  City
+        3.  State
+        4.  Zip Code
+        5.  Country
+    2.  Phone Number
+    3.  E-mail Address\*
+3.  Applicant Identification
+    1.  Social Security Number\*
+    2.  Date of Birth
+4.  Education\*
+    1.  First Name while attending school
+    2.  Last Name while attending school
+    3.  School or College/University
+    4.  Location
+        1.  Country
+        2.  City
+        3.  State
+    5.  Degree
+    6.  Major/Area of Study
+    7.  Date Degree Received
+:::
+
+\* Denotes if applicable. If not applicable, applicant should indicate
+this.
+
+**What if I need to run a criminal background check for a faculty or
+academic staff member and he/she is a relative of mine?** \
+If the faculty or academic staff member is a relative, another
+authorized user in the unit will need to initiate the criminal
+background check. If the unit does not have another authorized user,
+central HR will initiate the criminal background check. In this
+instance, please contact Academic Human Resources at 517-355-1526.
+
+**My applicant has multiple degrees, but the system only allows the
+applicant to enter one degree. Which degree should the applicant enter
+into the background system?** \
+The applicant should enter the highest degree earned. For example, if
+the applicant has received a Masters degree, but is working towards a
+PhD degree, the applicant should enter the Masters degree into
+HireRight.
+
+**What if an applicant does not hold a degree? Is the applicant still
+required to undergo degree verification?** \
+No. If the applicant does not hold a degree but is required to undergo a
+criminal background check, the applicant should check the "Not
+Applicable" box within the "Education Information" section of HireRight.
+
+**What does it mean if I get an e-mail from HireRight stating the status
+of the background check "Meets Company Standards"?** \
+A status of "Meets Company Standards" means that the applicant has
+satisfactory background check results.
+
+**What does it mean if I get an e-mail from HireRight stating the status
+of the background check is "pending"?** \
+A status of "pending" may occur for a variety of reasons. Some common
+reasons are:
+
+::: {xmlns=""}
+1.  A discrepancy has been found regarding the applicant's degree
+    information.
+2.  An institution is not able to provide a response regarding degree
+    verification.
+3.  Criminal felony or misdemeanor records have been found on the
+    applicant's record.
+:::
+
+All background checks with the status of "pending" require central HR
+review. Central HR reviews background checks with a "pending" status
+daily. After central HR review, you will either receive an e-mail
+notification from HireRight stating that the status has been changed to
+"Meets Company Standards" or you will be contacted by central HR for
+additional follow-up.
+
+**Am I authorized to view the results of the criminal background check
+and degree verification?** \
+You are not authorized to view the results of the criminal background
+check. However, you are authorized to view the results of the degree
+verification. To view the results, click on the applicant's name in the
+HireRight system after the degree verification has been completed and
+the degree verification results will appear.
+
+::: {xmlns=""}
+**What HireRight information is required for submission with AHR forms
+(e.g., appointment form, change of status, reappointment form) for a
+criminal background check?** \
+Evidence of satisfactory completion of the criminal background check
+must accompany AHR paperwork. The e-mail notification from HireRight
+stating the applicant "Meets Company Standards" will suffice.
+:::
+
+Further, if the department initiates the criminal background check on
+behalf of the candidate the original authorization form (all six pages)
+must be submitted as an attachment to the appointment paperwork.
+
+In most cases, the AHR pre-populated forms will indicate that a criminal
+background check document or degree verification document is a required
+attachment.
+
+**Who is responsible for covering the cost of the background check?** \
+The cost of the background checks is covered centrally.\
+\
+[Back to Faculty & Academic Staff Policies and
+Procedures](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/fas-policies-procedures/index.html)
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/fas-policies-procedures/CriminalCheckFAQ.pcf)
