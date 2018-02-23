@@ -1,0 +1,105 @@
+---
+title: Patents
+---
+
+::: {#body}
+Faculty Handbook
+
+**Patents**
+
+ Last updated: 2/14/2001
+
+**VI. RESEARCH AND CREATIVE ENDEAVOR (*Cont.*)**
+
+::: {xmlns=""}
+This policy was approved by the Board of Trustees on November 15, 1930
+and revised on February 14, 2001.
+:::
+
+Consistent with its public service mission and with regulations
+governing federally-funded research, the University endeavors to foster
+the development of its inventions and discoveries through patenting and 
+licensing to industry.  A patent provides an incentive for a company to
+license an invention from the University and to invest in developing and
+marketing products based on the invention.  Licensing proceeds provide a
+means for the University to recognize and reward the creative research
+efforts of inventors and to support additional University research.
+
+Any discovery or invention which a) results from research carried on by,
+or under the direction of, any employee of the University which is
+supported by University funds or by funds controlled or administered by
+the University, or b) results from an employee\'s duties with the
+University, or c) has been developed in whole or in part through the
+utilization of University resources or facilities not available to the
+general public shall belong to the University (\"University
+Inventions\").
+
+In order to assist the University in protecting University Inventions,
+University employees and students (including postdoctoral appointees,
+graduate and undergraduate students) shall disclose any University
+Inventions to the University prior to disclosing such discoveries or
+inventions through publications, presentations, or communications with
+third parties (including research sponsors) in a manner which may
+inhibit or preclude the University from obtaining patent protection. 
+Such disclosure may also be required to comply with legal and/or
+contractual obligations owed to governmental or non-governmental
+research sponsors.  University faculty shall not disclose University
+Inventions in the course of performing Outside Work for Pay unless and
+until the University has had the opportunity to take the steps necessary
+to protect University Inventions through patent or otherwise.
+
+The University\'s goal is to manage University Inventions in such a
+manner as to produce the greatest benefit to the University and to the
+public. The University may, but is not obligated to, seek to protect any
+University Inventions by patent or otherwise.  After receiving
+disclosure of a University Invention, the University may elect to assign
+title to the University Invention to the inventor(s).
+
+::: {xmlns=""}
+The University will recover all direct expenses incurred for the
+patenting, protection and licensing of each University Invention from
+its licensing proceeds before distributing the net proceeds remaining
+among the inventor(s), the inventor\'s major administrative unit, and
+the University according to the following schedule: 
+:::
+
+ 
+
+  ---------------------------------- ----------------- ---------------------- ----------------
+  **Net Licensing Proceeds **\       \                 **Major **\            \
+  **on a Particular University **\   **Inventor(s)**   **Administrative** \   **University**
+  **Invention**                                        **Unit**               
+
+  First \$5,000                      100%              0                      0
+
+  Next \$100,000                     33 1/3%           33 1/3%                33 1/3%
+
+  Next \$400,000                     30%               30%                    40%
+
+  Next \$500,000                     20%               20%                    60%
+
+  All Additional Net  \              15%               15%                    70%
+  Licensing Proceeds  \                                                       
+  over \$1,005,000                                                            
+  ---------------------------------- ----------------- ---------------------- ----------------
+
+ 
+
+The President shall be responsible for administering this policy and
+managing University Inventions, including technological know-how that
+may be licensable but may not be patented or patentable.  The President
+has delegated this authority under this policy to the Vice President for
+Research and Graduate Studies.  The President may authorize exceptions
+to this policy that she/he determines to be in the best interest of the
+University.
+
+Particular University Inventions or licensing proceeds may be
+transferred to the Michigan State University Foundation for
+administration consistent with the net licensing proceeds distribution
+table above.\
+\
+[Back to Faculty
+Handbook](https://hr.msu.edu/policies-procedures/faculty-academic-staff/faculty-handbook/6Section-Research.html)
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/faculty-handbook/patents.pcf)

@@ -1,0 +1,371 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: 'Faculty Handbook - Academic Human Resources Policies Section'
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Faculty Handbook - Academic HR {#faculty-handbook---academic-hr .page-title xmlns=""}
+
+-   [Appointment
+    Basis](/policies-procedures/faculty-academic-staff/faculty-handbook/AppointmentBasis.html "Appointment Basis")
+-   [Academic Year (AY) Appointment Starting
+    Dates](/policies-procedures/faculty-academic-staff/faculty-handbook/ay_startdates.html "AY appointment dates")
+-   [Basic Employment Commitment on an Academic Year
+    Basis](/policies-procedures/faculty-academic-staff/faculty-handbook/basic_employment_commitment.html "Basic Commitment")
+-   [Dual
+    Appointments](/policies-procedures/faculty-academic-staff/faculty-handbook/dual_appointments.html "Dual Appointments ")
+-   [Fixed-term
+    Appointment](/policies-procedures/faculty-academic-staff/faculty-handbook/FixedTermApp.html "Fixed Term Appointments")
+-   [Research Faculty Appointment
+    Category](/policies-procedures/faculty-academic-staff/faculty-handbook/research_appointment.html "Research Faculty Appointment Category")
+-   [Annual Performance Review for Fixed Term Faculty and Academic
+    Staff](/policies-procedures/faculty-academic-staff/faculty-handbook/annual_review.html "Annual Performance Review for Fixed Term Faculty and Academic Staff ")
+-   [Promotion of Fixed Term
+    Faculty](/policies-procedures/faculty-academic-staff/faculty-handbook/fixed-term_promotion.html "Promotion of Fixed Term Faculty")
+-   [Summer
+    Session](/policies-procedures/faculty-academic-staff/faculty-handbook/summer_session.html "Summer Session")
+-   [Adjunct and Clinical
+    Appointment](/policies-procedures/faculty-academic-staff/faculty-handbook/adjunct_appointment.html "Adjunct & Clinical Appointment")
+-   [Emeritus](/policies-procedures/faculty-academic-staff/faculty-handbook/emeritus.html "Emeritus")
+-   [Faculty Rights and
+    Responsibilities](/policies-procedures/faculty-academic-staff/faculty-handbook/faculty_rights.html "Faculty Rights & Responsibilities")
+-   [Conflicts of Interest,
+    Faculty](/policies-procedures/faculty-academic-staff/faculty-handbook/conflicts_of_interest.html "Faculty Conflicts of Interest")
+-   [Health
+    Assessment](/policies-procedures/faculty-academic-staff/faculty-handbook/health_assessment.html "Health Assessment ")
+-   [Occupational Health and Safety Rules and
+    Regulations](/policies-procedures/faculty-academic-staff/faculty-handbook/occupational_health-safety.html "Occupational Health")
+-   [International
+    Hires](/policies-procedures/faculty-academic-staff/faculty-handbook/international_hires.html "International Hires")
+-   [Identification
+    Cards](/policies-procedures/faculty-academic-staff/faculty-handbook/ID_cards.html "Identification Cards")
+-   [Jury
+    Duty](/policies-procedures/faculty-academic-staff/faculty-handbook/jury_duty.html "Jury Duty")
+-   [Mediation](https://www.hr.msu.edu/policies-procedures/faculty-academic-staff/faculty-handbook/mediation.html "Mediation")
+-   [Payroll
+    Procedures](/policies-procedures/faculty-academic-staff/faculty-handbook/payroll_procedure.html "Payroll Procedures")
+-   
+
+#### Tenure System {#tenure-system xmlns=""}
+
+-   [Receipt of Qualifying Degree as a Condition of Appointment in the
+    Tenure
+    System](/policies-procedures/faculty-academic-staff/faculty-handbook/tenure_condition_degree.html "Qualifying Degree")
+-   [Granting
+    Tenure](/policies-procedures/faculty-academic-staff/faculty-handbook/granting_tenure.html "Granting Tenure")
+-   [Operating
+    Principles](/policies-procedures/faculty-academic-staff/faculty-handbook/tenure_operation.html "Tenure Principles")
+-   [Amendments to the Tenure
+    Rules](/policies-procedures/faculty-academic-staff/faculty-handbook/tenure_amendments.html "Amendments to Tenure Rules")
+-   [Extending the Reappointment/Promotion/Tenure Review
+    Timeline](/policies-procedures/faculty-academic-staff/faculty-handbook/tenure_timeline_extension.html "Implementation Practices")
+-   [Principles of Faculty
+    Reassignment](/policies-procedures/faculty-academic-staff/faculty-handbook/faculty_reassignment.html "Faculty Reassignment")
+-   [Post-Tenure
+    Review](/policies-procedures/faculty-academic-staff/faculty-handbook/post-tenure_review.html "Post Tenure Review")
+-   [Faculty
+    Mentoring](/policies-procedures/faculty-academic-staff/faculty-handbook/mentoring_policy.html "Faculty Mentoring ")
+-   [Faculty
+    Review](/policies-procedures/faculty-academic-staff/faculty-handbook/faculty_review.html "Faculty Review")
+-   [Modified Duties Policy for Tenure System and Health Programs
+    Faculty with New Dependent
+    Children](/policies-procedures/faculty-academic-staff/faculty-handbook/modified_duties.html "Modified Duties")
+-   [Appointment, Reappointment, Tenure and Promotion
+    Recommendations](/policies-procedures/faculty-academic-staff/faculty-handbook/recommendations.html "Recommendations")
+-   [Tenure Action and
+    Promotion](/policies-procedures/faculty-academic-staff/faculty-handbook/tenure_action.html "Tenure Action")
+-   [College Level Reappointment, Promotion and Tenure
+    Committees](/policies-procedures/faculty-academic-staff/faculty-handbook/college-level_tenure_committees.html "Reappointment tenure")
+-   [Guidelines for Academic Unit Peer Review Committee
+    Composition](/policies-procedures/faculty-academic-staff/faculty-handbook/guidelines_peer-review.html "Peer Review")
+-   [External Letters of
+    Reference](/policies-procedures/faculty-academic-staff/faculty-handbook/external_ref-letters.html "Reference Letters")
+-   [Confidentiality of Letters of Reference for Reappointment,
+    Promotion and Tenure
+    Recommendations](/policies-procedures/faculty-academic-staff/faculty-handbook/confidentiality_ref-letters.html "Tenure Recommendations")
+-   [Non-Tenured Faculty in the Tenure
+    System](/policies-procedures/faculty-academic-staff/faculty-handbook/non-tenured_faculty.html "Non-tenured faculty")
+-   [Promotion of Tenured
+    Faculty](/policies-procedures/faculty-academic-staff/faculty-handbook/tenure_promotion.html "Tenure promotion")
+-   [Faculty Career Advancement and Professional Development: A Special
+    Affirmative Action
+    Responsibility](/policies-procedures/faculty-academic-staff/faculty-handbook/CareerAdv_ProfDevelopment.html "Career Advancement")
+-   [Faculty Status: Reserved for Appointments in Primary Academic Units
+    of the
+    University](/policies-procedures/faculty-academic-staff/faculty-handbook/faculty_status.html "Faculty Status")
+-   [Long-Term
+    Disability](/policies-procedures/faculty-academic-staff/faculty-handbook/long-term_disability.html "Long term disability")
+-   [Policy and Procedure for
+    Rescission](/policies-procedures/faculty-academic-staff/faculty-handbook/rescission_policy.html "Rescission")
+-   [Discipline and Dismissal of Tenured Faculty for
+    Cause](/policies-procedures/faculty-academic-staff/faculty-handbook/tenure_discipline_dismissal.html "Dismissal for Cause")
+-   [Appendices I, II,
+    III](/policies-procedures/faculty-academic-staff/faculty-handbook/tenure_discipline_appendices1-3.html "Tenure Discipline Appendices")
+-   [Interpretation of the Term
+    \"Incompetence\"](/policies-procedures/faculty-academic-staff/faculty-handbook/incompetence_interpretation.html "Definition Incompetence")
+-   [Librarian Continuous Appointment
+    System](/policies-procedures/faculty-academic-staff/faculty-handbook/librarian_appointment.html "Librarian Appointment ")
+-   [Specialists](/policies-procedures/faculty-academic-staff/faculty-handbook/specialists.html "Specialists")
+-   [Administrative
+    Review](/policies-procedures/faculty-academic-staff/faculty-handbook/administrative_review.html "Administrative Review")
+-   [Faculty Grievance
+    Policy](/policies-procedures/faculty-academic-staff/faculty-handbook/grievance_policy.html "Faculty Grievance Policy ")
+-   [Faculty Grievance Policy
+    (continued)](/policies-procedures/faculty-academic-staff/faculty-handbook/grievance_policy_cont.html "Faculty Grievance Policy (continued)")
+-   [Leaves of
+    Absence](/policies-procedures/faculty-academic-staff/faculty-handbook/leave_policies.html "Leave Policy")
+-   [Sabbatical](/policies-procedures/faculty-academic-staff/faculty-handbook/sabbatical.html "Sabbatical")
+-   [Leave Without
+    Pay](/policies-procedures/faculty-academic-staff/faculty-handbook/loa_without_pay.html "LOA without pay")
+-   [Optional Leave Without Pay Dates for Academic Year Appointed
+    Faculty and Academic
+    Staff](/policies-procedures/faculty-academic-staff/faculty-handbook/LOA_WithoutPay_dates.html "Optional Leave without pay")
+-   [Continuation of Benefits for Faculty on Leave of Absence No Pay
+    Status to Receive Prestigious Awards, Fellowships and/or Special
+    Assignment
+    Opportunities ](/policies-procedures/faculty-academic-staff/faculty-handbook/LOA_continuation_benefits.html "Continuation of Benefits")
+-   [Bereavement](/policies-procedures/faculty-academic-staff/faculty-handbook/funeral_bereavement.html "Faculty Bereavement Leave")
+-   [Medical (Short- and Long- Term
+    Disability)](/policies-procedures/faculty-academic-staff/faculty-handbook/medical_leave.html "Medical Leaves")
+-   [Parental
+    Leave](/policies-procedures/faculty-academic-staff/faculty-handbook/parental_leave.html "Parental Leave")
+-   [Family and Medical
+    Leave](/policies-procedures/faculty-academic-staff/faculty-handbook/family_medical_leave.html "Family Leave")
+-   [Military](/policies-procedures/faculty-academic-staff/faculty-handbook/military_leave.html "Military Leave")
+-   [Vacation](/policies-procedures/faculty-academic-staff/faculty-handbook/vacation.html "Vacation Leave")
+-   [Bridging Breaks in
+    Service](/policies-procedures/faculty-academic-staff/faculty-handbook/service_breaks.html "Bridging Breaks in Service")
+-   [Credit for Past
+    Service](/policies-procedures/faculty-academic-staff/faculty-handbook/past_service_credit.html "Credit Past Service")
+-   [Retirement](/policies-procedures/faculty-academic-staff/faculty-handbook/retirement_eligibility.html "Retirement ")
+-   [Working Retirement
+    Options](/policies-procedures/faculty-academic-staff/faculty-handbook/working_retirement.html "Working Retirement Options")
+-   [Resignation](/policies-procedures/faculty-academic-staff/faculty-handbook/resignations.html "Resignations")
+-   [Participation in Partisan Political
+    Activities](/policies-procedures/faculty-academic-staff/faculty-handbook/partisan_political_activities.html "Partisan Politics")
+-   [Study at MSU by Faculty
+    Members](/policies-procedures/faculty-academic-staff/faculty-handbook/study_MSU_faculty.html "Study at MSU")
+-   [Course Fee
+    Courtesy](/policies-procedures/faculty-academic-staff/faculty-handbook/course_fee_courtesy.html "Course Fee Courtesy")
+
+#### Faculty Awards {#faculty-awards xmlns=""}
+
+-   [William J. Beal Outstanding Faculty
+    Award](/policies-procedures/faculty-academic-staff/faculty-handbook/WJBealAward.html "William J. Beal Outstanding Faculty Award")
+-   [MSU Teacher-Scholar
+    Awards](/policies-procedures/faculty-academic-staff/faculty-handbook/teacher-scholar_awards.html "Teacher Scholar Awards")
+-   [MSU Excellence-In-Teaching Citations for Graduate Teaching
+    Assistants](/policies-procedures/faculty-academic-staff/faculty-handbook/excellence-in-teaching_awards.html "Excellence in Teaching")
+-   [University Distinguished
+    Professor](/policies-procedures/faculty-academic-staff/faculty-handbook/university_distinguished_professor.html "University Distinguished Professor")
+
+#### Administrative Assignment {#administrative-assignment xmlns=""}
+
+-   [Procedure for Faculty and Student Participation in the Selection of
+    Specified University Level
+    Administrators](/policies-procedures/faculty-academic-staff/faculty-handbook/administrator_selection.html "Procedure for Selection")
+-   [Salary, Appointment, and Faculty Status of Faculty Members Who
+    Assume Administrative
+    Responsibilities](/policies-procedures/faculty-academic-staff/faculty-handbook/SalaryAdminResp.html "Salary Appointment")
+-   [Annual Evaluation of
+    Chairpersons/Directors](/policies-procedures/faculty-academic-staff/faculty-handbook/annual_evaluation.html "Annual Evaluation")
+-   [Extension, Medical Care and Other Faculty/Academic Staff Service
+    Activities](/policies-procedures/faculty-academic-staff/faculty-handbook/extension_service-activities.html "Extensions medical care and other service activities")
+-   [Outside Work for
+    Pay](/policies-procedures/faculty-academic-staff/faculty-handbook/outside_work_for-pay.html "Outside Work for Pay")
+-   [Medical Service Plan for Colleges of Human Medicine and Osteopathic
+    Medicine](/policies-procedures/faculty-academic-staff/faculty-handbook/medical_service_plan.html "Medical Service Plans")
+-   [Overload
+    Pay](/policies-procedures/faculty-academic-staff/faculty-handbook/overload_pay.html "Overload Pay")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Faculty
+    Handbook](/policies-procedures/faculty-academic-staff/faculty-handbook/index.html "Faculty Handbook")
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "All Faculty Handbooks")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+Faculty Handbook - Academic Human Resources Policies {#faculty-handbook---academic-human-resources-policies xmlns=""}
+====================================================
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/faculty-handbook/4Section-HR-Policies.pcf)

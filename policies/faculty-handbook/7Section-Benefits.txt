@@ -1,0 +1,241 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: 'Faculty Handbook - Retirement & Benefits Section'
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Faculty Handbook - Benefits {#faculty-handbook---benefits .page-title xmlns=""}
+
+-   [Retirement
+    Programs](/policies-procedures/faculty-academic-staff/faculty-handbook/retirement_programs.html "Retirement Programs")
+-   [Full-Time Equivalent (FTE) Service
+    Months](/policies-procedures/faculty-academic-staff/faculty-handbook/FTE_service_months.html "FTE Service Months")
+-   [Other Eligible
+    Individual](/policies-procedures/faculty-academic-staff/faculty-handbook/OEI.html "Other Eligible Individual")
+-   [Automatic
+    Benefits](/policies-procedures/faculty-academic-staff/faculty-handbook/automatic_benefits.html "Automatic Benefits")
+-   [Optional
+    Benefits](/policies-procedures/faculty-academic-staff/faculty-handbook/optional_benefits.html "Optional Benefits")
+-   [Flexible Spending
+    Accounts](/policies-procedures/faculty-academic-staff/faculty-handbook/fsa.html "FSA")
+-   [Benefits for Postdoctoral
+    Fellows](/policies-procedures/faculty-academic-staff/faculty-handbook/postdoctoral_benefits.html "Post Doctoral Benefits")
+-   [Health Care Benefits for Visiting
+    Faculty/Scholars](/policies-procedures/faculty-academic-staff/faculty-handbook/VisitingFaculty_benefits.html "Benefits for Visiting Scholars")
+-   [Voluntary
+    Benefits](/policies-procedures/faculty-academic-staff/faculty-handbook/voluntary_benefits.html "Voluntary Benefits")
+-   [Retirement
+    Plans](/policies-procedures/faculty-academic-staff/faculty-handbook/retirement_plans.html "Retirement Plans")
+-   [Leave of Absence with
+    Pay](/policies-procedures/faculty-academic-staff/faculty-handbook/loa_with_pay.html "LOA with pay")
+-   [Leave of Absence without
+    Pay](/policies-procedures/faculty-academic-staff/faculty-handbook/loa_without_pay.html "LOA without pay")
+-   [Termination](/policies-procedures/faculty-academic-staff/faculty-handbook/termination.html "Terminations")
+-   [Death](/policies-procedures/faculty-academic-staff/faculty-handbook/death_benefits.html "Death")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Faculty
+    Handbook](/policies-procedures/faculty-academic-staff/faculty-handbook/index.html "Faculty Handbook")
+-   [All Faculty
+    Handbooks](/policies-procedures/faculty-academic-staff/index.html "All Faculty Handbooks")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies & Procedures")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+Faculty Handbook - Retirement & Benefits Section {#faculty-handbook---retirement-benefits-section xmlns=""}
+================================================
+
+Overview {#overview xmlns=""}
+--------
+
+This section presents a broad overview of the various benefit and
+retirement programs available to faculty/academic staff and their
+dependents. Each benefit is described briefly on the following pages.
+The provision of benefits is conditioned upon eligibility requirements
+and, in some cases, a written enrollment form is required.
+
+The following pages summarize the ways in which benefit plans can help
+faculty/academic staff in time of need. Careful reading of this
+information will assist in understanding the protections that are
+available. Individual brochures/certificates are issued at the time of
+enrollment in the programs and updated as necessary.
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/faculty-handbook/7Section-Benefits.pcf)

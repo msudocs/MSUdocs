@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /salarydata
+Disallow: /prefilledforms
+Disallow: /ehr
+Disallow: /imagenow
+Disallow: /benefits/lifechange/dompart.htm
+Disallow: /skillsoft
+Disallow: /PageUp
+Disallow: /2016hrsite
+Disallow: /aro
+Allow: /
+

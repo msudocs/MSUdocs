@@ -1,0 +1,453 @@
+---
+title: Development of Copyrighted Materials
+---
+
+::: {#body}
+Faculty Handbook
+
+**Development of Copyrighted Materials**
+
+ Last updated: 5/6/2005
+
+**VI. RESEARCH AND CREATIVE ENDEAVOR (*Cont.*)**
+
+::: {xmlns=""}
+*The following policy was approved by the Board of Trustees on June 22,
+2001 and revised on May 6, 2005; it replaces the statement on
+Development of Instructional Materials approved by the Board of Trustees
+on November 16, 1973.*
+:::
+
+**Introductory Concepts**
+
+\"Circular 1: Copyright Basics\", issued by the United States Copyright
+Office in the Library of Congress^1 ^, begins with the following
+definition:
+
+::: {xmlns=""}
+> *\"Copyright is a form of protection provided by the laws of the
+> United States (title 17, U.S. Code) to the authors of \"original works
+> of authorship,\" including literary, dramatic, musical, artistic, and
+> certain other intellectual works. This protection is available to both
+> published and unpublished works. Section 106 of the 1976 Copyright Act
+> generally gives the owner of copyright the exclusive right to do and
+> to authorize others to do the following:*
+:::
+
+::: {xmlns=""}
+> *+ To reproduce the work in copies or ;*
+
+> *+ To prepare derivative works based upon the work;*
+
+> *+ To distribute copies or phonorecords of the work to the public by
+> sale or other transfer of ownership, or by rental, lease, or lending;*
+
+> *+ To perform the work publicly, in the case of literary, musical,
+> dramatic, and choreographic works, pantomimes, and motion pictures and
+> other audiovisual works;*
+
+> *+ To display the work publicly, in the case of literary, musical,
+> dramatic, and choreographic works, pantomimes, and pictorial, graphic,
+> or sculptural works, including the individual images of a motion
+> picture or other audiovisual work; and*
+
+> *+ In the case of sound recordings, to perform the work publicly by
+> means of a digital audio transmission.*
+:::
+
+::: {xmlns=""}
+> *In addition, certain authors of works of visual art have the rights
+> of attribution and integrity as described in section 106A of the 1976
+> Copyright Act.\"*
+
+**Among its several other provisions, Circular 1 states:**
+
+> *\"Copyright protects \'\'original works of authorship\'\' that are
+> fixed in a tangible form of expression.\"*
+
+> *\"Copyright protection subsists from the time the work is created in
+> fixed form. The copyright in the work of authorship immediately
+> becomes the property of the author who created the work. Only the
+> author or those deriving their rights through the author can
+> rightfully claim copyright. In the case of works made for hire, the
+> employer and not the employee is considered to be the author. Section
+> 101 of the copyright law defines a \"work made for hire\" as: (1) a
+> work prepared by an employee within the scope of his or her
+> employment; or (2) a work specially ordered or commissioned for use as
+> a contribution to a collective work, as a part of a motion picture or
+> other audiovisual work, as a translation, as a supplementary work, as
+> a compilation, as an instructional text, as a test, as answer material
+> for a test, or as an atlas, if the parties expressly agree in a
+> written instrument signed by them that the work shall be considered a
+> work made for hire\...\... The authors of a joint work are co-owners
+> of the copyright in the work, unless there is an agreement to the
+> contrary.\"*
+
+and
+
+> *\"Copyright in each separate contribution to a periodical or other
+> collective work is distinct from copyright in the collective work as a
+> whole and vests initially with the author of the contribution.\"*
+
+**Section I \-- Ownership Principles**
+:::
+
+MSU follows standard academic practice in disclaiming ownership of, and
+royalties proceeding from, traditional academic works (books, essays,
+works of art, musical compositions and recordings, and the like), unless
+one or more \"Special Circumstances\" exist.  The Special Circumstances
+that cause the University to retain copyright ownership are set forth in
+Section II, below. Works for which Special Circumstances exist and of
+which the University retains ownership are called \"University-owned\"
+works in this Policy.
+
+It is also the tradition at Michigan State University and its peer
+institutions for eligible \"University Authors\" to share in third-party
+licensing revenue received by the University in those cases where
+Special Circumstances cause the University to retain copyright
+ownership. Eligible University Authors are identified in Section III.
+
+Students who author or create copyrighted works which are submitted to
+meet course requirements own the copyrights in such works, even if they
+have been created using University facilities. Neither the course
+instructor nor the University may utilize or distribute student-owned
+copyrighted works for purposes beyond those of the course in which they
+are submitted without obtaining the written permission of the student.
+Students also own the copyrights in their theses and dissertations.
+
+**Section II \-- Special Circumstances in which the University Retains
+Copyright Ownership**
+
+The University retains the ownership of copyrighted works created by one
+or more of its employees within the scope of their employment whenever
+at least one of the following Special Circumstances applies:
+
+::: {xmlns=""}
+1.  Creation of the work involved substantial^2 ^use without charge of
+    equipment, materials, or staff services of any of the various units
+    of the University;
+2.  Creation of the work was supported with money, released time^3 ^, or
+    other substantial^2 ^resources from any unit of the University;
+3.  Creation of the work was directly commissioned^4 ^by the University
+    or one of its units, where the employee(s) who created the work did
+    so using some part of the time for which compensation was received
+    from any University budget, including any grant or contract budget
+    administered by the University or any budget based on special
+    legislative appropriations; or
+4.  Creation of the work occurs in University-approved faculty outside
+    work for pay, if in the opinion of the administrators approving such
+    outside work for pay the work predictably competes with University
+    functions or products that are, or reasonably might be, developed
+    and offered by the University in the furtherance of its mission.
+
+In some cases, University units may wish to provide substantial support
+for the creation of copyrightable works without such support
+constituting a Special Circumstance. (For example, manuscript completion
+subventions are common in certain disciplines.) In such event, the unit
+should contact the Office of the Provost prior to providing the support.
+The Office of the Provost shall have discretion to grant a waiver in
+appropriate cases, after obtaining the agreement of all units providing
+support for the work in question.
+:::
+
+Payment of salary to an individual on sabbatical shall not be construed
+as support for the creation of a specific work, and hence shall not by
+itself constitute a Special Circumstance.
+
+Any person who has a question as to whether the creation of a particular
+work falls within the scope of employment and/or qualifies under one or
+more of the Special Circumstances should initiate an inquiry with the
+Office of the Provost as soon as possible after the question arises.
+
+**Section III \-- University Authors of Works Owned by MSU**
+
+For the purposes of this Policy, a University Author of a work is anyone
+of the following who, in the scope of his/her employment at the
+University, authors or creates, either alone or in collaboration with
+others, a University-owned work:
+
+::: {xmlns=""}
+a.  faculty member,
+b.  specialist,
+c.  librarian,
+d.  executive manager,
+e.  postdoctoral research fellow,
+f.  research associate appointed through the academic personnel system,
+g.  MSU Extension or Experiment Station field staff member,
+h.  FRIB/NSCL continuing appointment system staff member,
+i.  graduate or graduate professional student conducting academic
+    research or creative activity, or
+j.  undergraduate student conducting academic research or creative
+    activity.
+
+Any member of the University community who contributes to the creation
+of a University-owned work may be treated as a University Author with
+respect to that work upon the written agreement of all authors or
+creators of that work who are themselves University Authors.
+:::
+
+In addition, the Office of the Provost shall have discretion to enter
+into agreements whereby University Author status is granted to and
+accepted by other individuals who hold a copyright interest in a given
+work and who assign such interest to the University.
+
+If for a given University-owned work there exists no living or dead
+University Author, then the provisions of this Policy regarding
+University Authors are inapplicable to that work.
+
+**Section IV \-- External Constraints on Copyright Ownership**
+
+Copyrighted works created by University employees and produced under
+grants to the University from the federal government or other extramural
+funding sources, or produced under contracts between the University and
+third parties, shall be subject to the contract or grant with respect to
+copyright ownership, distribution and use, and other rights.
+
+**Section V \-- Internal Use of University-Owned Works**
+
+Each use of a University-owned work by any unit of the University shall
+be subject to the following conditions:
+
+::: {xmlns=""}
+1.  Use internal to the University requires approval of the
+    unit^5 ^primarily responsible for the creation of the
+    University-owned work. Such approval will be deemed implicit when
+    the sponsoring unit^5^ agrees to storage and distribution by the
+    University and if the sponsoring unit schedules courses and assigns
+    instructional duties to which the University-owned instructional
+    work is relevant.
+2.  As long as a faculty member who is a University Author of
+    University-owned material that was not directly commissioned by the
+    University remains a member of the faculty of the University,
+    his/her approval shall be required for internal use of the
+    University-owned work, and his/her contribution should be explicitly
+    acknowledged by the University user.
+3.  To ensure the viability of long-term programs dependent upon
+    University-owned works directly commissioned by the University,
+    units of the University may use such directly commissioned works on
+    a continuing basis, with or without the approval or further
+    involvement of their University Authors. The contribution of
+    University Authors should be explicitly acknowledged by the
+    University user. A University Author of such work may petition the
+    Office of the Provost that it be withdrawn for good cause (e.g., if
+    the work contains serious errors or deficiencies in content or
+    pedagogy that are not being resolved through amendment). The Office
+    of the Provost may seek peer evaluations of the work in question, to
+    assist it in assessing such withdrawal requests.
+4.  When a University Author is no longer an employee of the University,
+    the University may make internal use of the University-owned works
+    he or she created without his/her approval or further involvement. A
+    University Author no longer employed by the University may petition
+    the Office of the Provost that such work be withdrawn for good cause
+    (e.g., if the work contains serious errors or deficiencies in
+    content or pedagogy that are not being resolved through amendment).
+    The Office of the Provost may seek peer evaluations of the work in
+    question, to assist it in assessing such withdrawal requests.
+
+**Section VI \-- External Use and Publication**
+
+1.  Subject to the provisions of this Policy, the University may, at its
+    discretion, assign, transfer, lease, or sell all or part of its
+    legal rights in a University-owned work, or place such work in the
+    public domain. Where academically appropriate and feasible, the
+    University may obtain other forms of legal protection for such
+    University-owned works in the name of the University.
+2.  University Authors who create a peer-reviewed or public
+    service/outreach work that is University-owned under the provisions
+    of Section II are delegated authority to transfer the copyright in
+    that work to a publisher without administrative intervention,
+    provided all of the following conditions are met:
+
+    a.  such transfer is agreed to in advance by the complete set of
+        authors,
+    b.  the work in question was not directly commissioned by the
+        University,
+    c.  neither the authors nor their unit(s) will receive compensation
+        for such transfer,
+    d.  such transfer is reported promptly to the University via the
+        administrative system provided for that purpose,
+    e.  except for the transfer of copyright, the transfer agreement
+        does not contractually bind the University,
+    f.  the work and the copyright transfer do not violate third party
+        rights, and
+    g.  the work and the copyright transfer otherwise conform to
+        scholarly norms.
+
+    This authorization may be extended to works involving compensation
+    of authors and/or units where such compensation does not exceed a
+    level periodically approved by the University.
+
+3.  All other use, licensing, and/or sale of University-owned works
+    external to the University (for example, use by educational
+    institutions other than the University, by government and other
+    non-profit institutions, and use resulting from lease or other
+    contractual arrangements for commercial distribution of the works)
+    may be undertaken by the University at its discretion following
+    receipt of a written memorandum from all University Authors of the
+    work, agreeing to such external use, licensing, and/or sale. Such
+    agreement shall not be unreasonably withheld.
+
+**Section VII \-- Revision of University-Owned Works**
+
+1.  The University Author(s) of a University-owned work may revise it at
+    any time, provided that the revision does not require substantial
+    University resources, and that he/she gives the University and other
+    University Authors of the work (if any) notice of the revision. When
+    substantial University resources are required for an
+    author-initiated revision of a University-owned work, the University
+    Authors shall request advance approval of the resource allocation
+    from the unit(s) sponsoring the work^5 ^and/or providing the
+    resources.
+2.  All surviving University Authors primarily responsible for the
+    creation of a University-owned work must concur in its revision,
+    unless the work was directly commissioned by the University
+3.  The revision of University-owned works that were directly
+    commissioned by the University may also be initiated by the
+    University at its election, with or without the approval or
+    participation of the work\'s original University Authors. However,
+    the University Authors of the original work are entitled to
+    continuing credit for their contributions to the derivative work
+    created through such revision, if they desire to have their names
+    associated with the derivative work. In addition, if the derivative
+    work is externally sold or licensed, the University Authors of the
+    original work are entitled to such participation in University
+    Author royalty sharing under Section VIII as may be equitable in the
+    specific circumstances.
+
+**Section VIII \-- Payments to University Authors**
+
+1.  a\) If the University markets a University-owned work for external use,
+    any net income actually received by the University (after the documented
+    cost of production, sales, advertising, distribution and any unrecovered
+    overhead, but not to include the costs of original development unless so
+    stipulated in the contract or grant) shall be distributed so that the
+    University Author (or all University Authors collectively if there is
+    more than one) receives the first \$5,000 of such net income, 50% of the
+    next \$20,000, 30% of the next \$50,000, and 25% of all additional net
+    income. The University shall retain and use the remainder of the net
+    income to encourage further development of copyrightable works.
+
+    b\) If the University contracts with a third party to reproduce and sell
+    a University-owned work, the total royalties shall be negotiated between
+    the University (after consultation with the University Author(s)) and
+    the third party, and the net income shall be distributed to the
+    University Author(s) and retained and used by the University in
+    accordance with the schedule and for the purpose set forth above.
+
+2.  If a University-owned work prepared for use in another unit of the
+    University is used for extension instruction with the advice and
+    assistance of its University Author(s), then Michigan State
+    University Extension, in accordance with its existing policies, may
+    make additional payment to the University Author(s) for such advice
+    and assistance.
+3.  A University Author may be compensated for use of University-owned
+    video materials in which the University Author personally and
+    prominently appears, when such materials are used while the
+    University Author is not on assignment with the University (e.g.,
+    when the University Author is not appointed during summer session,
+    or is on leave). Compensation should be mutually agreed upon in
+    advance by the University Author and the unit(s) involved, based
+    upon (a) the amount of continuing responsibility of the University
+    Author for the use of the University-owned video material; (b)
+    whether the University-owned video material is complete in itself or
+    embedded in another work; and (c) the extent to which the University
+    Author\'s time and creative efforts have previously been
+    compensated. As a guideline for works in video format, the
+    University author may be compensated on the basis of load credit or
+    salary equal to 1% of the annual salary for each six video hours
+    developed. Such payment or credit should be limited to a period of
+    two years.
+
+**Section IX \-- Transfer of Rights to University Author**
+:::
+
+If the University discontinues use of University-owned instructional
+materials in their existing form for more than two years, if no revision
+is in process, if the University is not otherwise bound by grant or
+contract, and if all living University Authors of the instructional
+materials so request in writing, the University shall transfer the
+copyrights in such instructional materials to the University Author(s),
+provided that the University Author(s) shall be required to pay all
+costs associated with the transfer, including expenses associated with
+copying, mailing and handling, duplication and copyright transfer, but
+not to include original costs of production.
+
+**Section X \-- Protection and Liability**
+
+1.  Protection \
+    1.  The Office of the Provost shall investigate allegations of
+        unauthorized use or copyright infringement of University-owned
+        works and shall recommend appropriate action. If the University
+        initiates legal action in response to an unauthorized use or
+        infringement, all costs of such action (including attorney\'s
+        fees) shall be borne by the University, which shall control the
+        action. All net proceeds of such action in excess of such costs
+        shall be shared by the University and the University Author(s)
+        is accord with the formula set forth in Section VIII-1(a).
+    2.  If the University decides not to initiate legal action, the
+        University Author(s) may do so, and the University shall assign
+        to the University Author(s) such rights as are necessary for the
+        limited purpose of pursuing redress for the unauthorized use or
+        infringement. Costs of such action (including attorney\'s fees)
+        shall be borne by the University Author(s) who shall have the
+        right to all proceeds resulting from that action.
+2.  <div>
+
+    Liability
+
+    </div>
+
+    1.  The University Author(s) of a University-owned work shall obtain
+        appropriate written releases, granting all necessary rights to
+        the University to allow the full exercise of its copyright in
+        the work. These releases shall be kept by the unit producing the
+        work until such time as the work is withdrawn from circulation.
+    2.  Before any external use is made of a University-owned work, the
+        University Author(s) shall certify in writing to the Office of
+        the Provost that the work does not infringe any existing
+        copyright or other legal right held by third parties.
+    3.  In the event third parties assert claims against the University
+        and/or University Author(s) arising out of or related to a
+        University-owned work, the University shall assume
+        responsibility for the defense and control of any legal action
+        arising from such claims, in accordance with the University\'s
+        Indemnification Policy.
+
+::: {xmlns=""}
+**Section XI \-- Implementation**
+:::
+
+This Policy shall take effect upon approval by the Board of Trustees and
+shall be administered and interpreted by the Office of the Provost.
+
+------------------------------------------------------------------------
+
+::: {xmlns=""}
+**Footnotes:**
+:::
+
+^1 ^The quoted text may be found
+at [http://lcweb.loc.gov/copyright/circs/circ1.html](http://www.copyright.gov/ "Copyright Website")
+
+^2 ^The use of personal computers for word-processing is not considered
+\"substantial\" for the purposes of this policy; access to such
+equipment is provided to members of the general public at various sites
+on the MSU campus. Other specific examples of equipment, materials, and
+service uses that are considered substantial or non-substantial by the
+Office of the Provost may be found in a supplemental handbook.
+
+^3 ^\"Released time\" is an adjustment to normal assigned duties that is
+made to facilitate the creation of the copyrighted work.
+
+^4 ^\"Commissioned\" as used herein means the creation of the work was
+requested, initiated, authorized, or assigned by the University. It does
+not imply or necessitate that any supplemental payment is made.
+
+5 Questions regarding the identity of such a unit may be referred to the
+Office of the Provost for resolution.\
+\
+[Back to Faculty
+Handbook](https://hr.msu.edu/policies-procedures/faculty-academic-staff/faculty-handbook/6Section-Research.html)
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/faculty-handbook/copyright_materials.pcf)

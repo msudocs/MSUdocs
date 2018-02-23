@@ -1,0 +1,576 @@
+---
+title: Human Research Protection Program
+---
+
+::: {#body}
+Faculty Handbook
+
+**Human Research Protection Program**
+
+ Last updated: 4/21/2005
+
+::: {xmlns=""}
+**VI. RESEARCH AND CREATIVE ENDEAVOR (*Cont.*)**
+:::
+
+This document is a compilation and description of the many components of
+Michigan State University\'s comprehensive Human Research Protection
+Program. It was approved by the Vice President for Research and Graduate
+Studies on April 21, 2005, after review by the Institutional Review
+Boards, University Research Council, University Graduate Council and MSU
+Legal Counsel. The document is included in the [MSU Human Research
+Protection
+Manual](http://www.humanresearch.msu.edu/ "Human Research Manual") as
+Section 3-1.
+
+**Mission Statement**
+
+The Michigan State University (MSU) human research protection program\'s
+(HRPP) primary mission is the protection of individuals who are the
+subjects of research. MSU is committed to follow the ethical standards
+described in the Belmont Report, and all applicable federal, state and
+local regulations and university policies and procedures. The HRPP at
+MSU sets forth the structure, policies and procedures to implement this
+mission and commitment. The processes of education, review and
+monitoring described in the HRPP serve to ensure the safe and ethical
+conduct of research that will protect human subjects in an atmosphere of
+mutual trust and integrity in the pursuit of knowledge and human
+benefit.
+
+**University Policy**
+
+The original MSU policies on protection of human research subjects are
+included here to emphasize MSU\'s long history of commitment. In the
+years following, Federal regulations and procedures were enacted that
+required many of the same activities that MSU had already instituted.
+MSU policy is to follow all applicable regulations.
+
+*Policies and Procedures for Protecting Human Subjects Used in Research,
+approved by Academic Council, January 23, 1979.*
+
+\"The University\'s Institutional Review Board (known as UCRIHS) shall
+be responsible for the establishment of appropriate University review
+procedures so that all biomedical and behavioral research involving
+human subjects is adequately and effectively reviewed. This review
+should extend to such activities regardless of whether they are funded
+from external sources, internal sources or require no supplemental
+funding, and would also apply to research conducted by graduate and
+undergraduate students.\"
+
+\"MSU shall adopt a single code of ethics and behavior for the
+protection of human subjects engaged in biomedical and behavioral
+research. The uniform code of ethics will be developed by UCRIHS and
+reviewed by the University Graduate Council and the University Committee
+on Faculty Affairs before final approval by the Academic Council.\"
+
+\"The policies and procedures of the University and its units governing
+the use of human subjects in biomedical and behavioral research shall be
+consistent with federal and state laws and guidelines.\"
+
+\"The University Committee on Research Involving Human Subjects (UCRIHS)
+shall prepare a formal set of procedures and bylaws governing its
+operations. These shall be subject to review by the Academic Council and
+serve for any successor to UCRIHS.\"
+
+*Bylaws for Academic Governance, sections 4.47 and 4.87*
+
+The Vice President for Research and Graduate Studies and the Provost
+and/or the Dean of the Graduate School have the responsibility to
+present policies that pertain to research development to academic
+governance for advice and consultation: University Committee on Academic
+Policy and University Graduate Council respectively.
+
+*The Graduate School, Final Submission of Thesis/Dissertation*
+
+\"Human or Animal Subjects Form - All students must complete and submit
+this form, even if no human or animal subjects were used. The form must
+be signed by the student and by the major professor and must include the
+UCRIHS or AUF number(s) as appropriate. In cases where the student\'s
+research involves human subjects, an approval letter from the University
+Committee on Research Involving Human Subjects (UCRIHS) must be
+submitted with the form.\" http://grad.msu.edu/current/formatfinal.pdf,
+http://grad.msu.edu/current/pacucrihs.pdf
+
+*Human Research Protection (HRP) Manual*
+
+Information regarding the structure of MSU\'s Institutional Review
+Boards, their policies and their formal procedures for reviewing human
+subject research for the protection of human subjects are set forth in
+the Human Research Protection (HRP) Manual which is available through
+the MSU Office of Vice President for Research and Graduate Studies
+(OVPRGS) and on the Internet at http://www.humanresearch.msu.edu/. The
+manual includes information regarding evaluation criteria for approval
+and initial and continuing review, as well as conflict of interest,
+unanticipated problems and noncompliance.
+
+**Federal Policy and Regulations**
+
+MSU is committed under its assurance to the federal Office for Human
+Research Protection (OHRP) to apply the federal Policy for the
+Protection of Human Subjects found in 45 CFR 46 and all of its subparts
+\"to all of its human subject research regardless of source of
+support.\" MSU will also comply with any additional human subject
+research regulations and policies of supporting federal agencies, of the
+Food and Drug Administration (21 CFR 50 and 56) and the Standards for
+Privacy of Individually Identified Health Information (45 CFR 160 and
+164).
+
+**Applicability**
+
+The policies and procedures comprising the MSU HRPP apply to all of
+MSU\'s human subject research related activities regardless of funding
+support, and to all activities of its designated Institutional Review
+Boards (IRBs). The policies and procedures apply to the human subject
+research activities conducted by employees of MSU (faculty and staff),
+by students of MSU or by individuals who are members (employees) of
+entities that have a formal written agreement with MSU for review and
+approval of their human subject research. The MSU HRPP does not apply to
+clinical faculty who are not employees of MSU (volunteer faculty) unless
+they have a formal written agreement with MSU or are an employee of an
+entity that does have such an agreement.
+
+**Ethical Principles **\
+\
+MSU is committed under its assurance to the federal OHRP to apply the
+ethical principles found in the Belmont Report to all of its activities
+related to human subject research, regardless of funding. The National
+Commission for the Protection of Human Subjects of Biomedical and
+Behavioral Research wrote the Belmont Report in 1979. The principles
+found in the Belmont Report are summarized as follows:
+
+::: {xmlns=""}
+-   Respect for Persons - Individuals should be treated as autonomous
+    agents. They should voluntarily enter into research by being
+    adequately informed. Special protection should be given to
+    individuals with diminished autonomy and/or of special circumstances
+    since they may not be able to make a considered judgment even if
+    they are adequately informed. One group entitled to special
+    protections is prisoners who may be subtly coerced or unduly
+    influenced.
+-   Beneficence - Researchers are obligated to do no harm by maximizing
+    possible benefits and reducing possible risks to subjects. In some
+    cases where research may pose risk to individual subjects with no
+    direct benefit to them the principle of beneficence requires careful
+    assessment of the benefits to others or to society.
+-   Justice - The risks of research should be equally distributed and
+    should not unduly involve persons from groups unlikely to be among
+    the beneficiaries of the research. Selection of individuals or
+    classes of individuals should be fair. Vulnerable classes of
+    subjects should be given special protection and not be unduly
+    selected as research subjects due to their ready availability or
+    dependent status. \
+    Institutional Official: Authority and Responsibility
+:::
+
+The President of Michigan State University has designated Dr. J. Ian
+Gray, Vice President for Research and Graduate Studies, as the
+Institutional Official for the protection of human research subjects
+under its Federal Wide Assurance \#00004556 with the U.S. Department of
+Health and Human Services, Office for Human Research Protections (OHRP).
+
+In this federally mandated role, Dr. Gray shares responsibility with
+MSU\'s Institutional Review Boards and investigators for the protection
+of human research subjects. Dr. Gray is responsible for ensuring that
+all human subject research at Michigan State University, regardless of
+source of support, will follow the ethical principles as stated in the
+Belmont Report and will follow the laws and regulations governing human
+subjects research including 45 CFR 46 and all its subparts. He is also
+responsible for fostering open communication with regard to, and a
+culture of respect for, human subjects at the university.
+
+The Institutional Official has the authority and responsibility to
+support the Institutional Review Boards for the review of human subjects
+research; to educate the IRB, researchers and staff on the ethical
+conduct of human subjects research; to monitor the human research
+protection program; and to delegate responsibilities to others as needed
+to carry out these duties.
+
+The Institutional Official and other MSU officials may further review,
+approve or disapprove human subjects research that has been approved by
+an MSU IRB as appropriate. They may not, however, approve the research
+if it has not been approved by an MSU Institutional Review Board (45 CFR
+46.112).
+
+**Institutional Review Boards: Authority and Responsibility**
+
+MSU has established two Institutional Review Boards (IRBs) that have
+oversight for all research conducted under its Federal Wide Assurance
+\#00004556. The designated IRB\'s are:
+
+::: {xmlns=""}
+-   Michigan Ste U (University Committee on Research Involving Human
+    Subjects or UCRIHS) - DHHS registration \#00000297
+-   Community Research Institutional Review Board (CRIRB) - DHHS
+    registration \#00003392
+:::
+
+UCRIHS is the original MSU IRB and reviews all human subject research
+protocols to which the MSU HRPP applies, with the exception of
+multi-community research. The CRIRB was recently designated as an MSU
+IRB in 2002 and reviews multi-community research protocols.
+
+These IRBs have the authority and responsibility to approve, require
+modifications in, or disapprove all human subject research before it is
+initiated in order to comply with ethical principles and federal, state
+and local regulations (e.g., 45 CFR 46.109). Except for research that is
+exempted, all human subject research is subject to continuing oversight
+and review by the IRB at least annually. The IRBs have the authority to
+observe the consent process and the research (45 CFR 46.109(c)). The
+IRBs have the authority to suspend or terminate approval of research
+that is not being conducted in accordance with their requirements or
+that has been associated with unexpected serious harm to subjects. The
+IRBs are responsible for prompt reporting to appropriate officials and
+entities (university, federal or state agencies, regulatory bodies,
+OHRP, sponsor agency, reliant IRB, etc) of any unanticipated problems
+involving risks to subjects or others, of any serious or continuing
+noncompliance with federal regulations or IRB requirements, and of any
+suspension or termination of IRB approval (45 CFR 46.113). Details of
+the procedures for implementing these responsibilities are contained in
+the MSU HRP Manual available from the Office of the Vice President for
+Research and Graduate Studies (OVPRGS) and on the website
+http://www.humanresearch.msu.edu/.
+
+**Organization & Structure of IRBs**
+
+Details of the organization and structure of the MSU IRBs are contained
+in the MSU HRP Manual available from the Office of the Vice President
+for Research and Graduate Studies (OVPRGS) and on the website
+http://www.humanresearch.msu.edu/.
+
+*Administration and Contact Information*
+
+Each of the two MSU IRBs is chaired by an MSU faculty member appointed
+by the Vice President for Research and Graduate Studies. Each IRB has a
+staff administrator who upholds MSU\'s ethical standards and who is
+trained in the regulatory requirements and operations of human subject
+institutional review boards. The MSU IRB office is located in 202 Olds
+Hall and can be reached at (517) 355-2180 or by
+email:[ucrihs@msu.edu](mailto:ucrihs@msu.edu?subject=UCRIHS%20inquiry), [crirb@msu.edu](mailto:crirb@msu.edu?subject=CRIRB%20Inquiry),
+and/or [irbchair@msu.edu](mailto:irbchair@msu.edu?subject=IRBChair%20Inquiry).
+
+*University Committee on Research Involving Human Subjects (UCRIHS)
+Membership*
+
+\"The UCRIHS shall be composed of one representative from each of the
+following colleges: Social Science, Natural Science, Human Ecology,
+Human Medicine, Osteopathic Medicine, Communication Arts and Sciences,
+Education, Agriculture and Natural Resources, Veterinary Medicine, The
+School of Nursing, University College, Engineering, Arts and Letters.
+These college representatives shall be selected by the faculties of the
+respective colleges in accordance with college procedures. Up to five
+additional representatives may be appointed by the Vice President for
+Research and Graduate Studies to represent the Residence Halls Office or
+the Office of the Vice President for Student Affairs and areas of
+expertise not represented by the college selectees. Terms shall be for
+three years and members may serve for more than one term. The chairman
+of the UCRIHS shall be the Vice President for Research and Graduate
+Studies or his/her designee.\"
+
+*Polices and Procedures for Protecting Human Subjects Used in Research,
+approved by Academic Council, January 23, 1979 \[Note: The names and
+organizational structure of the academic colleges and schools have
+changed since 1979.\]*
+
+The UCRIHS membership must also include members as required by federal
+regulations: at least one member whose primary concern is nonscientific,
+at least one member who is not otherwise affiliated with the
+institution, and, if research reviewed regularly includes vulnerable
+subjects, one or more individuals who are knowledgeable about and
+experienced in working with vulnerable categories, e.g., children,
+prisoners, pregnant women, or handicapped or mentally disabled persons.
+45 CFR 46.107 IRB membership
+
+*Community Research Institutional Review Board (CRIRB) Membership*
+
+The CRIRB is composed of a minimum of five members and a maximum of 25
+members having representatives from each of the following: MSU-East
+Lansing, from the community campuses of MSU, IRBs from CRIRB affiliated
+hospitals and institutions, and non-affiliated and non-scientific
+members who may be from participating or centrally located communities.
+Details on CRIRB membership are in the HRP Manual. Like UCRIHS, the
+membership must comply with federal regulations found in 45 CFR 46.107.
+
+CRIRB members and alternates are appointed for two-year terms with no
+limit to the number of two-year terms an individual may serve.
+
+*Relationship and Communication of MSU IRBs*
+
+::: {xmlns=""}
+-   Research Protocols: The MSU IRBs differ in the types of research
+    protocols that come under their jurisdiction. UCRIHS covers all
+    human subject research protocols to which the MSU HRPP applies with
+    the exception of multi-community research. The CRIRB covers these
+    multi-community research protocols.
+-   Organizational Structure: The MSU IRB Chairs directly report to the
+    same individual, the Vice President for Research and Graduate
+    Studies (or his/her designee) as do the chairs or administrators of
+    many related HRPP components, e.g., Conflict Review Committee,
+    Institutional Biological Safety Committee, Chemical Safety
+    Committee, Radiation Safety Committee, Chemical Hygiene Subcommittee
+    and the Office of Regulatory Affairs (ORA). This structure promotes
+    and requires direct communication of the IRB chairs with the
+    Institutional Official and MSU Administration.
+-   Procedures: The MSU HRP Manual details the common procedures for the
+    MSU IRBs. The exceptions to the shared procedures occur only when
+    necessary to accommodate the specific structure or organization of
+    each IRB and are included in the HRP Manual, e.g., meeting dates,
+    protocols coming under their review.
+-   Physical Structure: Proximity of location promotes communication
+    between the MSU IRBs and MSU administration. The offices of the IRB
+    Chairs, administrators, support staff and files and the ORA staff
+    are located in the same or adjacent offices in 201, 202, 204 and 205
+    Olds Hall. ORA staff include the Senior Assistant Vice President for
+    Regulatory Affairs, the Educational Program Coordinator, the
+    Director of Regulatory Affairs Operations (RAO), and additional
+    support staff.
+:::
+
+*Relationship and Communication with External IRBs and Institutions*
+
+MSU IRBs enter into formal written agreements with other institutions in
+two ways: becoming the IRB of record for an external institution, or
+having a formal reliance agreement with an external IRB. In neither
+instance does the MSU IRB rely on an external IRB or institution for
+approval of human subject research conducted by MSU employees or
+students.
+
+When the MSU IRB is the IRB of record for an external institution the
+MSU IRB assumes the review responsibilities for research protocols
+submitted to it by members of that institution. In these cases the
+external institution must formally register this arrangement with the
+federal Office for Human Research Protection (OHRP). The MSU IRB
+communication (e.g., approval letters, continuing review actions, etc)
+is directed to the researchers submitting protocols for review.
+Additional communications with the external institution are listed in
+the formal written agreement. An example of this type of relationship
+applies to Blue Cross Blue Shield of Michigan which lists UCRIHS
+(Michigan Ste U IRB \#1) as their IRB of record on their FWA \#00007636.
+
+\"The IRB will follow written procedures for reporting its findings and
+actions to appropriate officials at BCBSM. Relevant minutes of IRB
+meetings will be made available to BCBSM upon request. BCBSM remains
+responsible for ensuring compliance with the IRB\'s determinations and
+with the terms of any OHRP-approved Assurance.\" IRB Authorization
+Agreement
+
+When the MSU IRB enters into a formal reliance agreement with an
+external institution the agreement is effective when that institution
+obtains their Federal Wide Assurance with OHRP. The MSU IRB
+communication (e.g., approval letters, continuing review actions, etc)
+is directed to the researchers submitting protocols for review. In
+addition, MSU IRB administrators communicate with the IRB administrators
+and chairs of the reliance institution informing them of the decisions
+and actions of the MSU IRB relative to research from their
+investigators. Examples of this type of relationship include the
+participating CRIRB members which rely on the MSU IRB \#2 (CRIRB). This
+agreement defines the specific communication between the IRBs:
+
+\"Minutes of CRIRB meetings and individual project documentation shall
+be made available to Institution B. Institution B remains responsible
+for ensuring compliance with the CRIRB\'s determinations and with the
+terms of its OHRP-approved Federal Wide Assurance.\"*IRB Collaborative
+Authorization Agreement with the Michigan State University Community
+Research Institutional Review Board*
+
+*Communication with other MSU HRPP Components*
+
+::: {xmlns=""}
+-   Conflict Review Committee: The Chair of the IRB communicates with
+    the Chair of the CRC for advice, consultation and notification of
+    IRB determinations of conflict of interest that affect the rights
+    and welfare of participants. These may include but are not limited
+    to instances of conflict of interest of IRB members, IRB
+    consultants, investigators, students, sponsors or administrators.
+    The CRC is responsible for developing and enforcing a management
+    plan and informing the IRB of their decisions. The IRB has the
+    authority to approve the research, to require modifications that
+    incorporate the CRC management plan and/or additional IRB determined
+    modifications, or to not approve the research. The CRC may not
+    approve the research if it has not been approved by the IRB.
+-   University Intellectual Integrity Officer (UIIO): Any case of
+    research misconduct or serious or continuing noncompliance with
+    government regulations pertaining to research and/or university
+    policy can be reported to the MSU University Intellectual Integrity
+    Officer (UIIO) as an allegation of misconduct. These allegations can
+    be presented to the UIIO by the chair of the IRB, any member of the
+    IRB, IRB staff, human subject of the research, or any other
+    individual.
+-   Office of Radiation, Chemical and Biological Safety (ORCBS):
+    Acquisition, use and disposal of some research substances may
+    require oversight by ORCBS. The administrative head of ORCBS is the
+    Senior Assistant Vice President for Regulatory Affairs who also has
+    a direct reporting line to the Institutional Official for MSU\'s
+    HRPP. The Chair of the Chemical Safety Committee reports directly to
+    the Senior Assistant Vice President for Regulatory Affairs.
+    Communications occur regularly among these administrators as part of
+    their reporting structure.
+:::
+
+**Jurisdiction of the IRB**
+
+The MSU IRB is responsible for review of all human subject research
+activities to which this HRPP applies (see section on Applicability).
+The definitions of \"human subject\" and \"research\" required by
+regulation are included in MSU\'s HRPP. MSU\'s HRPP, however, also
+applies to activities that may be more broadly defined by the MSU
+academic community as \"research.\" These broader definitions are
+critical to protecting the human subjects with whom MSU investigators
+interact or about whom MSU investigators obtain private information.
+When there is a question about whether an activity constitutes human
+subject research subject to IRB review, MSU requires that \"a qualified
+person or persons other than the investigator or research team\" verify
+that the activity qualifies for exemption from IRB review. Terms of the
+Federal Wide Assurance for Institutions Within the United States,
+section 4.a.2. Details of the procedure are found in the MSU HRP Manual.
+
+*Regulatory Definitions*
+
+Human Subject:\
+A \"human subject means a living individual about whom an investigator
+(whether professional or student) conducting research obtains (1) data
+through intervention or interaction with the individual, or (2)
+identifiable private information.\" 45 CFR 46.102(f).
+
+A human subject for purposes of FDA-related research also \"means an
+individual who is or becomes a participant in research, either as a
+recipient of the test article or as a control. A subject may be either a
+healthy human (individual) or a patient\". 21 CFR 50.3(g) and 21 CFR
+56.102(e).
+
+Research:\
+\"Research means a systematic investigation, including research
+development, testing and evaluation, designed to develop or contribute
+to generalizable knowledge. Activities which meet this definition
+constitute research for purposes of this policy, whether or not they are
+conducted or supported under a program which is considered research for
+other purposes. For example, some demonstration and service programs may
+include research activities.\" 45 CFR 46.102(d)
+
+Research also includes clinical investigation which is defined as \"any
+experiment that involves a test article and one or more human subjects
+and that either is subject to requirements for prior submission to the
+Food and Drug Administration . . . or is not subject to requirements for
+prior submission to the Food and Drug Administration . . . but the
+results of which are intended to be submitted later to, or held for
+inspection by, the Food and Drug Administration as part of an
+application for a research or marketing permit. 21 CFR 50.3(c) and 21
+CFR 56.102(c)
+
+\"The terms research, clinical research, clinical study, study, and
+clinical investigation are deemed to be synonymous for purposes of this
+part.\" 21 CFR 56.102(c)
+
+\[Note: These are definitions from the regulations. In academic settings
+these definitions are understood to be broader, e.g., behavioral studies
+and quality of care studies in a clinical setting may be understood as a
+clinical investigation by the investigators.\]
+
+**Education**
+
+The HRPP provides for education on ethical principles, regulations and
+policies regarding human subject research for IRB members, IRB staff,
+investigators and their key personnel and appropriate administrators.
+The VPRGS provides resources for these activities as appropriate. All
+IRB members, staff, investigators and administrators have the
+responsibility to uphold the ethical standards upon which the MSU HRPP
+is based. The Graduate School also provides educational resources on the
+ethical and responsible conduct of research to graduate students.
+
+IRB members and staff are instructed on an ongoing basis through a
+variety of means including but not limited to updates at regular
+meetings (IRB or staff), subscription to IRB publications, bi-annual IRB
+workshops and orientation (personal and tutorial).
+
+Investigators and their research staff are required to complete an
+online tutorial on ethical principles, regulations and university policy
+on human subject research. Completion of the online tutorial is required
+for responsible investigators to submit human research applications to
+IRB \#1. This requirement is scheduled for implementation for IRB \#2 in
+the near future. Investigators are required to have their research staff
+complete the online tutorial.
+
+Ongoing education for researchers is available through a variety of
+means including but not limited to \"Crosstalk\" meetings with the IRB
+chair and staff, an email \"newsletter\" from the IRB Chair to
+investigators, special workshops (e.g., audio-seminars on HIPAA issues),
+website postings, and formal seminars (RCR seminar series, individual
+course seminars). The Graduate School provides ongoing education through
+their publication, the Research Integrity Newsletter.
+
+Education on human subject research is made available to participants
+via a participant\'s
+webpage:<http://www.humanresearch.msu.edu/participants.html>.
+
+**Evaluation of HRPP**
+
+Evaluation of the MSU HRPP is the shared responsibility of the Vice
+President for Research and Graduate Studies (VPRGS), the IRB Chairs,
+investigators and their administrators, sponsors and participants. This
+shared responsibility is implemented by several mechanisms to acquire
+and evaluate information regarding the human research protection
+program. The evaluation plan includes formal and informal elements.
+
+*Informal Evaluation Elements*
+
+Input is encouraged by wide publication of contact information asking
+for calls to answer questions.
+
+IRB Office - The MSU IRB staff has a telephone number, fax number,
+address and email address that is included on consent documents, IRB
+applications, the human research website, etc. Consent documents also
+include contact information for the IRB Chair. Concerns and suggestions
+are welcomed and are discussed with the IRB Chair.
+
+Office of Regulatory Affairs (ORA) - The contact information for ORA is
+available on the MSU Research website of the VPRGS. Concerns and
+suggestions are welcomed and are discussed with the IRB chair, the
+Senior Assistant Vice President for Regulatory Affairs and/or the VPRGS,
+and the Educational Program Coordinator, as appropriate.
+
+Concerns and suggestions received during the presentation of seminars
+and other educational events are welcomed and are discussed with the IRB
+chair, the Senior Assistant Vice President for Regulatory Affairs and/or
+the VPRGS, and the Educational Program Coordinator, as appropriate.
+
+*Formal Evaluation Elements*
+
+::: {xmlns=""}
+-   Audit of IRB protocols: ORA and/or the IRB staff conduct audits of
+    IRB protocols in conjunction with IRB members and/or the IRB chair.
+    Results of the audits are shared with the IRB members, the Senior
+    Assistant Vice President for Regulatory Affairs and/or VPRGS as
+    appropriate. Audits are conducted at least quarterly.\
+    Evaluations of education events: Formal evaluation forms are used
+    for workshops and request input on the specific event as well as
+    suggestions for other events and/or concerns.
+-   Annual Report: The IRB Chair is requested to provide information on
+    an annual basis to the Director of Regulatory Affairs Operations in
+    order to develop plans for the coming fiscal year. This report can
+    include an assessment and evaluation of physical space, staff
+    resources and funding. The report is shared with the Assistant VPRGS
+    and/or the VPRGS as appropriate.
+-   Human Research Protection Program (HRPP) Advisory Committee: The
+    VPRGS has constituted an HRPP Advisory Committee to provide advice
+    and consultation regarding the evaluation of MSU\'s HRPP. The
+    committee consists of representative investigators, human subject
+    participant groups, IRB members, sponsors and administrators. The
+    committee includes individuals who are not affiliated with MSU. The
+    Senior Assistant Vice President for Regulatory Affairs and Director
+    of Regulatory Affairs Operations are ex-officio members.
+-   Staff Evaluations: IRB staff are evaluated on an annual basis
+    following MSU Human Resource guidelines.
+-   IRB Member Evaluations: The IRB Chair provides input to the VPRGS or
+    his/her designee on the participation of IRB members. This input
+    includes but is not limited to an accounting of their attendance at
+    scheduled meetings, the number and types of reviews conducted, the
+    timeliness of reviews, participation in workshops, etc. This
+    evaluation is done annually and input provided to appropriate
+    administrators for MSU faculty who are IRB members.
+
+\
+[Back to Faculty
+Handbook](https://hr.msu.edu/policies-procedures/faculty-academic-staff/faculty-handbook/6Section-Research.html)
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/faculty-handbook/human_research_protection.pcf)

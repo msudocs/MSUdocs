@@ -1,0 +1,93 @@
+---
+title: 'Use of Radiation, Chemical, and Biological Hazards'
+---
+
+::: {#body}
+Faculty Handbook
+
+**Use of Radiation, Chemical, and Biological Hazards**
+
+::: {xmlns=""}
+**VI. RESEARCH AND CREATIVE ENDEAVOR (*Cont.*)\
+\
+**The use of hazardous materials in research, teaching, and outreach
+activities is subject to state and federal laws and guidelines.  The
+Vice President for Research and Graduate Studies has been assigned
+responsibility to see that appropriate practices are followed where
+hazardous materials are involved, to maintain a safe environment for
+campus personnel, to protect the surrounding community, and to assure
+that MSU meets its obligations under the law.
+:::
+
+Oversight of activities involving hazardous substances is provided by
+the [Office of Radiation, Chemical, and Biological Safety
+(ORCBS)](http://www.orcbs.msu.edu/ "ORCBS info"), which reports to the
+Vice President for Research and Graduate Studies.  ORCBS is assisted by
+faculty committees in the areas of radiation safety, chemical safety,
+and biological safety.  The Radiation Safety Committee has
+responsibility and authority under federal law for specific actions.
+
+It is University policy that faculty members and principal investigators
+(PIs) are responsible for the day-to-day safety and well-being of all
+personnel engaged in activities under their aegis.  Administrative
+officers, and ORCBS, are responsible for making available to faculty
+information needed to maintain a safe working environment, for providing
+safety training, for keeping project directors informed about changes in
+regulations, and for assaying laboratories and work areas for radiation,
+chemical, or biological hazards.
+
+All individuals who work with hazardous substances must accept shared
+responsibility for operating in a safe manner once they have been
+informed (a) about the extent of risk and (b) about safe procedures that
+should be followed.
+
+To support these University policies, a number of responsibilities are
+assigned to the project director.  The following list of project
+director responsibilities is not necessarily inclusive.  Up-to-date
+information is available from the Office of Radiation, Chemical and
+Biological Safety.
+
+In general, the project director **must**:
+
+1.  Be aware of appropriate safety policies, procedures, and guidelines
+    that apply to the project; if in doubt about any aspect of project
+    safety, contact ORCBS to obtain relevant information.
+2.  Insure that all personnel under his or her supervision have been
+    instructed with regard to the general safety requirements of
+    laboratory or work area operations, such as those generally
+    associated with Right-to-Know requirements; post warnings and
+    restrict entry to work areas containing potentially hazardous
+    materials; properly label and store containers of hazardous
+    materials; maintain appropriate safety training records (also called
+    informed employee consent statements).
+3.  Be aware of special hazards that may be inherent in a specific
+    activity, and which may not be covered by the general program of
+    laboratory safety, inform all personnel under her or his supervision
+    of those unique hazards, and provide opportunities for appropriate
+    special training.
+4.  Understand the risks and regulations associated with receipt and
+    subsequent distribution of all hazardous materials.  Federal and
+    state regulations control and regulate the use, storage, transport,
+    and disposal of certain chemicals, venomous animals, infectious
+    agents, pharmaceuticals, recombinant DNA, genetically engineered
+    organisms, and radioactive materials. PIs must be aware of the known
+    dangers in working with particularly hazardous materials, and must
+    take the necessary protective and containment measures, must
+    minimize worker exposures to potentially hazardous materials, and
+    must follow applicable waste disposal regulations.
+5.  **Request and acquire approval from relevant University committees
+    or Offices before initiating teaching, research, or service
+    activities that involve regulated radioactive, chemical, or
+    biological materials.**
+6.  Be informed as to whether a spill or release of a regulated or
+    controlled material is of a magnitude that ORCBS should be notified,
+    and to notify ORCBS immediately when so required; notify ORCBS prior
+    to  vacating or closing out a laboratory or other work area
+    containing hazardous radioactive, chemical, or biological materials.
+
+\
+[Back to Faculty
+Handbook](https://hr.msu.edu/policies-procedures/faculty-academic-staff/faculty-handbook/6Section-Research.html)
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/faculty-academic-staff/faculty-handbook/hazards_use.pcf)
