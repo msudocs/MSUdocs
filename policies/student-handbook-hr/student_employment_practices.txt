@@ -1,0 +1,93 @@
+---
+title: Student Employment Practices
+---
+
+::: {#body}
+Student Handbook
+
+**Student Employment Practices**
+
+::: {xmlns="" style="text-align: left;"}
+Michigan State University is an affirmative action/equal opportunity
+employer. The following practices for employing students should be
+reviewed by departments and appropriate action taken.
+:::
+
+::: {xmlns="" style="text-align: left;"}
+ 
+:::
+
+Interviewing {#interviewing xmlns="" style="text-align: left;"}
+------------
+
+::: {xmlns="" style="text-align: left;"}
+Interviews should be non-discriminatory and are for the purpose of
+allowing the job applicants to learn about the position and the work
+setting, and for the interviewer to find the best fit for the position.
+:::
+
+-   Remain within legal guidelines. Under the [Americans with
+    Disabilities
+    Act](/policies-procedures/student-handbook/Section-Laws-Regulations.html "Americans with Disabilities Act"),
+    employers are prohibited from discriminating against an individual
+    based on disability status in employment practices such as hiring,
+    wages and termination. Also, Michigan State University\'s
+    [Anti-Discrimination
+    Policy](/policies-procedures/university-wide/index.html "Anti-Discrimination Policy")
+    prohibits discrimination on the basis of age, color, gender,
+    handicap, height, marital status, national origin, political
+    persuasion, race, religion, sexual orientation, Vietnam-era veteran
+    status, or weight. You can find a reproduction of the
+    [Pre-Employment Inquiry
+    Guide](/policies-procedures/student-handbook/index.html "Pre-Employment Guide from Michigan Department of Civil Rights"),
+    published by the Michigan Department of Civil Rights provides
+    information on what questions may and may not legally be asked of an
+    applicant.
+-   During the interview, both parties should come to an an
+    understanding of expectations.
+-   Departments must inform all applicants of the essential functions of
+    the position including. You can refer to the list of [student
+    employee
+    positions](/ua/hiring/documents/StudentJobDescriptions.pdf "student employee positons PDF").
+-   A structured interview insures that all candidates for the position
+    are asked the same questions in the same way. Pre-employment testing
+    is not permitted. It is best to have a list of questions to ask all
+    candidates. Questions can be open-ended (\"Can you give me an
+    example of \... ? \"), or \"yes\" or \"no\" answers (\"Can you
+    operate a \... ?\"). You need to be specific on necessary
+    information concerning driving a car or other skills essential to
+    the position. It is risky to assume anything. Some sample questions
+    might be:
+    -   We need the student employee to be available for 12 hours a
+        week. Are you able to be here 12 hours a week, including final
+        exam week?
+    -   What computer software programs are you proficient in?
+    -   Do you have a valid vehicle operator\'s license?
+    -   Do you enjoy meeting and greeting people?
+    -   Tell me/us what you enjoyed most about your last job. Why?
+-   Pre-Employment testing is not permitted
+
+Hiring {#hiring xmlns="" style="text-align: left;"}
+------
+
+::: {xmlns="" style="text-align: left;"}
+-   Hiring Students: All MSU departments must use the Enterprise
+    Business System (EBS) Portal to process new hires.
+-   Medical Exams: Some positions may require medical/physical
+    examinations for employment. Medical exams may not be performed
+    until after a job offer has been made and accepted. All information
+    resulting from such an exam is confidential and should be maintained
+    outside of the student\'s employment file. Any medical information
+    currently in a student\'s employment file should be removed. An
+    employee\'s written request for accommodation and documentation
+    related to the accommodation (other than medical records) may be
+    kept in the student\'s medical file.
+-   Exposure to Health Risks: [See Exposure to Health Risks
+    Form](/ua/hiring/documents/HealthRiskPhysDemands.pdf "Health Risks/Physical Demands form")                     
+:::
+
+[Go Back to the Student Employment Manual
+Index](/policies-procedures/student-handbook/index.html "Student Employment Manual")
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/student-handbook/student_employment_practices.pcf)

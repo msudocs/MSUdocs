@@ -1,0 +1,255 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: 'Employment Laws & Guidelines'
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+::: {.main}
+::: {.page-content}
+::: {.container}
+::: {#crumbs}
+[MSU Human Resources](/) \>\> [
+[Policies-procedures](/policies-procedures) \>\> ]{.crumb xmlns=""}
+[Employment Laws & Guidelines]{.lastitem xmlns=""}
+:::
+
+\
+\
+
+Employment laws & guidelines {#employment-laws-guidelines .page-title xmlns=""}
+============================
+
+-   [[This Employer Participates in E-Verify
+    (English)]{color="#0066cc"}](https://e-verify.uscis.gov/web/media/resourcesContents/E-Verify_Participation_Poster.pdf "This Employer Participates in E-Verify (English)")\
+    []{color="#0066cc"}
+-   [[This Employer Participates in E-Verify
+    (Spanish)]{color="#0066cc"}](https://e-verify.uscis.gov/web/media/resourcesContents/E-Verify_Participation_Poster_ES.pdf "This Employer Participates in E-Verify (Spanish)")\
+    []{color="#0066cc"}
+-   [[Right to Work
+    (English)]{color="#0066cc"}](https://www.uscis.gov/sites/default/files/USCIS/Verification/E-Verify/E-Verify_Native_Documents/OSC_Right_to_Work_Poster.pdf "Right to Work (English)")\
+    []{color="#0066cc"}
+-   [[Right to Work
+    (Spanish)]{color="#0066cc"}](https://www.uscis.gov/sites/default/files/USCIS/Verification/E-Verify/E-Verify_Native_Documents/OSC_Right_to_Work_Poster_ES.pdf "Right to Work (Spanish)")\
+    []{color="#0066cc"}
+-   [[Discrimination Prohibited Poster
+    (State)]{color="#0066cc"}](http://michigan.gov/documents/mdcr/discrimposter_391324_7.pdf "Discrimination Prohibited")\
+    []{color="#0066cc"}
+-   [[Employee Polygraph Protection Notice
+    (Federal)]{color="#0066cc"}](http://www.dol.gov/compliance/laws/comp-eppa.htm "Employee Polygraph Protection Act")\
+    []{color="#0066cc"}
+-   [[Employee Rights Under the Family and Medical Leave
+    Act]{color="#0066cc"}](http://www.dol.gov/whd/regs/compliance/posters/fmlaen.pdf "Your Rights Under the Family Medical Leave Act of 1993")
+    (Federal)\
+    []{color="#0066cc"}
+-   [[Equal Employment
+    Opportunity]{color="#0066cc"}](http://www1.eeoc.gov/employers/poster.cfm "Equal Employment Opportunity")
+    (Federal)\
+    []{color="#0066cc"}
+    -   [[EEO is the Law Poster
+        supplement]{color="#0066cc"}](http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm "EEO is the Law Poster resources")\
+        []{color="#0066cc"}
+-   [[Federal Minimum Wage
+    Poster]{color="#0066cc"}](http://www.dol.gov/whd/regs/compliance/posters/minwage.pdf "Federal Minimum Wage Poster")
+    (FLSA)\
+    []{color="#0066cc"}
+-   [[Federal Whistleblowers\' Protection
+    Act]{color="#0066cc"}](http://www.gpo.gov/oig/whistleblower.htm "Federal Whistleblower’s Protection Act")
+    (Federal)\
+    []{color="#0066cc"}
+-   [[Michigan Minimum Wage
+    Poster]{color="#0066cc"}](http://www.michigan.gov/documents/cis/MWPosting.Optional_9_25_06_single_page_173925_7.pdf "Michigan Minimum Wage Poster")
+    (State)\
+    []{color="#0066cc"}
+-   [[Michigan Youth Employment
+    Standards]{color="#0066cc"}](http://www.michigan.gov/mde/0,4615,7-140-6530_2629_59590---,00.html "Michigan Youth Employment Standards")
+    (State)\
+    []{color="#0066cc"}
+-   [[Michigan Whistleblowers\' Protection Act
+    ]{color="#0066cc"}](http://www.michigan.gov/documents/cis/wsh_whistleblowers_203828_7.pdf "Whistleblowers Protection Act")(State)\
+    []{color="#0066cc"}
+-   [[MIOSHA
+    Poster]{color="#0066cc"}](http://www.michigan.gov/documents/dleg/wsh_cet2010_full_299455_7.pdf "MIOSHA Posters")
+    (State)\
+    []{color="#0066cc"}
+-   [[Occupational Safety and Health
+    Posters]{color="#0066cc"}](http://www.osha.gov/Publications/osha3165.pdf "OSHA Posters")
+    (Federal)\
+    []{color="#0066cc"}
+-   [[UIA Unemployment Comp
+    Poster]{color="#0066cc"}](http://www.michigan.gov/documents/uia_UC1710_76109_7.pdf "Unemployment Compensation poster")
+    (State)\
+    []{color="#0066cc"}
+-   [[Your Rights Under
+    USERRA]{color="#0066cc"}](http://www.dol.gov/vets/programs/userra/USERRA_Private.pdf "USERRA Poster")
+    (Federal)
+
+Pay Transparency Policy Statement {#pay-transparency-policy-statement xmlns="" style="text-align: left;"}
+---------------------------------
+
+The employer will not discharge or in any other manner discriminate
+against employees or applicants because they have inquired about,
+discussed, or disclosed their own pay or the pay of another employee or
+applicant.  However, employees who have access to the compensation
+information of other employees or applicants as a part of their
+essential job functions cannot disclose the pay of other employees or
+applicants to individuals who do not otherwise have access to
+compensation information, unless the disclosure is (a) in response to a
+formal complaint or charge, (b) in furtherance of an investigation,
+proceeding, hearing, or action, including an investigation conducted by
+the employer, or (c) consistent with the employer's legal duty to
+furnish information.
+:::
+:::
+:::
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/employment_laws_guidelines.pcf)

@@ -1,0 +1,124 @@
+---
+title: Placing a Student on Payroll
+---
+
+::: {#body}
+Student Handbook
+
+**Placing a Student on Payroll**
+
+::: {xmlns=""}
+**Hiring Process** \
+All students MUST be processed through the EBS Portal prior to starting
+work. This procedure ensures that departments hire students who are
+eligible to work on campus and/or provides employers with information
+concerning Work-Study.
+:::
+
+::: {xmlns=""}
+-   The employing department must submit student hiring forms using
+    the Enterprise Business System (EBS) Portal. 
+-   Departments should refer to the [Job Description
+    Document](/ua/hiring/documents/StudentJobDescriptions.pdf "Job Description Document PDF") to
+    determine the correct grade level and job classification. Pay rates
+    are reviewed and approved annually by the MSU Board of Trustees in
+    mid-July.
+-   An Employment Eligibility Verification (I-9) Form must be completed
+    and on file via the electronic I-9 system.
+-   Upon approval of the hiring information in the EBS Portal, the
+    student should complete a Federal (W4) Withholding Allowance
+    Certificate and a Michigan (MI-W4) Withholding Allowance
+    Certificate. The forms for U.S. citizens and permanent residents
+    must be completed by using the EBS Portal. International students
+    should go directly to the [Payroll
+    Office](http://ctlr.msu.edu/Download.aspx "Payroll"), 350
+    Administration Building, to fill out their forms.
+-   Forms to authorize direct deposit of student payroll checks should
+    also be completed in the EBS Portal. 
+:::
+
+**Employment Eligibility Verification (Form I-9) Processing**
+
+::: {xmlns=""}
+-   Federal regulations require that an [Employment Eligibility
+    Verification (I-9) ](/ua/i9/index.html "I9 Information")form be
+    completed within three days of the start of work.  If the student
+    has previously been on MSU payroll, a new I-9 form will not be
+    required as long as there has not been more than a year of break in
+    service. 
+:::
+
+**Other Forms**
+
+::: {xmlns=""}
+-   Exposure to Health Risks: If there is exposure to health risks on
+    the job, as identified by the employing department, the employing
+    department must attach a copy of the [Exposure to Health Risks
+    Form](https://www.hr.msu.edu/ua/hiring/documents/HealthRiskPhysDemands.pdf "Health Risks/Physical Demands Form") to
+    the EBS Portal hiring form, and a Health Assessment of the student
+    employee must be done at [MSU Occupational
+    Health](http://occhealth.msu.edu/contact "Occupational Health").\
+    \
+    Questions about job exposure risks should be directed to
+    the [Environmental Health &
+    Safety](http://www.orcbs.msu.edu/ "Environmental Health & Safety").
+
+<!-- -->
+
+-   [Michigan Right-to-Know
+    Law](/policies-procedures/university-wide/index.html "Michigan Right to Know Act"):
+    The Michigan Right-to-Know Law requires that all employees who may
+    be exposed to hazardous chemicals receive chemical safety awareness
+    training. \
+    -   Student employees who are known to be or who could potentially
+        be exposed to hazardous chemicals must be informed of their
+        rights under the law and specific safety procedures necessary to
+        work with these materials.
+    -   Student employees who are not working with hazardous chemicals
+        or who have a low probability of exposure must also be informed
+        that they may request the same training concerning their rights
+        under the law.
+    -   Training may be accomplished in the same manner used for other
+        employees: written communications, video presentations, and
+        in-house training.
+    -   Contact the [Environmental Health &
+        Safety](http://www.orcbs.msu.edu/ "Environmental Health & Safety") for
+        additional information and assistance regarding video
+        presentations and training.
+-   [MSU Drug-Free Workplace
+    Policy](/policies-procedures/student-handbook/index.html "MSU Drug-Free Workplace Policy"):
+    The employing department should inform student employees of the MSU
+    Drug-Free workplace policy.
+-   Additional Requirements: The employing department should inform
+    student employees of departmental and Student Employment policies
+    and procedures, and the need to notify the employer of accommodation
+    needs if the student wishes to declare a disability.
+:::
+
+**[]{#Controls}Department Controls**
+
+::: {xmlns=""}
+-   In order to ensure adequate internal control, departments employing
+    students should have at least two separate individuals involved in
+    the process. One person should process hiring and enter time in
+    CATS. A second person should approve their time in CATS. 
+-   Original student time records are to be signed by the student and
+    the appropriate supervisor attesting to the number of hours worked.
+    The student\'s signature is not required for departments that
+    maintain time worked records via a time clock system.
+-   In the event that a time record is used in an electronic manner, the
+    use of the msu.edu email address will be required as the signature
+    authority for the transaction.
+-   The records are to be maintained at least three years at the
+    departmental level.
+-   Student time sheets are due on a bi-weekly basis and must be turned
+    in EVERY pay period. Students must be paid for ALL hours worked
+    and time cannot be \"banked\" or \"saved\" to be paid out at a later
+    date.
+
+[Go Back to the Student Employment Manual
+Index](/policies-procedures/student-handbook/index.html "Student Employment Manual")
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/student-handbook/student_on_payroll.pcf)

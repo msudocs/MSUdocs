@@ -1,0 +1,227 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: 'Student Employment Manual - Laws and Regulations'
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Student Employment Section - Hiring & Pay {#student-employment-section---hiring-pay xmlns=""}
+
+-   [Hiring International
+    Students](/policies-procedures/student-handbook/hiring_international_students.html "Hiring International Students")
+-   [Verifying SSN for Student
+    Employees](/policies-procedures/student-handbook/verifying_ssn%20.html "Verifying SSN for Student Employees")
+-   [Americans with Disabilities
+    Act](/policies-procedures/student-handbook/Americans_DisabilitiesAct.html "Americans with Disabilities Act (ADA and Michigan Persons with Disabilities Civil Rights Act")
+-   [Placing a Student on
+    Payroll](/policies-procedures/student-handbook/student_on_payroll.html "Placing a Student on Payroll")
+-   [Hiring a
+    Relative](/policies-procedures/student-handbook/hiring_relatives%20.html "Hiring a Relative")
+-   [Workstudy/Community Service
+    Workstudy](/policies-procedures/student-handbook/work_study.html "Workstudy")
+-   [Summer
+    Hiring](/policies-procedures/student-handbook/laws_and_regulations.html "Summer Hiring")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Student Employment
+    Manual](/policies-procedures/student-handbook/1.html "Go2Gateway home page")
+-   [Career
+    Services](http://careernetwork.msu.edu/index.html "Career Services ")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies")
+-   [Employment Laws &
+    Guidelines](/policies-procedures/employment_laws_guidelines.html "Employment Laws & Guidelines")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+The pages listed below apply to all student employees but are housed
+outside the Human Resources website or as separate documents.
+
+-   [Career Services
+    Network](http://careernetwork.msu.edu/index.html "Career Services Network")
+-   [Job Titles/Pay Rates
+    (PDF)](https://www.hr.msu.edu/hiring/studentemployment/StudentJobDescriptions.pdf "job titles and pay rates")
+-   [Internships at
+    State](http://careernetwork.msu.edu/resources-tools/faculty-staff/internships-at-state/index.html "Internships@State")
+-   [Pay
+    Dates](http://www.ctlr.msu.edu/COPayroll/payrollSchedules.aspx "Pay Dates - Controller's Office")
+-   [Payroll
+    Office](http://www.ctlr.msu.edu/COPayroll/payrollSchedules.aspx "Payroll website")
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/student-handbook/Section-Hiring-Pay.pcf)

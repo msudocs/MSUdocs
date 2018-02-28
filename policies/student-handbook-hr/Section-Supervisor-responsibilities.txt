@@ -1,0 +1,452 @@
+---
+lang: en
+msapplication-TileColor: '\#92d4d4'
+msapplication-TileImage: '/\_resources/hr\_assets\_rd/images/favicons/mstile-144x144.png'
+msapplication-square150x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-150x150.png'
+msapplication-square310x310logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x310.png'
+msapplication-square70x70logo: '/\_resources/hr\_assets\_rd/images/favicons//favicons/mstile-70x70.png'
+msapplication-wide310x150logo: '/\_resources/hr\_assets\_rd/images/favicons/mstile-310x150.png'
+robots: 'index, follow'
+title: 'Student Employment Manual - Laws and Regulations'
+twitter:card: summary
+twitter:title: '\[page title - Aerostat2016\]'
+viewport: 'width=device-width, initial-scale=1'
+---
+
+::: {.msu-masthead}
+::: {.container}
+::: {.row}
+::: {.msu-logo .col-xs-12 .col-sm-6}
+[![Michigan State University
+Logo](/_resources/hr_assets_rd/images/masthead-helmet-green.png)](https://msu.edu)
+:::
+
+::: {#search-wrapper .msu-search-bar .hidden-xs .col-sm-6 role="navigation"}
+::: {.form-group}
+Search Tool
+:::
+
+[Submit]{.hide}
+:::
+:::
+:::
+:::
+
+::: {.dept-masthead}
+::: {.container}
+::: {.row}
+[](/){.dept-logo}
+
+Human Resources
+===============
+
+Spartans @ Work
+---------------
+:::
+:::
+:::
+
+::: {.container}
+::: {.navbar-header}
+[Toggle navigation]{.sr-only} []{.icon-bar} []{.icon-bar} []{.icon-bar}
+
+[Main Menu](#){.navbar-brand .visible-xs}
+:::
+
+::: {#primary-nav .collapse .navbar-collapse}
+-   [Home](/index.asp "Home")
+-   [Faculty and Academic
+    Staff](/faculty-academic-staff.html "Faculty and Academic Staff")
+-   [Current Employees](/current-employees.html "Current Employees")
+-   [Benefits](/benefits/index.html "Benefits")
+-   [Administrators &
+    Supervisors](/ua/index.asp "Administrators and Supervisors")
+
+<!-- -->
+
+-   [Careers](http://careers.msu.edu "careers")
+:::
+:::
+
+\
+\
+\
+\
+
+::: {.navbar-fixed}
+:::
+
+::: {.row-offcanvas .row-offcanvas-left}
+::: {#sidebar .sidebar-offcanvas}
+::: {.col-md-12 .col-sm-12}
+### Student Employment Section - Supervisor Responsibilities {#student-employment-section---supervisor-responsibilities xmlns=""}
+
+-   [General Conditions of
+    Employment](https://www.hr.msu.edu/documents/studenthandbooks/genconditions.htm "General Conditions of Employment for Students")
+    [(Students) ](/policies-procedures/student-handbook/hiring_international_students.html "Hiring International Students")
+-   [Drug and Alcohol
+    Policy](https://www.hr.msu.edu/documents/studenthandbooks/drugpolicy.htm "Drug & Alcohol Policy")
+-   [Relationship Violence and Sexual
+    Misconduct](https://www.hr.msu.edu/documents/studenthandbooks/sexharassment.htm "Relationship Violence and Sexual Misconduct")
+-   [Rules Governing Personal Conduct of
+    Employees](https://www.hr.msu.edu/documents/studenthandbooks/personalconduct.htm "Rules Governing Personal Conduct of Employees")
+-   [Student Employee
+    Responsibilities](https://www.hr.msu.edu/documents/studenthandbooks/responsibilities.htm "Student Employee Responsibilities")
+:::
+:::
+
+::: {#main}
+::: {.col-md-12 .col-sm-12}
+::: {.container}
+::: {.col-md-12 .col-sm-12}
+-   [Student Employment
+    Manual](/policies-procedures/student-handbook/1.html "Go2Gateway home page")
+-   [Career
+    Services](http://careernetwork.msu.edu/index.html "Career Services ")
+-   [University Wide
+    Policies](/policies-procedures/university-wide/index.html "University Wide Policies")
+-   [Employment Laws &
+    Guidelines](/policies-procedures/employment_laws_guidelines.html "Employment Laws & Guidelines")
+:::
+:::
+
+::: {.row}
+::: {#rowCont}
+\
+
+**Student Employee Supervisor Responsibilities** {#student-employee-supervisor-responsibilities .page-title xmlns=""}
+------------------------------------------------
+
+General Conditions of Employment for Students {#general-conditions-of-employment-for-students xmlns=""}
+---------------------------------------------
+
+::: {xmlns=""}
+All student employees at Michigan State University are subject to the
+rules governing personal conduct of employees. These conditions apply to
+each student employee regardless of the department in which the student
+is employed.
+:::
+
+::: {xmlns=""}
+ 
+:::
+
+::: {xmlns=""}
+At the date of hire, it is the responsibility of the hiring department
+to insure that the student understands all of the conditions of
+employment. These conditions should include the duties of the student\'s
+job, starting and ending dates of employment (if indicated), starting
+pay rate, rights, responsibilities and any departmental personnel
+policies. It is best if this information is in writing.
+:::
+
+::: {xmlns=""}
+ 
+:::
+
+::: {xmlns=""}
+Basic conditions affecting all student employees at Michigan State
+University are as follows:
+:::
+
+-   Student employees MUST be processed for employment through the EBS
+    Portal prior to starting work.
+-   Satisfactory performance is expected of student workers while
+    employed with the university. If a department feels that a student
+    is not fulfilling the duties of their job as explained at the date
+    of hire, the situation should be discussed the the student as soon
+    as it is recognized to insure that the student fully understands the
+    work responsibilities before any further time lapses.
+-   Campus-wide student employment policies and procedures pertaining to
+    wages, hours worked, hiring procedures and utilization of student
+    labor at Michigan State University will be established by MSU
+    Student Employment.
+-   Student employees cannot work on a volunteer basis at a job for
+    which they are normally paid.
+
+Training Student Employees {#training-student-employees xmlns=""}
+--------------------------
+
+Supervisors train, motivate, communicate, guide and evaluate their
+student employees. You serve as models for the development of good work
+habits such as punctuality, dependability, cooperation, honesty, and
+efficiency. In the academic setting, it is often difficult to provide
+sufficient time or flexibility of schedules to provide an adequate
+period for training student employees. Supervisors must continue to meet
+service and production demands; students quickly become immersed in
+their academic and extracurricular pursuits. Good personnel practices
+require that every new worker be oriented to the hiring unit and trained
+in skills necessary for satisfactory performance.
+
+Orientation {#orientation xmlns=""}
+-----------
+
+Students are more likely to become enthusiastic and take pride in their
+work when they understand the role of their department in the total
+institutional picture. At orientation sessions, the activities of the
+department are explained, students are informed of the \"do\'s\" and
+\"don\'ts\" of the job - if their work involves meeting the public, what
+is the proper attire, what is the proper behavior. This is also an
+opportune time to explain what procedures are to be followed when
+illness or other reasons keep a student away from daily work
+assignments.
+
+Demonstrations of Skills and Procedures {#demonstrations-of-skills-and-procedures xmlns=""}
+---------------------------------------
+
+Most training occurs on-the-job with the supervisor demonstrating and
+describing the correct methods and skills to be utilized. In doing so,
+we should avoid these common training errors:
+
+::: {xmlns=""}
+-   Giving too much information at one time;
+-   Giving instructions too rapidly;
+-   Failure to determine the student\'s level of experience;
+-   Not permitting enough opportunity for questions
+
+There are unique circumstances related to each student\'s job that
+cannot be outlined in a general policy manual. Therefore, it is the
+supervisor\'s role to determine the job duties and responsibilities
+assigned to that job within the definition of the [job
+classification](https://www.hr.msu.edu/hiring/studentemployment/StudentJobDescriptions.pdf "Student Employee Job Classifications PDF").
+:::
+
+Supplemental Material {#supplemental-material xmlns=""}
+---------------------
+
+While some supervisors are excellent articulators, there is often the
+danger of overwhelming the student with more information than the
+student needs or can retain. A department brochure, fact sheet, or
+annual report can be given to the student to read, keep and refer to. In
+addition, handbooks and other volumes which explain skills, procedures
+and processes necessary to the student\'s job performance should be
+available whenever possible.
+
+Student-Supervisor Relationships {#student-supervisor-relationships xmlns=""}
+--------------------------------
+
+The college years are both exciting and trying times for a young person
+attempting many new things. This excitement and the individual concerns
+of students are brought daily into the work situation and form the basis
+of various interpersonal relationships between students and supervisors.
+
+::: {xmlns=""}
+-   Develop rapport
+-   Maintain impartiality
+-   Be a co-learner
+-   Show respect
+-   Be flexible
+:::
+
+Finally, you must always view each student employee as a total person,
+not simply as a worker assigned to a task for several hours daily. It is
+your responsibility to help the student put concerns in proper
+perspective so that they do not overshadow activities in the workplace.
+
+Evaluation {#evaluation xmlns=""}
+----------
+
+Evaluation is an on-going process that occurs almost daily. After the
+student is given initial training, make periodic checks to see that
+performance is meeting the desired expectations.
+
+The long-range goal of student evaluation is not simply to provide a
+system for grading work. It is designed as an instrument to assist in
+the student\'s development and to enlarge the dimensions of the work
+experience.
+
+Each unit should determine the frequency and type of evaluation
+procedure they wish to use. Listed here are general categories that can
+be used to create an evaluation form for your specific unit.
+
+Quality and Quantity of Work {#quality-and-quantity-of-work xmlns=""}
+----------------------------
+
+Criteria for evaluating work product, productivity, and the quality of
+work performed:
+
+::: {xmlns=""}
+-   Is responsive to deadlines and notifies affected parties when
+    meeting deadlines is not possible.
+-   Plans and observes work time responsibly.
+-   Works effectively and efficiently with all co-workers.
+-   Accurate and thorough in all work assignments.
+-   Completes work with little or no supervision.
+-   Completes work following specific instructions, policies and
+    procedures.
+-   Demonstrates high quality standards in all interactions and work
+    assignments.
+-   Exercises good judgment and makes appropriate decisions in
+    performance of duties.
+:::
+
+Work Characteristics and Attributes {#work-characteristics-and-attributes xmlns=""}
+-----------------------------------
+
+::: {xmlns=""}
+-   Presents and promotes a positive image of the institution through
+    business-like conduct, attitude, and appearance.
+-   Customer service-focused, exhibiting helpful, friendly, and
+    courteous service.
+-   Demonstrates punctual, reliable and consistent attendance.
+-   Demonstrates the ability to appreciate and work with a diverse
+    population.
+-   Proactively and willingly acquires new skills, tasks, procedures,
+    and projects.
+-   Self-starter; takes action without being asked.
+-   Willing to accept suggestions and training; takes direction.
+-   Flexible.
+-   Asks questions when needed
+:::
+
+Job Knowledge and Skills {#job-knowledge-and-skills xmlns=""}
+------------------------
+
+::: {xmlns=""}
+-   Respects confidentiality of all student and MSU documents,
+    information, records, etc.
+-   Demonstrates knowledge of the position, department, division, and
+    institution mission and goals.
+-   Ability to accurately follow oral and written instructions,
+    directions, policies and procedures of the department.
+-   Demonstrates the ability to make sound judgments.
+-   Deals with difficult situations effectively.
+-   Demonstrates effective and appropriate written and oral
+    communication skills.
+
+Work Concerns
+-------------
+
+Working with people in any job setting frequently presents certain
+personnel problems. Student workers are often more responsive to
+counseling and they accept work evaluations as they accept academic
+measurement.
+
+Often, the beginnings of student problems go unnoticed until the matter
+becomes large, affecting either production or department morale. Where
+counseling by the supervisor has been tried with poor results, MSU
+Student Employment should be contacted and assistance requested.
+:::
+
+Unsatisfactory Performance {#unsatisfactory-performance xmlns=""}
+--------------------------
+
+::: {xmlns=""}
+Student employees who demonstrate either unsatisfactory work performance
+or unsatisfactory work attendance may be warned and given time to
+correct the problem, or be dismissed.
+:::
+
+These actions should be documented:
+
+::: {xmlns=""}
+-   **Warning:** Upon demonstration of unsatisfactory performance or
+    attendance, the student should be told in private explicitly how job
+    requirements are not being met, and allowed a reasonable period to
+    improve their performance with the understanding that unless work
+    performance or attendance is improved, their employment will be
+    terminated. The supervisor should take steps toward improved
+    communication or instruction enabling the student employee to
+    achieve satisfactory performance.
+-   **Written Warning:** If the student\'s work performance continues to
+    fall below required standards, the student should be informed in
+    writing of the unsatisfactory performance.
+-   **Termination:** If, after at least one written warning, the
+    student\'s performance has not improved, the student\'s
+    employment may be terminated.
+:::
+:::
+:::
+:::
+:::
+:::
+
+\
+
+::: {.colophon}
+::: {.container}
+::: {.row}
+::: {.colo-col .colo-1 .col-sm-3}
+### Quick Links
+
+-   [Retirees](/retirees.html "Retirees")
+-   [Students](/students.html "Students")
+-   [EBS Help](/ebshelp/index.html "EBS Help")
+-   [Union Contracts](/contracts/index.html "Union Contracts")
+-   [Employee Toolkits](/toolkits/index.html "Employee Toolkits")
+-   [Source Newsletter](/news/source.html "Source Newsletter")
+-   [Development
+    Courses](/professional-development/courses/index.html "Development Courses")
+-   [Healthcare Reform](/aca/index.html "Healthcare Reform")
+-   [Employment
+    Verifications](/the-work-number/index.html "Employment Verifications")
+:::
+
+::: {.colo-col .colo-2 .col-sm-6}
+### Social Media and Feeds
+
+-   [[ ]{.fa-stack
+    .fa-2x}[Facebook]{.hidden}](https://www.facebook.com/MSUHumanResources/ "MSUHR on Facebook")
+-   [[ ]{.fa-stack
+    .fa-2x}[Twitter]{.hidden}](http://twitter.com/#!/msuhr "MSUHR on Twitter")
+-   [[ ]{.fa-stack .fa-2x}[WordPress
+    Blog]{.hidden}](https://sourcelive.wordpress.com/ "MSUHR Sourcelive")
+
+::: {.twitter-feed}
+[Tweets by msuhr](https://twitter.com/msuhr){.twitter-timeline}
+:::
+:::
+
+::: {.colo-col .colo-3 .col-sm-3}
+### Contacts
+
+-   1407 S. Harrison Road\
+    East Lansing, MI 48823
+-   Phone: 517-353-4434
+-   Toll Free: 800-353-4434
+-   [Email
+    HR](mailto:SolutionsCenter@hr.msu.edu?subject=Website%20Inquiry "Email MSU HR")
+-   [About HR](/about/index.html "About HR ")
+-   [HR Service Directory](/contact/index.html "Service Directory")
+-   [EBS Login](https://secportal.ebsp.msu.edu/ "EBS Login")
+-   [Website Feedback
+    Form](https://msu.co1.qualtrics.com/SE/?SID=SV_3Ojb6kP0oW84jcN&Q_JFE=0 "Website Feedback")
+:::
+:::
+:::
+:::
+
+::: {.footer .msu-footer}
+::: {.container}
+::: {.row}
+::: {.msu-wordmark .footer-col .footer-col-1 .col-sm-3}
+![Michigan State University
+Wordmark](/_resources/hr_assets_rd/images/msu-wordmark-green.png)
+:::
+
+::: {.msu-links .footer-col .footer-col-2 .col-sm-9}
+::: {.msu-site-links}
+-   Call Us: **(517) 353-4434**
+-   [Contact Information](/contact/index.html)
+-   [Privacy Statement](/privacy.html)
+:::
+
+::: {.msu-info}
+-   Call MSU: [**(517) 355-1855**]{.msu-phone}
+-   Visit: **[msu.edu](http://msu.edu)**
+-   [MSU is an affirmative-action, equal-opportunity
+    employer.](http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf "MSU is an affirmative-action, equal-opportunity employer.")
+-   [Notice of
+    Nondiscrimination](http://oie.msu.edu/ "Notice of Nondiscrimination")
+
+<!-- -->
+
+-   Spartans Will.
+-   © Michigan State University
+:::
+:::
+:::
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/student-handbook/Section-Supervisor-responsibilities.pcf)

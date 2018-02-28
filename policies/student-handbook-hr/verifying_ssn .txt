@@ -1,0 +1,90 @@
+---
+title: Verifying SSN for Student Employees
+---
+
+::: {#body}
+Student Handbook
+
+**Verifying SSN for Student Employees**
+
+::: {xmlns=""}
+MSU must verify that student employee earnings turned into
+the [IRS](https://www.irs.gov/ "Internal Revenue Service Main Page") are
+recorded under the correct social security number and name.  In an
+effort to save staff and student time in processing student employees
+for payroll, the following procedures are now in effect:
+:::
+
+**New Student Employees**
+
+::: {xmlns="" style="text-align: left;"}
+If the new student employee has a social security card, the employee
+should be asked to present the social security card. The employee may
+show the card if it is available. Hiring departments may, but are not
+required to, photocopy the social security card if the employee provides
+it. The hiring department must verify in the EBS Portal that the
+student\'s social security number and name are correct/same as on social
+security card.
+
+You will enter the number in the EBS Portal and indicate on the
+form that its been verified.
+
+If the new student employee has a social security number but does not
+have the social security card:
+
+-   The student is given 3 weeks to obtain a duplicate card and may be
+    able to [apply
+    online.](https://www.ssa.gov/ssnumber/ "Social Security Administration Website Apply") Those
+    who cannot apply online must apply in person at the [Social Security
+    Administration
+    Office](https://secure.ssa.gov/ICON/ic001.do#officeResults "Social Security Office Information") located
+    at:
+
+                                                                    
+5210 Perry Robinson Court, Lansing, MI 48911
+
+-   The student must bring their duplicate social security card to the
+    hiring department when its been received, and then fax a copy of the
+    card to Student Employment at  2-3862. If the student does not bring
+    their card within 3 weeks, the student\'s position(s) will be
+    terminated. 
+:::
+
+**International students without Social Security Number - First time
+Hire at the University** \
+The situation with international students continues to change as the
+federal government revises the rules governing international students.
+The Student Employment Office will notify departments when rules change.
+
+::: {xmlns=""}
+-   Complete and print the \"Social Security Letter for F-1 or J-1
+    Students\" form on the [OISS
+    website](http://www.oiss.msu.edu/ "Office for International Students & Scholars").
+    (Follow the \"click here to review\" link).
+-   The student takes the signed \"Social Security Letter for F-1 or J-1
+    Students\" form to OISS and an OISS staff member will sign the form
+    verifying that the student has met enrollment requirements and
+    completed the proper paperwork for employment. (May include
+    completing the I9.)
+-   The student goes to the Social Security Administration with all
+    required paperwork and applies for a Social Security number.
+    International students can apply for a social security number at the
+    Social Security Administration Office after being in the U.S. for 15
+    days. They cannot apply online.
+-   The hiring departments completes the hire in the EBS Portal.  
+-   Once the student has received their social security card, please fax
+    a copy to Student Employment, 2-3862.
+
+ 
+
+NOTE: Departments may not require a student to present their Social
+Security card for the purposes of filling out the I-9 UNLESS
+the student employee is choosing the Social Security Card as one of the
+verifying documents in Section 2.\
+\
+[Go Back to the Student Employment Manual
+Index](/policies-procedures/student-handbook/index.html "Student Employment Manual")
+:::
+:::
+
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=msuhr&site=Home&action=de&path=/policies-procedures/student-handbook/verifying_ssn%20.pcf)
